@@ -45,7 +45,7 @@
 - Rodrigo Paz
 - Edman Lara
 
-## Alianza La Fuerza del Pueblo
+## [Alianza La Fuerza del Pueblo](programas/PROGRAMA-DE-GOBIERNO-ALIANZA-LA-FUERZA-DEL-PUEBLO.md)
 
 - Jhonny Fernández
 - Felipe Quispe
