@@ -25,7 +25,7 @@
 - Jaime Dunn
 - Édgar Uriona
 
-## MAS-IPSP
+## [MAS-IPSP](programas/PROGRAMA-DE-GOBIERNO-MAS-IPSP.md)
 
 - Eduardo del Castillo
 - Milán Berna
