@@ -10,12 +10,12 @@
 - Jorge Quiroga
 - Juan Pablo Velasco
 
-## Alianza Popular
+## [Alianza Popular](programas/PROGRAMA-DE-GOBIERNO-ALIANZA-POPULAR.md)
 
 - Andrónico Rodríguez
 - Mariana Prado
 
-## Alianza Unidad
+## [Alianza Unidad](programas/PROGRAMA-DE-GOBIERNO-ALIANZA-UNIDAD.md)
 
 - Samuel Doria Medina
 - José Luis Lupo
