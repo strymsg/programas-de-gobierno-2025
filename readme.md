@@ -35,7 +35,7 @@
 - Manfred Reyes Villa
 - Juan Carlos Medrano
 
-## Libertad y Progreso
+## [Libertad y Progreso](programas/PROGRAMA-DE-GOBIERNO-LIBERTAD-Y-PROGRESO-ADN.md)
 
 - Paulo Folster
 - Antonio Saravia
