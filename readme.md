@@ -20,7 +20,7 @@
 - Samuel Doria Medina
 - José Luis Lupo
 
-## Nueva Generación Patriótica
+## [Nueva Generación Patriótica](programas/PROGRAMA-DE-GOBIERNO-NUEVA-GENERACION-PATRIOTICA.md)
 
 - Jaime Dunn
 - Édgar Uriona
