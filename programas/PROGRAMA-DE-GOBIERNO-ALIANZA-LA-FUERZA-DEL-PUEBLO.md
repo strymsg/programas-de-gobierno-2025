@@ -534,7 +534,7 @@ Se trata de una fuente energética, pues gracias a los movimientos de las masas 
 1. Las Universidades públicas y privadas a través de sus centros de investigación serán apoyadas económicamente para el desarrollo de energías alternativas por empresas privadas de acuerdo a sus requerimientos de conocimientos en esos campos para mejorar su producción.
 2. Los empresarios que deseen desarrollar investigaciones y lograr emprendimientos que soluciones este tipo de requerimientos serán recibidos placenteramente por el gobierno.
 
-# III. TERCER PILAR FUNDAMENTAL: SALUD "ATENCIÓN DE CALIDAD" 
+## III. TERCER PILAR FUNDAMENTAL: SALUD "ATENCIÓN DE CALIDAD" 
 
 Arancelar todas las prestaciones y auto gestionar el servicio de salud en trabajos compartidos con la salud privada de calidad, así como promover leyes que permitan que tanto profesional como paciente puedan pactar honorarios a pagar.
 
@@ -717,7 +717,7 @@ Fomento a la Investigación Educativa
 
 Generar conocimiento y soluciones innovadoras para los desafios educativos, promoviendo y premiando las innovaciones formadoras
 
-## Acciones:
+#### Acciones:
 
 1. Financiar proyectos de investigación sobre metodologías y prácticas educativas.
 2. Crear centros de innovación educativa en universidades y otras instituciones.
