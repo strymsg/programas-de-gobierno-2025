@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Programas de Gobierno"
+  chapters:
+    - index.md
+    - part: Programas
+      chapters:
+      - programas/morena.md
+      - programas/alianza-libertad-y-democracia.md
+      - programas/alianza-popular.md
+      - programas/alianza-unidad.md
+      - programas/nueva-generacion-patriotica.md
+      - programas/mas-ipsp.md
+      - programas/apb-sumate.md
+      - programas/libertad-y-progreso-adn.md
+      - programas/partido-democrata-cristiano.md
+      - programas/alianza-la-fuerza-del-pueblo.md
+
+format:
+  html:
+    theme: 
+      light: 
+      - cosmo
+      - src/custom.scss
+      dark: 
+      - cosmo
+      - src/custom.scss
+      - src/dark.scss
+    respect-user-color-scheme: true
+    self-contained-math: true
+    number-sections: false
+    toc-depth: 6
+    toc-expand: 2
