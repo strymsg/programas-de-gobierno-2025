@@ -1,6 +1,6 @@
 ---
 title: Libertad y Progreso ADN
-description: Paulo Folster
+description: Pavel Aracena
 image: /src/images/libertad-y-progreso-adn.webp
 title-block-banner: true
 code-links:
