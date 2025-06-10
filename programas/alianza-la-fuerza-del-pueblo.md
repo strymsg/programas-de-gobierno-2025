@@ -1,5 +1,7 @@
 ---
 title: Alianza la Fuerza del Pueblo
+description: Jhonny Fernández
+image: /src/images/alianza-la-fuerza-del-pueblo.webp
 ---
 
 # RESUMEN EJECUTIVO 

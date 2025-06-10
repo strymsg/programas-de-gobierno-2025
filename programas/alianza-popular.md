@@ -1,5 +1,7 @@
 ---
 title: Alianza Popular
+description: Andrónico Rodríguez
+image: /src/images/alianza-popular.webp
 ---
 # 1. VISIÓN 
 

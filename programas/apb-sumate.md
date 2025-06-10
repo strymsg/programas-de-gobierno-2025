@@ -1,5 +1,7 @@
 ---
 title: APB Súmate
+description: Manfred Reyes Villa
+image: /src/images/apb-sumate.webp
 ---
 
 # Transformación Profunda

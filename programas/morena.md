@@ -1,5 +1,7 @@
 ---
 title: MORENA
+description: Eva Copa
+image: /src/images/morena.webp
 ---
 
 ## CONTEXTO ACTUAL

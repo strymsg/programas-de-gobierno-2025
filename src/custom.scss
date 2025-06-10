@@ -1,4 +1,48 @@
 /*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+    font-family: Inter;
+}
+
 #TOC, .sidebar-item {
     opacity: 80%;
+}
+
+.sidebar-item {
+    margin-bottom: .4em;
+    line-height: 1rem;
+    margin-top: .6rem;
+}
+
+.quarto-listing-table {
+    th, th a {
+        font-weight: bold;
+    }
+    td {
+        vertical-align: middle;
+    }
+    .title.listing-title {
+        font-weight: bold;
+    }
+    .listing-description, .listing-word-count {
+        font-size: .8em;
+        opacity: .8;
+    }
+}
+
+.listing-image {
+    border-radius: 25px;
+    border: 5px solid var(--quarto-border-color);
+    height: 50px;
+    width: 50px;
+    display: block;
+    border-radius: 50px;
+    img {
+        object-fit: cover;
+        border-radius: 20px;
+        width: 40px;
+        height: 40px;
+        display: block;
+    }
 }

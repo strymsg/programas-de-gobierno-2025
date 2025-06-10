@@ -1,5 +1,7 @@
 ---
 title: Alianza Libertad y Democracia
+description: Jorge Quiroga
+image: /src/images/alianza-libertad-y-democracia.webp
 ---
 
 # PREÁMBULO

@@ -3,3 +3,8 @@
 $body-bg: #181818;
 $body-color: #ccc;
 $link-color: #75AADB;
+
+/*-- scss:rules --*/
+body {
+    --quarto-border-color: #dee2e645
+}

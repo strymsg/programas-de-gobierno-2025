@@ -1,5 +1,7 @@
 ---
 title: Partido Demócrata Cristiano
+description: Rodrigo Paz
+image: /src/images/partido-democrata-cristiano.webp
 ---
 
 **AGENDA 50/50** 

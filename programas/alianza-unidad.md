@@ -1,5 +1,7 @@
 ---
 title: Alianza Unidad
+description: Samuel Doria Media
+image: /src/images/alianza-unidad.webp
 ---
 
 # 1. Prólogo 

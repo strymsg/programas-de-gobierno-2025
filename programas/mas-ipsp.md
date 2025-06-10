@@ -1,5 +1,7 @@
 ---
 title: MAS-IPSP
+description: Eduardo del Castillo
+image: /src/images/mas-ipsp.webp
 ---
 
 # DE BOLIVIA, POR BOLIVIA, PARA BOLIVIA. MARCO GENERAL DEL PROGRAMA
@@ -341,9 +343,7 @@ De más de 300 municipios, sólo 24 han logrado aprobar su norma institucional b
 
 En este contexto uno de los principales problemas que enfrentan las autonomías indígenas, , refiere a la gestión pública. Actualmente, los gobiernos indígenas se rigen bajo el esquema normativo municipalista, debido a la ausencia de un marco legal con enfoque intercultural inclusivo de otras lógicas al ámbito de la gestión pública, que dé lugar a la lógica que aportan las autonomías indígenas para reconfigurar el Estado
 
-El tema fiscal requiere ser abordado a partir del régimen competencial, en una coyuntura de presupuestos disminuidos, el objetivo de los presupuestos debe centrarse en el
-
-cumplimiento de las competencias que cada nivel tiene y mejorar la atención sobre todo a los sectores más vulnerables, fortaleciendo las capacidades de los gobiernos subnacionales para generar recursos propios.
+El tema fiscal requiere ser abordado a partir del régimen competencial, en una coyuntura de presupuestos disminuidos, el objetivo de los presupuestos debe centrarse en el cumplimiento de las competencias que cada nivel tiene y mejorar la atención sobre todo a los sectores más vulnerables, fortaleciendo las capacidades de los gobiernos subnacionales para generar recursos propios.
 
 Parte de las reivindicaciones históricas de la NyPIOC y en el marco del artículo 306 de la Constitución Política del Estado, es importante consolidar la organización económica entendiendo que un pilar importante de lo plural es la de promover y consolidar la economía comunitaria.
 

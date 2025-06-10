@@ -15,9 +15,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Set up repo
-        run: cp readme.md index.md
         
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2

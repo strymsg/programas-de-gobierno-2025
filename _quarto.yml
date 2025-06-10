@@ -3,6 +3,8 @@ project:
 
 book:
   title: "Programas de Gobierno"
+  site-url: https://mauforonda.github.io/programas-de-gobierno-2025
+  favicon: /src/images/favicon.png
   chapters:
     - index.md
     - part: Programas
@@ -17,6 +19,8 @@ book:
       - programas/libertad-y-progreso-adn.md
       - programas/partido-democrata-cristiano.md
       - programas/alianza-la-fuerza-del-pueblo.md
+
+lang: es
 
 format:
   html:

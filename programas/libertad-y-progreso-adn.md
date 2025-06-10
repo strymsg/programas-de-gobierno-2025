@@ -1,5 +1,7 @@
 ---
 title: Libertad y Progreso ADN
+description: Paulo Folster
+image: /src/images/libertad-y-progreso-adn.webp
 ---
 
 Este documento resume la propuesta de plan de gobierno que la alianza Libertad y Progresu ADN propone para Bolivia.
