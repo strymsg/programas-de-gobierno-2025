@@ -2,9 +2,18 @@ project:
   type: book
 
 book:
-  title: "Programas de Gobierno"
+  title: "Programas de Gobierno 2025"
   site-url: https://mauforonda.github.io/programas-de-gobierno-2025
   favicon: /src/images/favicon.png
+  twitter-card: true
+  page-navigation: false
+  navbar:
+    logo: /src/images/favicon.png
+    background: "#fff"
+    search: true
+  search: 
+    location: navbar
+    type: overlay
   chapters:
     - index.md
     - part: Programas
@@ -36,4 +45,4 @@ format:
     self-contained-math: true
     number-sections: false
     toc-depth: 6
-    toc-expand: 2
+    toc-expand: 1

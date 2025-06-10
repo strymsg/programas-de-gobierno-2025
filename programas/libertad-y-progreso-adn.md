@@ -2,6 +2,11 @@
 title: Libertad y Progreso ADN
 description: Paulo Folster
 image: /src/images/libertad-y-progreso-adn.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/libertad-y-progreso-adn.md
 ---
 
 Este documento resume la propuesta de plan de gobierno que la alianza Libertad y Progresu ADN propone para Bolivia.

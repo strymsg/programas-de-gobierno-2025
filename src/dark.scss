@@ -8,3 +8,23 @@ $link-color: #75AADB;
 body {
     --quarto-border-color: #dee2e645
 }
+
+.quarto-title-banner h1, .quarto-title-banner .description, .quarto-title-banner .breadcrumb-item a {
+    color: white;
+}
+
+.navbar, .quarto-title-banner.page-columns.page-full {
+    background: linear-gradient(54deg, rgba(36, 35, 35, 0.6) 0, rgba(55, 57, 79, 0.52) 67%, rgba(64, 47, 40, 0.6) 100%)
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item.search-result-more, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-section, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-text, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-title-container, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-text-container, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item.search-result-more, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-section, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-text, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-title-container, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-text-container {
+    background-color: #2a324a;
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item mark.search-match, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-match.mark, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item mark.search-match, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-match.mark {
+    background-color: rgba(22, 84, 230, 0.55);
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="false"] .search-item mark.search-match, .aa-DetachedOverlay li.aa-Item[aria-selected="false"] .search-item .search-match.mark, #quarto-search-results li.aa-Item[aria-selected="false"] .search-item mark.search-match, #quarto-search-results li.aa-Item[aria-selected="false"] .search-item .search-match.mark {
+    background-color: rgba(22, 84, 230, 0.33);
+}

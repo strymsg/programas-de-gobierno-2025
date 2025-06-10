@@ -1,3 +1,7 @@
+/*-- scss:defaults --*/
+// Base document colors
+$link-color: #6356cb;
+
 /*-- scss:rules --*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
@@ -5,8 +9,48 @@ body {
     font-family: Inter;
 }
 
-#TOC, .sidebar-item {
-    opacity: 80%;
+.navbar, .quarto-title-banner.page-columns.page-full {
+    background: linear-gradient(54deg, rgba(253, 248, 251, 0.6) 0, rgba(234, 236, 247, 0.6) 67%, rgba(255, 234, 226, 0.6) 100%);
+    backdrop-filter: blur(2px);
+}
+
+#TOC a, .sidebar-item-text {
+    opacity: 60%;
+}
+
+#title-block-header {
+    margin-top: 0;
+}
+
+.navbar-title {
+    opacity: .7;
+}
+
+.nav-link.active, .sidebar-link.active {
+    opacity: 1 !important;
+}
+
+#toc-title {
+    display: none;
+}
+
+.navbar-brand {
+    font-size: .8rem;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    width: 20px;
+    height: 20px;
+}
+
+#quarto-document-content {
+    h1 {
+      margin-top: 0;  
+    }
+}
+
+.margin-sidebar {
+    margin-top: 1rem;
 }
 
 .sidebar-item {
@@ -45,4 +89,12 @@ body {
         height: 40px;
         display: block;
     }
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item.search-result-more, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-section, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-text, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-title-container, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-result-text-container, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item.search-result-more, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-section, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-text, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-title-container, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-result-text-container {
+    background-color: #a6bdd5;
+}
+
+.aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item mark.search-match, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-match.mark, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item mark.search-match, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-match.mark {
+    background-color: rgba(73, 93, 123, 0.39);
 }

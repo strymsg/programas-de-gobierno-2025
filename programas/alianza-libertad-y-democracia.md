@@ -2,6 +2,11 @@
 title: Alianza Libertad y Democracia
 description: Jorge Quiroga
 image: /src/images/alianza-libertad-y-democracia.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/alianza-libertad-y-democracia.md
 ---
 
 # PREÁMBULO

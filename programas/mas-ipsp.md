@@ -2,6 +2,11 @@
 title: MAS-IPSP
 description: Eduardo del Castillo
 image: /src/images/mas-ipsp.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/mas-ipsp.md
 ---
 
 # DE BOLIVIA, POR BOLIVIA, PARA BOLIVIA. MARCO GENERAL DEL PROGRAMA

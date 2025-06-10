@@ -2,6 +2,11 @@
 title: APB Súmate
 description: Manfred Reyes Villa
 image: /src/images/apb-sumate.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/apb-sumate.md
 ---
 
 # Transformación Profunda

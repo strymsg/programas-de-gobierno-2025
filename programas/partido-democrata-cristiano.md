@@ -2,6 +2,11 @@
 title: Partido Demócrata Cristiano
 description: Rodrigo Paz
 image: /src/images/partido-democrata-cristiano.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/partido-democrata-cristiano.md
 ---
 
 **AGENDA 50/50** 

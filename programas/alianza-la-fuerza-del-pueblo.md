@@ -2,6 +2,11 @@
 title: Alianza la Fuerza del Pueblo
 description: Jhonny Fernández
 image: /src/images/alianza-la-fuerza-del-pueblo.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/alianza-la-fuerza-del-pueblo.md
 ---
 
 # RESUMEN EJECUTIVO 

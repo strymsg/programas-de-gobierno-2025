@@ -2,7 +2,13 @@
 title: Alianza Popular
 description: Andrónico Rodríguez
 image: /src/images/alianza-popular.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/alianza-popular.md
 ---
+
 # 1. VISIÓN 
 
 Bolivia se encuentra nuevamente ante una encrucijada histórica. A casi veinte años del inicio del proceso de cambio, después de una etapa de profundas transformaciones económicas, sociales y culturales, el país enfrenta nuevos desafios que exigen respuestas audaces, responsables y profundamente humanas.

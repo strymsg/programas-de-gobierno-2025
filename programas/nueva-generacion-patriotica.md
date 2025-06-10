@@ -2,6 +2,11 @@
 title: Nueva Generación Patriótica
 description: Jaime Dunn
 image: /src/images/nueva-generacion-patriotica.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/nueva-generacion-patriotica.md
 ---
 Bolivia sufre un colapso sistémico: la economía está quebrada, el sistema judicial es un instrumento de impunidad y persecución, el narcotráfico ha tomado el control de regiones enteras como el Chapare, y el Estado ha sido convertido en un botín de facciones políticas. Nuestro Estado está atrapado en un ciclo de corrupción, desinstitucionalización, un intervencionismo nocivo en la economía y la sociedad, y una alta dependencia en la explotación de los recursos naturales. Vivimos bajo un régimen autoritario que ha destruido la democracia, aniquilado la inversión, criminalizado la disidencia y saqueado los recursos del país.
 

@@ -2,6 +2,11 @@
 title: MORENA
 description: Eva Copa
 image: /src/images/morena.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/morena.md
 ---
 
 ## CONTEXTO ACTUAL
@@ -757,7 +762,7 @@ Durante las últimas décadas, Bolivia ha tenido una presencia relevante en foro
 
 Frente a esta realidad, es necesario relanzar una diplomacia soberana, activa y coherente, que articule los intereses nacionales con las luchas globales por un orden más justo, plural y multipolar. La diplomacia boliviana debe ser instrumento de integración regional, defensa de los bienes comunes, promoción de los derechos humanos y construcción de una paz con justicia.
 
-# Objetivo: 
+**Objetivo**
 
 Reconstruir la diplomacia amplia, soberana, descolonizadora y al servicio de los pueblos.
 Propuestas:

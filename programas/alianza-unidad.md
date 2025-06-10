@@ -2,6 +2,11 @@
 title: Alianza Unidad
 description: Samuel Doria Media
 image: /src/images/alianza-unidad.webp
+title-block-banner: true
+code-links:
+      - text: Markdown
+        icon: markdown
+        href: https://github.com/mauforonda/programas-de-gobierno-2025/blob/main/programas/alianza-unidad.md
 ---
 
 # 1. Prólogo 

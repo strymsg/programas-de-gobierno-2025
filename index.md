@@ -20,3 +20,5 @@ Transcripciones de los [programas de gobierno](https://www.oep.org.bo/elecciones
 :::
 
 Puedes consultar versiones de texto plano en [github](https://github.com/mauforonda/programas-de-gobierno-2025).
+
+Realizado por Mauricio Foronda.
