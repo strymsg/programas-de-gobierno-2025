@@ -1,6 +1,6 @@
 /*-- scss:defaults --*/
 // Base document colors
-$link-color: #6356cb;
+$link-color: rgb(108, 114, 201);
 
 /*-- scss:rules --*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -20,6 +20,10 @@ body {
 
 #TOC a, .sidebar-item-text {
     opacity: 60%;
+}
+
+tr, td {
+    border-style: dotted;
 }
 
 #title-block-header {

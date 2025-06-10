@@ -7,6 +7,7 @@ listing:
     field-display-names:
         title: "Partido"
         description: "Candidato"
+        word-count: "Palabras"
     sort: "word-count asc"
     fields: [image, title, description, word-count]
     table-hover: true
