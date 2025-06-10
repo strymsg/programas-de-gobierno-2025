@@ -1,7 +1,7 @@
 ---
 title: Nueva Generación Patriótica
 description: Jaime Dunn
-image: /src/images/nueva-generacion-patriotica.webp
+image: /src/images/nueva-generacion-patriotica.jpg
 title-block-banner: true
 code-links:
       - text: Markdown
