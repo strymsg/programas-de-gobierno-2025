@@ -14,6 +14,10 @@ body {
     backdrop-filter: blur(2px);
 }
 
+.quarto-secondary-nav {
+    display: none;
+}
+
 #TOC a, .sidebar-item-text {
     opacity: 60%;
 }
