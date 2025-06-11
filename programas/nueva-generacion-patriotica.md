@@ -1,7 +1,7 @@
 ---
 title: Nueva Generación Patriótica
-description: Jaime Dunn
-image: /src/images/nueva-generacion-patriotica.jpg
+description: Fidel Tapia
+image: /src/images/nueva-generacion-patriotica.webp
 title-block-banner: true
 code-links:
       - text: Markdown
