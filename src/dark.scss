@@ -1,12 +1,14 @@
 /*-- scss:defaults --*/
-// Base document colors
 $body-bg: #181818;
 $body-color: #ccc;
-$link-color: #75AADB;
 
 /*-- scss:rules --*/
-body {
-    --quarto-border-color: #dee2e645
+body, nav.sidebar {
+    background: #1a1919
+}
+
+#title-block-header .chapter-title {
+    text-shadow: 1px 1px 3px rgba(255, 255, 255, .6);
 }
 
 .quarto-title-banner h1, .quarto-title-banner .description, .quarto-title-banner .breadcrumb-item a {

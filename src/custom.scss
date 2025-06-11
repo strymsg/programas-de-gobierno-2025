@@ -1,6 +1,5 @@
 /*-- scss:defaults --*/
-// Base document colors
-$link-color: rgb(108, 114, 201);
+$link-color: #616fbdf5;
 
 /*-- scss:rules --*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -16,10 +15,6 @@ body {
 
 .quarto-secondary-nav {
     display: none;
-}
-
-#TOC a, .sidebar-item-text {
-    opacity: 60%;
 }
 
 tr, td {
@@ -67,22 +62,6 @@ tr, td {
     margin-top: .6rem;
 }
 
-.quarto-listing-table {
-    th, th a {
-        font-weight: bold;
-    }
-    td {
-        vertical-align: middle;
-    }
-    .title.listing-title {
-        font-weight: bold;
-    }
-    .listing-description, .listing-word-count {
-        font-size: .8em;
-        opacity: .8;
-    }
-}
-
 .listing-image {
     border-radius: 25px;
     border: 5px solid var(--quarto-border-color);
@@ -105,4 +84,81 @@ tr, td {
 
 .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item mark.search-match, .aa-DetachedOverlay li.aa-Item[aria-selected="true"] .search-item .search-match.mark, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item mark.search-match, #quarto-search-results li.aa-Item[aria-selected="true"] .search-item .search-match.mark {
     background-color: rgba(73, 93, 123, 0.39);
+}
+
+
+.quarto-listing-table {
+    border: none;
+    thead {
+        box-shadow: 0px 2px 8px 0px rgba(60, 64, 67, 0.25);
+        border-radius: 5px;
+        border-bottom: none;
+        th {
+            border-width: 0;
+        }
+    }
+    td {
+        border-bottom-color: rgba(57, 57, 57, 0.35);
+    }
+    th, th a {
+        font-weight: bold;
+    }
+    td {
+        vertical-align: middle;
+    }
+    .title.listing-title {
+        font-weight: bold;
+    }
+    .listing-description, .listing-word-count {
+        font-size: .8em;
+        opacity: .8;
+    }
+}
+
+.quarto-title {
+    h1 {
+        font-size: 3rem;
+        margin: 5px 0 15px 0;
+    }
+}
+
+.quarto-listing {
+    margin: 40px 0;
+}
+
+@media (min-width: 992px) {
+    .sidebar-item-text {
+        font-size: .7rem;
+        opacity: .5;
+    }
+    #quarto-sidebar-section-1 .sidebar-item-text {
+        opacity: 1;
+    }
+}
+
+.nav-link {
+    font-size: .7rem;
+    opacity: .5;
+}
+
+body, nav.sidebar {
+    background: #fffefe
+}
+
+.sidebar nav[role="doc-toc"] > ul a {
+    border-left: 0;
+}
+
+#title-block-header .chapter-title {
+    text-shadow: 1px 1px 3px rgba(113, 113, 113, 0.6);
+}
+
+tbody::before {
+    line-height: 1em;
+    content: "\200C";
+    display: block;
+}
+
+.breadcrumb {
+    display: none;
 }

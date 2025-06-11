@@ -32,6 +32,12 @@ book:
       - programas/libertad-y-progreso-adn.md
       - programas/partido-democrata-cristiano.md
       - programas/alianza-la-fuerza-del-pueblo.md
+  sidebar:
+    style: docked
+    border: false
+    contents:
+      - text: "morena"
+        href: programas/morena.md
 
 lang: es
 
