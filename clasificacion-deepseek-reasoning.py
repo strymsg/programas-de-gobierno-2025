@@ -86,7 +86,7 @@ if __name__ == "__main__":
         
         response = evaluate_alignment(
             government_plan['content'],
-            government_plan['name'],
+            prog_gobierno,
             statements_document)
 
         print("--------- respuesta -----------------------------------")
@@ -106,7 +106,7 @@ if __name__ == "__main__":
             # TODO: revisar por que al json de respuesta le falta un [ al inicio
             response_json = json.loads(f'[ {response.choices[0].message.content}')
             save_government_plan_evaluations(
-                government_plan['name'],
+                prog_gobierno,
                 response_json, as_json=True)
         except Exception as E:
             print(f"No se pudo guardar como json {government_plan['name']}")
