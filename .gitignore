@@ -1,0 +1,10 @@
+secrets.txt
+
+# emacs temps
+*~
+.*
+\#
+
+# python compiled and db files if exists
+*.pyc
+*.db
