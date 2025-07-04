@@ -1,0 +1,105 @@
+{
+  "government_plan_name": "alianza-libertad-y-democracia.md",
+  "evaluations": [
+    {
+      "statement_name": "Compromiso con energías renovables",
+      "alignment_score": 90,
+      "justification": "El plan gubernamental en II.1.1 y II.2.1 promueve explícitamente el cambio de matriz energética hacia fuentes renovables (hidroeléctrica, eólica, solar, geotérmica), con el objetivo de alcanzar un 50% de generación renovable. Se alinea con la inversión en energías limpias y reducción de dependencia de hidrocarburos."
+    },
+    {
+      "statement_name": "Cambio del modelo agro productivo",
+      "alignment_score": 95,
+      "justificación": "El plan en II.2.2 propone diversificación de cultivos, incentivos para agricultura orgánica y sostenible, priorización de plantas nativas, y proyectos de riego tecnificado. Coincide directamente con la reducción de monocultivos y valor agregado en producción agrícola."
+    },
+    {
+      "statement_name": "Regulación y diversificación del sector ganadero",
+      "alignment_score": 70,
+      "justificación": "Aunque el plan menciona protección animal en VI.11, no aborda específicamente regulación ganadera, diversificación de especies como camélidos, o redes de distribución. Existe alineación parcial en políticas de seguridad alimentaria y control de exportaciones."
+    },
+    {
+      "statement_name": "Compromiso con la reducción de la deforestación",
+      "alignment_score": 100,
+      "justificación": "VI.9 del plan establece políticas estrictas contra deforestación, incentivos de reforestación industrial, combate a incendios forestales y creación de bonos de carbono. Coincide plenamente con leyes de protección forestal y sistemas de alerta temprana."
+    },
+    {
+      "statement_name": "Lucha contra la minería ilegal",
+      "alignment_score": 85,
+      "justificación": "II.2.4 enfatiza la erradicación de minería ilegal, fortalecimiento de controles estatales y cumplimiento ambiental. El plan propone supervisión activa y sanciones, alineándose con auditorías y patrullas de control mencionadas."
+    },
+    {
+      "statement_name": "Protección al medio ambiente",
+      "alignment_score": 95,
+      "justificación": "VI.9 detalla protección de áreas naturales, endurecimiento de penas por daño ambiental y combate al tráfico de especies. El plan aborda directamente la revisión de leyes ambientales y evaluación de ecosistemas propuestas."
+    },
+    {
+      "statement_name": "Economía circular y procesamiento de residuos",
+      "alignment_score": 90,
+      "justificación": "VI.9 promueve las 4R (reducción, reutilización, reciclaje, recuperación), incentivos para economía circular y tratamiento de residuos para abonos orgánicos. Existe fuerte alineación en inversión en plantas de reciclaje y sanciones a infractores."
+    },
+    {
+      "statement_name": "Industrialización de materias primas",
+      "alignment_score": 80,
+      "justificación": "II.2.3 y II.2.4 priorizan agregar valor a recursos como litio y minerales mediante industrialización local y zonas francas. El plan critica el modelo extractivista y promueve manufactura, aunque sin detallar mecanismos específicos de incentivos."
+    },
+    {
+      "statement_name": "Independencia de poderes",
+      "alignment_score": 100,
+      "justificación": "V.5.3 del plan exige reformas para garantizar independencia judicial, transparencia en selección de magistrados y controles ciudadanos. Coincide plenamente con la separación de poderes y mecanismos anti-intervencionismo."
+    },
+    {
+      "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+      "alignment_score": 40,
+      "justificación": "El plan no menciona colaboración con la DEA. En VII, prioriza cooperación con organismos internacionales democráticos, mostrando escepticismo hacia injerencias. Existe baja alineación debido a la postura crítica del plan frente a intervenciones extranjeras."
+    },
+    {
+      "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+      "alignment_score": 95,
+      "justificación": "VII promueve acuerdos comerciales con EE.UU., UE y aliados democráticos, atrayendo inversiones y reinsertándose internacionalmente. El plan rechaza alineación con regímenes autoritarios, alineándose con la apertura al bloque occidental."
+    },
+    {
+      "statement_name": "Política exterior con el Bloque Oriental",
+      "alignment_score": 20,
+      "justificación": "VII enfatiza distanciamiento de dictaduras como Venezuela, Cuba y Nicaragua, priorizando relaciones con democracias. El plan no promueve alianzas militares o económicas con el bloque oriental socialista, mostrando baja alineación."
+    },
+    {
+      "statement_name": "Política exterior neutral",
+      "alignment_score": 75,
+      "justificación": "VII busca relaciones con todos los países sin comprometer soberanía, evitando injerencias. Coincide en rechazo a bases militares extranjeras, pero el plan tiene preferencia por democracias occidentales, reduciendo neutralidad estricta."
+    },
+    {
+      "statement_name": "Recuperación de cultura ancestral y saberes locales",
+      "alignment_score": 30,
+      "justificación": "El plan en VI.6.1 critica la educación actual pero no menciona incorporación de lenguas originarias o saberes ancestrales. Existe baja alineación, ya que no prioriza currículas interculturales o proyectos de revitalización cultural."
+    },
+    {
+      "statement_name": "Economía liberal o anarco capitalista",
+      "alignment_score": 65,
+      "justificación": "El plan en I y II promueve atracción de inversión privada y reducción de burocracia, pero rechaza etiquetas ideológicas (derecha/izquierda). No aboga paraísos fiscales o reducción estatal extrema, mostrando alineación parcial en facilitación empresarial."
+    },
+    {
+      "statement_name": "Estado proteccionista contra los migrantes",
+      "alignment_score": 10,
+      "justificación": "El plan no aborda políticas migratorias. En VII, prioriza relaciones internacionales inclusivas, sin indicar restricciones a migrantes. No existe mención a discursos excluyentes, resultando en mínima alineación."
+    },
+    {
+      "statement_name": "Igualdad de género",
+      "alignment_score": 90,
+      "justificación": "VI.6.4 detalla programas para autonomía económica femenina, combate a violencia de género y participación en cargos de decisión. Coincide en priorizar reducción de feminicidios, aunque no menciona explícitamente a la comunidad LGBT."
+    },
+    {
+      "statement_name": "Desarrollo de ciencia y tecnología soberana",
+      "alignment_score": 85,
+      "justificación": "IV (Bolivia Digital) promueve tecnologías libres, criptomonedas y desarrollo de nubes locales. El plan incentiva startups y rechaza dependencias externas, alineándose con software libre y estándares abiertos propuestos."
+    },
+    {
+      "statement_name": "Mejoramiento del sistema de salud",
+      "alignment_score": 95,
+      "justificación": "VI.6.2 propone digitalización, descentralización, inversión en infraestructura médica y acceso a medicamentos. Coincide plenamente en prevención de enfermedades, fondos de emergencia y atención a trabajadores de salud."
+    },
+    {
+      "statement_name": "Reducción del gasto estatal",
+      "alignment_score": 100,
+      "justificación": "I.1.3 del plan prioriza reducir ministerios a 12, eliminar entidades innecesarias y recortar gasto burocrático. Detalla estimaciones cuantitativas para déficit fiscal, alineándose completamente con la restructuración y eficiencia propuestas."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "government_plan_name": "alianza-libertad-y-democracia.md",
+  "evaluations": [
+    {
+      "statement_name": "Compromiso con energías renovables",
+      "alignment_score": 90,
+      "justification": "El plan gubernamental propone explícitamente incentivar inversiones en energías renovables (eólica, solar, geotérmica) para modificar la matriz energética hacia un 50% de fuentes renovables (II.2.1). Además, menciona la creación de zonas francas para fabricación de baterías de litio, alineándose con el objetivo de reducir dependencia de hidrocarburos."
+    },
+    {
+      "statement_name": "Cambio del modelo agro productivo",
+      "alignment_score": 85,
+      "justification": "El plan promueve la diversificación agrícola, incentivos para cultivos sostenibles y producción ecológica (II.2.2). Coincide con la reducción de monocultivos mediante políticas estrictas contra deforestación y apoyo a plantas nativas, aunque no menciona impuestos específicos a monocultivos."
+    },
+    {
+      "statement_name": "Regulación y diversificación del sector ganadero",
+      "alignment_score": 70,
+      "justification": "El plan aborda fortalecimiento de redes de distribución y seguridad alimentaria (II.2.2), pero no profundiza en regulación ganadera específica o diversificación camélida. La mención a acuerdos comerciales (II.2.5) podría facilitar exportaciones, pero sin detalles concretos sobre control de exportaciones."
+    },
+    {
+      "statement_name": "Compromiso con la reducción de la deforestación",
+      "alignment_score": 95,
+      "justification": "El plan prioriza revertir la deforestación mediante revisión de marcos legales, sistemas de alerta temprana, reforestación industrial y endurecimiento de sanciones (VI.6.8). Propone explícitamente 'detener e incrementar la forestación' y bonos de carbono, alineándose plenamente."
+    },
+    {
+      "statement_name": "Lucha contra la minería ilegal",
+      "alignment_score": 90,
+      "justification": "El plan exige eliminar la minería ilegal, fortalecer controles estatales y garantizar cumplimiento ambiental (II.2.4). Incluye auditorías y supervisión, aunque no especifica creación de fuerzas conjuntas con apoyo militar."
+    },
+    {
+      "statement_name": "Protección al medio ambiente",
+      "alignment_score": 85,
+      "justification": "Coincide con el endurecimiento de penas por daños ambientales, protección de áreas naturales y combate al tráfico de especies (VI.6.8). El plan propone incorporar educación ambiental en currículas, pero no detalla revisión de leyes específicas como 'derechos de la madre tierra'."
+    },
+    {
+      "statement_name": "Economía circular y procesamiento de residuos",
+      "alignment_score": 80,
+      "justification": "El plan promueve las 4Rs (reducir, reutilizar, reciclar, recuperar), reciclaje inclusivo y tratamiento de residuos para abonos orgánicos (VI.6.8). Ofrece incentivos a emprendimientos verdes, aunque no especifica sanciones a infractores o plantas de acopio."
+    },
+    {
+      "statement_name": "Industrialización de materias primas",
+      "alignment_score": 75,
+      "justification": "El plan critica el modelo extractivista y prioriza industrialización con valor agregado, especialmente en litio (II.2.3). Propone incentivos tributarios y alianzas público-privadas (II.2.8), pero no desarrolla una estrategia clara para convertir a Bolivia en potencia industrial."
+    },
+    {
+      "statement_name": "Independencia de poderes",
+      "alignment_score": 95,
+      "justification": "El plan enfatiza independencia judicial, reformas para evitar interferencias entre poderes y control ciudadano mediante transparencia digital (V.5.2, V.5.3). Incluye mecanismos para denunciar injerencias y fortalecer la rendición de cuentas."
+    },
+    {
+      "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+      "alignment_score": 40,
+      "justification": "El plan propone combatir narcotráfico con instituciones nacionales y cooperación internacional (V.5.4), pero rechaza explícitamente intervencionismo. No menciona colaboración con la DEA y enfatiza soberanía, alineándose parcialmente solo en el rechazo a injerencias."
+    },
+    {
+      "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+      "alignment_score": 60,
+      "justification": "El plan busca acuerdos comerciales con EE.UU. y la UE (II.2.5, VII), pero rechaza bases militares o concesiones que comprometan soberanía. Promueve relaciones con democracias occidentales, aunque sin alineamiento explícito con la OTAN o inmunidades diplomáticas indiscriminadas."
+    },
+    {
+      "statement_name": "Política exterior con el Bloque Oriental",
+      "alignment_score": 30,
+      "justification": "El plan rechaza alinearse con regímenes autoritarios como Venezuela o Cuba (VII) y prioriza relaciones con democracias. Aunque menciona cooperación con China/Rusia en comercio, no promueve acuerdos militares o alianzas ideológicas con el bloque socialista, reduciendo alineamiento."
+    },
+    {
+      "statement_name": "Política exterior neutral",
+      "alignment_score": 85,
+      "justification": "El plan propone relaciones basadas en respeto mutuo y soberanía, sin alineamientos ideológicos (VII). Busca acuerdos comerciales con todos los países, pero rechaza injerencias o bases militares, coincidiendo plenamente con una política exterior equilibrada y no intervencionista."
+    },
+    {
+      "statement_name": "Recuperación de cultura ancestral y saberes locales",
+      "alignment_score": 50,
+      "justification": "El plan menciona educación con enfoque regional (VI.6.1), pero no desarrolla integración de saberes ancestrales, lenguas originarias o proyectos culturales específicos. La referencia a diversidad es genérica, limitando alineamiento con recuperación cultural profunda."
+    },
+    {
+      "statement_name": "Economía liberal o anarco capitalista",
+      "alignment_score": 65,
+      "justification": "El plan promueve atracción de inversiones, reducción de trámites y acuerdos comerciales (I.1.5, II.2.8), pero mantiene un rol estatal fuerte en regulación y protección social. Rechaza paraísos fiscales y prioriza soberanía, distanciándose de modelos anarco-capitalistas."
+    },
+    {
+      "statement_name": "Estado proteccionista contra los migrantes",
+      "alignment_score": 20,
+      "justificación": "El plan no aborda políticas migratorias restrictivas. Su enfoque en generación de empleo (I.1.7) es para bolivianos, pero sin discursos excluyentes. No hay menciones a control migratorio o penalización, mostrando mínima alineación."
+    },
+    {
+      "statement_name": "Igualdad de género",
+      "alignment_score": 90,
+      "justification": "El plan incluye un capítulo específico (VI.6.4) con políticas para autonomía económica femenina, combate de violencia de género, programas de emprendimiento y paridad política. Coincide con reducción de feminicidios y participación en cargos decisorios."
+    },
+    {
+      "statement_name": "Desarrollo de ciencia y tecnología soberana",
+      "alignment_score": 80,
+      "justification": "El plan impulsa tecnología soberana mediante Bolivia Digital (IV), uso de blockchain y promoción de startups. Fomenta estándares abiertos y reducción de dependencias externas, aunque no menciona explícitamente software libre o licencias permisivas en agricultura/medicina."
+    },
+    {
+      "statement_name": "Mejoramiento del sistema de salud",
+      "alignment_score": 95,
+      "justification": "El plan detalla digitalización, descentralización, salud materno-infantil y mental (VI.6.2). Propone facilitar importación de medicamentos, inversión en infraestructura y fondos de emergencia, alineándose plenamente con las mejoras estructurales propuestas."
+    },
+    {
+      "statement_name": "Reducción del gasto estatal",
+      "alignment_score": 90,
+      "justification": "El plan prioriza reducir ministerios a 12, eliminar entidades innecesarias, recortar gasto corriente y combatir corrupción para disminuir el déficit fiscal (I.1.3). Incluye estimaciones cuantitativas (10-15% de ahorros) y mecanismos de transparencia para justificar recortes."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+   {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 85,
+    "justification": "El plan gubernamental prioriza la diversificación energética mediante inversiones en energías alternativas como solar, eólica y baterías de litio (Objetivo Estratégico 2 y Planificación 2025-2030). Incluye incentivos para inversiones extranjeras y desarrollo tecnológico, alineándose con la generación eléctrica renovable y reducción de dependencia de combustibles fósiles."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 70,
+    "justification": "El plan fomenta el uso de biotecnología y valor agregado en agricultura (Eje 9), con énfasis en exportaciones e infraestructura logística. Sin embargo, no aborda explícitamente reducción de monocultivos, cultivos orgánicos o impuestos específicos, limitando la alineación completa."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 40,
+    "justification": "El plan menciona desarrollo agrícola general (Eje 9) pero carece de enfoque en ganadería, camelidos o redes de distribución específicas. La priorización de abastecimiento nacional ante exportaciones no se detalla, mostrando alineación parcial."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 25,
+    "justificación": "El plan no aborda directamente deforestación, incendios forestales o reforestación. Su enfoque en recursos naturales (Pilar 2) es energético, no forestal, con mínima referencia a sostenibilidad ambiental."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 35,
+    "justificación": "El plan promueve seguridad jurídica para inversiones mineras (Eje 2) pero no menciona auditorías, controles específicos o combate a minería ilegal. La referencia a minería se centra en desarrollo económico, no regulación de actividades ilícitas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 30,
+    "justificación": "El plan incluye energías sostenibles (Pilar 2) pero omite protección ambiental amplia, penalización de infractores o tráfico de especies. No hay mención de leyes de Madre Tierra o evaluación de ecosistemas, limitando alineación."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 20,
+    "justificación": "El plan no aborda economía circular, reciclaje o tratamiento de residuos. Su enfoque en nuevos ingresos (Eje 6) y desarrollo agroindustrial no incluye iniciativas verdes o sanciones por desechos."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 90,
+    "justificación": "El plan prioriza valor agregado e industrialización (Eje 9 y Eje 30), con incentivos tributarios para inversión privada (Eje 10) y crítica al modelo extractivista. Propone convertir a Bolivia en potencia industrial mediante alianzas público-privadas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 95,
+    "justificación": "El plan enfatiza reforma constitucional hacia un estado federal (Eje 30) con separación de poderes, reducción de intervencionismo estatal y transparencia. Coincide con garantías ciudadanas contra injerencias entre órganos del estado."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 0,
+    "justificación": "El plan no menciona colaboración con agencias extranjeras como la DEA, narcotráfico o corrupción relacionada. Su enfoque en seguridad (Pilar 1) es económico, no antidrogas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 75,
+    "justificación": "El plan promueve diplomacia productiva (Eje 8) y atracción de inversiones extranjeras (Eje 13), alineándose con acuerdos comerciales y cooperación. Sin embargo, no especifica alineación con bloques occidentales o bases militares."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 75,
+    "justificación": "Similar al anterior, el plan fomenta inversiones globales (Eje 13) sin distinción de bloques. Apertura a BRICS y cooperación económica coincide, pero no menciona alianzas militares o preferencias orientales explícitas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 85,
+    "justificación": "El plan aboga por relaciones pragmáticas para inversiones (Eje 8 y 13), evitando riesgos a soberanía. Coincide con cooperación sin injerencia, aunque no rechaza explícitamente bases militares o inmunidad diplomática."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 80,
+    "justificación": "El plan incluye equidad cultural en su visión (Introducción) y educación en lenguas originarias (Eje 28). Fomenta participación comunitaria y revalorización de saberes, aunque con menos detalle en medicina o cosmovisión ancestral."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 90,
+    "justificación": "El plan impulsa liberalización económica, reducción de impuestos (Eje 3), flexibilización laboral (Eje 16) y atracción de inversión privada (Eje 12). Alinea con acuerdos de libre comercio y disminución del estado, aunque no menciona paraísos fiscales."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justificación": "El plan no aborda políticas migratorias, enfoque en empleo para bolivianos o restricciones a migrantes. Su misión prioriza oportunidades locales pero sin discurso excluyente."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 60,
+    "justificación": "El plan menciona equidad de género en su visión (Introducción) pero carece de programas específicos para mujeres en cargos decisorios, reducción de feminicidios o protección LGBT. Alineación parcial por principios generales."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 65,
+    "justificación": "El plan promueve tecnología y digitalización estatal (Eje 1) e investigación en salud/educación (Ejes 22, 29). Sin embargo, no enfatiza soberanía tecnológica, software libre o rechazo a patentes, limitando alineación."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 95,
+    "justificación": "El plan dedica un pilar completo a salud (Pilar 3) con ejes de reforma, infraestructura, acceso universal e investigación (Ejes 18-23). Incluye inversión en tecnología, formación de personal y fondos de emergencia, alineándose estrechamente."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 100,
+    "justificación": "El plan prioriza austeridad fiscal (Eje 16), reducción de ministerios (Eje 1), simplificación de trámites y lucha contra la burocracia. Detalla estimaciones cuantitativas y reestructuración del aparato estatal, alineándose completamente."
+  }
+]

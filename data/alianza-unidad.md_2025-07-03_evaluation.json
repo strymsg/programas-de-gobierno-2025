@@ -1,0 +1,122 @@
+[
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 90,
+    "justification": "El plan promueve una transición energética con energías renovables (solar, eólica, hidroeléctrica, biomasa) para alcanzar un 45% de generación eléctrica limpia al 2030, junto con incentivos para electromovilidad y reducción de dependencia de combustibles fósiles. Se alinea en objetivos pero no especifica hidrógeno o baterías. Sección: 'Energía' en 8. Recursos naturales."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 85,
+    "justification": "El plan impulsa diversificación de cultivos (café, cacao, quinua), producción ecológica, industrialización con valor agregado, riego sostenible y tecnología agrícola. Coincide en reducir monocultivos pero no menciona impuestos específicos. Sección: 'Agricultura y Pecuaria' en 7. Desarrollo Productivo."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 70,
+    "justification": "El plan apoya ganado camélido (llamas, alpacas) y acceso a mercados cárnicos, pero no aborda regulación de exportaciones, control de insumos veterinarios o penalización de competencia desleal. Sección: 'Agricultura y Pecuaria' en 7. Desarrollo Productivo."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 95,
+    "justification": "El plan establece 'Deforestación Cero 2030' con monitoreo satelital, reforestación de 10M árboles/año, prohibición de chaqueo, penas de 30 años por incendios y creación de Fiscalía Forestal. Sección: 'Sostenibilidad Ambiental' en 9. Desarrollo Sostenible."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 75,
+    "justification": "El plan propone auditorías a AJAM/SENARECOM, revisión de concesiones mineras y control fronterizo, pero no menciona fuerzas conjuntas específicas o regulación de minerales raros. Sección: 'Minería' en 8. Recursos naturales."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 90,
+    "justification": "El plan incluye penas severas (30 años) por daño ambiental, fortalecimiento de SERNAP, combate al tráfico de especies y revisión normativa, alineándose en protección. Sección: 'Sostenibilidad Ambiental' en 9. Desarrollo Sostenible."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 50,
+    "justificación": "El plan menciona gestión de residuos en ciudades sostenibles pero sin detalles sobre economía circular, plantas de reciclaje, abonos orgánicos o incentivos tributarios. Sección: 'Ciudades sostenibles' en 9. Desarrollo Sostenible."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 85,
+    "justificación": "El plan rechaza el extractivismo y promueve industrialización con valor agregado en litio, madera, agroindustria y manufactura, coincidiendo en convertir a Bolivia en potencia industrial. Sección: 'Solución 1' y 'Industria Forestal' en 3 y 7."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 90,
+    "justificación": "El plan propone reforma judicial con designación meritocrática, eliminación de elecciones judiciales, carrera ética y auditoría de sentencias, asegurando separación de poderes. Sección: 'Reforma de la Justicia' en 10. Desarrollo institucional."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 60,
+    "justificación": "El plan busca cooperación antidrogas con EE.UU. pero sin mención explícita a la DEA; enfatiza soberanía y combate al narcotráfico con instituciones propias. Sección: 'Política Exterior' en 10. Desarrollo institucional."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 70,
+    "justificación": "El plan restablece relaciones con EE.UU. y busca acuerdos comerciales/inversión, pero rechaza bases militares o inmunidad diplomática que comprometan soberanía. Sección: 'Política Exterior' en 10. Desarrollo institucional."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 10,
+    "justificación": "El plan explícitamente rechaza alinearse con regímenes autoritarios (Venezuela, Cuba) y prioriza socios democráticos, contradiciendo acercamiento al bloque oriental socialista. Sección: 'Política Exterior' en 10. Desarrollo institucional."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 65,
+    "justificación": "El plan coopera con todos los países bajo principios democráticos y sin comprometer soberanía, pero no es neutral al priorizar alineamientos con democracias. Sección: 'Política Exterior' en 10. Desarrollo institucional."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 30,
+    "justificación": "El plan enfatiza educación digital e inglés, pero no menciona incorporación de lenguas originarias, saberes ancestrales o medicina tradicional en currículas. Sección: 'Programa de Educación' en 6. Desarrollo Humano."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 50,
+    "justificación": "El plan incentiva inversión privada y reduce burocracia, pero rechaza privatizaciones, mantiene empresas estatales estratégicas y no propone paraísos fiscales o reducción radical del Estado. Sección: 'Solución 3' y 'Solución 4' en 3. Soluciones."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justificación": "El plan no aborda políticas migratorias ni protección contra migrantes, centrándose en bolivianos en el exterior. No hay mención a discursos excluyentes. Sección: Política Exterior en 10. Desarrollo institucional."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 90,
+    "justificación": "El plan incluye paridad política, sistema nacional de cuidados, lucha contra violencia de género y derechos sexuales/reproductivos, aunque no menciona explícitamente a población LGBT. Sección: 'La agenda de las mujeres' en 6. Desarrollo Humano."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 40,
+    "justificación": "El plan fomenta innovación tecnológica pero sin énfasis en soberanía, software libre o tecnologías libres de patentes; prioriza cooperación internacional. Sección: 'Tecnologías TICs' en 11. Acceso a comunicaciones."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 95,
+    "justificación": "El plan digitaliza historias clínicas, garantiza medicamentos accesibles, fortalece infraestructura, crea fondos para enfermedades catastróficas e integra medicina tradicional. Sección: 'Acciones en Salud' en 6. Desarrollo Humano."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 90,
+    "justificación": "El plan recorta 20% del gasto corriente, elimina entidades redundantes, cierra empresas públicas inviables y crea una Comisión de Auditoría del Gasto Público. Sección: 'Solución 3' en 3. Soluciones y 'Eficiencia del gasto' en 10."
+  }
+]

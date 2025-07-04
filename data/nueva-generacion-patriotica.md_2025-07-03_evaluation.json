@@ -1,0 +1,124 @@
+{
+  "evaluations": [
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Compromiso con energías renovables",
+      "alignment_score": 90,
+      "justification": "El plan promueve explícitamente la diversificación económica y la inversión en energías renovables como parte de una economía sostenible, destacando en 'Fomento de la sostenibilidad y diversificación económica' y 'Promover el desarrollo de sectores como la tecnología, la agroindustria, el turismo, industria verde, litio y tierras raras'."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Cambio del modelo agro productivo",
+      "alignment_score": 75,
+      "justification": "El plan apoya la diversificación agrícola y tecnológica bajo 'Diversificar la economía', pero rechaza impuestos adicionales como los propuestos para monocultivos, alineándose con la reducción de intervención estatal y promoción de libre mercado en 'Reducción del intervencionismo del Estado'."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Regulación y diversificación del sector ganadero",
+      "alignment_score": 40,
+      "justification": "La propuesta de controlar exportaciones y priorizar abastecimiento nacional contradice el principio de libre mercado del plan ('Apertura económica y competitividad de mercado'). Solo la diversificación ganadera tiene alineación parcial con 'Fomento de la sostenibilidad'."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Compromiso con la reducción de la deforestación",
+      "alignment_score": 65,
+      "justification": "El plan menciona sostenibilidad ambiental en 'Progreso y desarrollo sostenible', pero no detalla medidas contra deforestación. Las propuestas de transparencia con blockchain ('Transparencia en la gestión pública') podrían apoyar mecanismos de control."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Lucha contra la minería ilegal",
+      "alignment_score": 85,
+      "justificación": "Totalmente alineado con 'Fortalecimiento del Estado de derecho' y combate a actividades ilegales que socavan la seguridad jurídica. El plan enfatiza reformas para 'Sistema judicial independiente' y uso de tecnología en auditorías."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Protección al medio ambiente",
+      "alignment_score": 70,
+      "justification": "Coincide con 'Sostenibilidad y diversificación económica' del plan, aunque este no especifica endurecimiento de penas. La lucha contra corrupción ('Transparencia y lucha frontal contra la corrupción') apoya el fortalecimiento institucional propuesto."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Economía circular y procesamiento de residuos",
+      "alignment_score": 80,
+      "justification": "Alineado con 'Fomento de la sostenibilidad' y promoción de innovación privada. Los incentivos tributarios verdes coinciden con 'Reforma tributaria pro-inversión' para emprendimientos sostenibles."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Industrialización de materias primas",
+      "alignment_score": 95,
+      "justification": "Directamente alineado con 'Impulsar la creación de riqueza sostenible' y 'Diversificación económica'. El plan critica el extractivismo y promueve valor agregado mediante inversión privada y reducción de dependencia de recursos naturales."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Independencia de poderes",
+      "alignment_score": 100,
+      "justification": "Totalmente coherente con 'Independencia judicial' y 'Estado de derecho' del plan, que busca despolitizar la justicia y garantizar equilibrio republicano. La transparencia con blockchain ('Sistema judicial independiente, técnico y transparente') apoya el control ciudadano."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+      "alignment_score": 75,
+      "justification": "El plan denuncia la captura del Estado por narcotráfico ('narcotráfico ha tomado el control') y prioriza soberanía, pero no rechaza explícitamente colaboración externa. La cautela ante injerencia alinea con 'Limitación del poder del Estado'."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+      "alignment_score": 60,
+      "justification": "El plan promueve 'Atraer inversión extranjera' sin alineamientos ideológicos, pero bases militares contradicen soberanía. Acuerdos comerciales se alinean con 'Apertura económica', aunque el bloqueo capitalista no es explícito en el plan."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Política exterior con el Bloque Oriental",
+      "alignment_score": 60,
+      "justification": "Similar a política occidental: inversiones son bienvenidas ('Atraer inversión extranjera'), pero alineamiento con bloques socialistas contradice la neutralidad implícita del plan. Bases militares violan 'Limitación del poder del Estado'."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Política exterior neutral",
+      "alignment_score": 90,
+      "justification": "Alineado con principios de soberanía y apertura comercial sin injerencia ('Limitación del poder del Estado'). El plan evita alianzas ideológicas, enfocándose en 'integración de Bolivia al comercio exterior' con autonomía."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Recuperación de cultura ancestral y saberes locales",
+      "alignment_score": 50,
+      "justification": "El plan valora 'Patriotismo y respeto a la identidad nacional', pero no aborda educación en lenguas originarias o saberes ancestrales. La mención cultural es genérica, sin políticas concretas de revitalización."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Economía liberal o anarco capitalista",
+      "alignment_score": 95,
+      "justification": "Totalmente alineado con pilares del plan: 'Libertad económica', 'Reducción del intervencionismo estatal', y 'Apertura económica'. Coincide con reducción de impuestos, libre comercio y atracción de inversión extranjera sin restricciones ideológicas."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Estado proteccionista contra los migrantes",
+      "alignment_score": 30,
+      "justification": "Contradice el valor de 'Libertad individual' y apertura económica del plan. No se mencionan políticas migratorias, pero el enfoque excluyente choca con principios de responsabilidad individual y mercado libre."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Igualdad de género",
+      "alignment_score": 20,
+      "justification": "El plan no aborda igualdad de género o protección LGBT, centrándose en meritocracia ('Meritocracia y cultura de esfuerzo') sin acciones afirmativas. Las propuestas no encuentran respaldo en sus principios o medidas."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Desarrollo de ciencia y tecnología soberana",
+      "alignment_score": 70,
+      "justification": "Alineado parcialmente con 'Promover sectores como la tecnología' y énfasis en soberanía, pero el plan no detalla software libre o rechazo a patentes. La innovación privada ('Iniciativa privada como motor') apoya desarrollo tecnológico autónomo."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Mejoramiento del sistema de salud",
+      "alignment_score": 80,
+      "justification": "Coincide con 'restituir la libertad de elección' en salud mediante vales universales propuestos en el plan. La inversión en infraestructura y facilitación de importaciones alinea con reducción de burocracia estatal."
+    },
+    {
+      "government_plan_name": "Nueva Generación Patriótica",
+      "statement_name": "Reducción del gasto estatal",
+      "alignment_score": 100,
+      "justification": "Totalmente alineado con 'Reducción del tamaño del Estado', objetivo central del plan. Incluye eliminar ministerios, recortar gasto público en 8% del PIB y establecer reglas fiscales estrictas, con énfasis en eficiencia y transparencia."
+    }
+  ]
+}

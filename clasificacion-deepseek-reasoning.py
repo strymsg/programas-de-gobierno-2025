@@ -58,7 +58,7 @@ def evaluate_alignment(government_plan: str, plan_name: str, statements) -> str:
 def save_government_plan_evaluations(plan_name: str, evaluation: str, as_json=True):
     """Saves the given government plan evaluation results using today's date
     in format YYYY-MM-DD_{plan_name}_evaluation inside data/ folder"""
-    filename = f"data/plan_name_{dt.strftime(dt.now(), '%Y-%m-%d')}_evaluation"
+    filename = f"data/{plan_name}_{dt.strftime(dt.now(), '%Y-%m-%d')}_evaluation"
     if as_json:
         filename += '.json'
 
@@ -90,13 +90,12 @@ if __name__ == "__main__":
             statements_document)
 
         print("--------- respuesta -----------------------------------")
-        print(response)
         print(' : : : : : : : : contenido : : : : : :')
         print(response.choices[0].message.content)
         
         try:
             save_government_plan_evaluations(
-                government_plan['name'],
+                prog_gobierno,
                 response.choices[0].message.content, as_json=False)
         except Exception as E:
             print(f"No se pudo guardar como texto plano {government_plan['name']}")
