@@ -27,7 +27,9 @@ def evaluate_alignment(government_plan: str, plan_name: str, statements) -> str:
     {government_plan}
     """
 
-    user_prompt = "Evaluate alignment for the following statements in markdown format on 0 to 100 (100=fully aligned). Have in mind that the statements are in markdown and each level 2 header is the name of the statement followed by the statement's content:"
+    user_prompt = """
+    Evaluate alignment for the following statements in markdown format on 0 to 100 .   
+    Have in mind that the statements are in markdown and each level 2 header is the name of the statement followed by the statement's content:"""
 
     for i, statement in enumerate(statements, 1):
         user_prompt += f"\n{statement}"
@@ -35,9 +37,9 @@ def evaluate_alignment(government_plan: str, plan_name: str, statements) -> str:
     user_prompt += """
     \n\nProvied JSON output with:
     - government_plan_name
-    - statement_name (extract from level 2 header)
-    - alignment_score (0 to 100)
-    - justification citing the Government's Plan sections that you used to give the score
+    - statement_name: (extract from level 2 header)
+    - alignment_score: (100=fully aligned and supported with data, 80=Clearly aligned but lack of some details, 60=Aligned but lack of many details or data, 40=Pretends to be but poorly aligned due to the breverty of mentions, 20=Not aligned but maybe mentioned, 0=Not even mentioned, completely ignored statement)
+    - justification: Cite Government's Plan sections that you used to give the score and what makes it deserve this score.
     - answers must be in spanish language
     """
 
@@ -109,8 +111,14 @@ if __name__ == "__main__":
                 prog_gobierno,
                 response_json, as_json=True)
         except Exception as E:
-            print(f"No se pudo guardar como json {government_plan['name']}")
-            print(E)
+            try:
+                response_json = json.loads(response.choices[0].message.content)
+                save_government_plan_evaluations(
+                    prog_gobierno,
+                    response_json, as_json=True)
+            except Exception as E2:
+                print(f"No se pudo guardar como json {government_plan['name']}")
+                print(E)
         print('-------------------------------------------------------')
 
     print('End.')

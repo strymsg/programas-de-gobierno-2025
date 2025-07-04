@@ -66,6 +66,10 @@ Los planes que rechazan la apertura para acoger a migrantes de países extranjer
 
 Programas de gobeirno que prioricen el papel de las mujeres en cargos de decisión, reducir la discriminación por género y crímenes contra sectores como LGBT que son minoría. Propuestas concretas para reducir los feminicidios y facilitar la participación de las mujeres con ventajas más allá de los permisos de materniadad.
 
+## Plurinacionalidad del estado
+
+Reconocimiento del estado boliviano como plurinacional, multiétnico y diverso. Se valora la construcción de un estado que represente los diversos pueblos en Bolivia, valore la diversidad de lenguaje y culturas. Se promueven los saberes ancestrales con programas de recuperación e integración de culturas nativas, se les garantiza la autonomía de decisiones y respeto por las múltiples comunidades políticas.
+
 ## Desarrollo de ciencia y tecnología soberana
 
 Dentro del marco del desarrollo tecnológico e investigación científica, los planes de gobierno deberían listar medidas y propuestas para desarrollar y adoptar tecnologías que le permitan al país tener control soberano, sin dependencias externas que amenacen su libre decisión ni impedimentos jurídicos. Por ejemplo en el caso de software el uso y adopción de software libre y estándares abiertos, por tanto rechazo de uso indiscriminado de tecnologías privativas y servicios. En medicina el desarrollo de tecnología médica e incentivo a la investigación. Uso de tecnologías libre de pantentes o con licencias permisivas. En agricultura, uso de semillas y tecnología no patentada o permisiva que no restrinja el uso e investigación. De la misma forma con otras tecnologías en las diferentes áreas del conocimiento.
@@ -77,3 +81,7 @@ Propuestas de mejoramiento del sistema de salud, esto incluye un análisis del s
 ## Reducción del gasto estatal
 
 Medidas relacionadas a la reducción del gasto del aparato estatal, reducción de ministerios, re estructuración, reducción de personal no justificado, mejora de procesos y procedimientos, lucha contra la burocracia, acceso a la información y mecanismos de regulación para los trabajadores estatales. Estas propuestas deberían estar justificadas con estimaciones cuantitativas y describiendo problemáticas actuales que justifiquen la medida.
+
+## Presentación de datos que respalden el programa
+
+Las propuestas deberían respaldarse en datos, por tanto mencionan las fuentes y los datos que utilizan. También cuando hacen propuestas de inversión, aumento o reducción estatal, reestructuración o asignación de recursos, mencionan un estimado del monto y recursos a utilizar. Sólo en estos casos los programas pueden considerarse mejor respaldados y cuantitativamente verificables.

@@ -1,0 +1,134 @@
+[
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 80,
+    "justificación": "El plan gubernamental aborda explícitamente la promoción de energías renovables en la POLÍTICA 10 (Estrategia 4: Promoción de energías renovables complementarias) y la ESTRATEGIA 13 de la POLÍTICA 1 (fomento de autogeneración de energías limpias). Coincide con la inversión en paneles solares, turbinas eólicas e hidrógeno verde. Falta detalle específico sobre incentivos empresariales cuantificados."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 20,
+    "justificación": "El plan menciona la deforestación por expansión agrícola en el análisis (B.1.4), pero no propone políticas específicas para diversificación de cultivos, reducción de monocultivos o incentivos orgánicos. La POLÍTICA 6 aborda medio ambiente sin enfoque agroproductivo."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 0,
+    "justificación": "No se menciona el sector ganadero, camelidos, distribución de insumos veterinarios, control de exportaciones o acuerdos cárnicos en el plan. Ausencia total en dimensiones sectoriales y estructurales."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 60,
+    "justificación": "La POLÍTICA 6 (Estrategia 3 y 7) aborda prevención de incendios y abrogación de 'leyes incendiarias', alineándose con sistemas de alerta temprana y control. Falta mención a reforestación obligatoria, endurecimiento de penas o transparencia en licitaciones forestales."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 60,
+    "justificación": "La POLÍTICA 11 (Estrategia 4) promueve tecnologías limpias y gestión ambiental en minería, y la POLÍTICA 6 (Estrategia 4) erradica minería ilegal. Coincide en control estatal pero omite auditorías a contratos, patrullas específicas o fuerzas conjuntas con ejército."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justificación": "La POLÍTICA 6 cubre protección ambiental con estrategias de conservación (Estrategia 1), control de incendios (Estrategia 3) y erradicación de minería ilegal (Estrategia 4). Alinea con fortalecimiento institucional y penalizaciones, aunque falta detalle sobre tráfico de especies."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 40,
+    "justificación": "La ESTRATEGIA 12 (POLÍTICA 1) crea un Fondo de Descarbonización vinculado a economía verde, pero no aborda explícitamente reciclaje, plantas de tratamiento, sanciones por desechos o incentivos tributarios para emprendimientos circulares. Mención tangencial."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 40,
+    "justificación": "El plan critica el modelo extractivista (B.1.1) y en la POLÍTICA 11 (Minería) busca desarrollo sostenible con valor agregado (Estrategia 4). Sin embargo, no detalla planes de incentivos industriales ni estrategias para convertir a Bolivia en potencia industrial."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 80,
+    "justificación": "La POLÍTICA 3 (Reconfiguración Judicial, Estrategia 1) institucionaliza el Órgano Judicial para evitar injerencias, alineándose con independencia de poderes. La ESTRATEGIA 4 moderniza formación jurídica para reducir politización. Falta mención a mecanismos ciudadanos de control."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 0,
+    "justificación": "No se menciona la DEA, cooperación extranjera en narcotráfico, ni riesgos de injerencia. La POLÍTICA 14 (Seguridad ciudadana) aborda cooperación internacional genérica sin referencia a actores específicos."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 0,
+    "justificación": "El plan no detalla relaciones con bloques geopolíticos específicos. La mención a cooperación internacional en POLÍTICA 14 es genérica y no alude a alianzas militares, libre comercio o inversiones con occidente."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 0,
+    "justificación": "Ausencia total de referencia a China, Rusia, BRICS o alineamiento con bloques orientales. La cooperación internacional en el plan no especifica socios."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 40,
+    "justificación": "La ESTRATEGIA 5 (POLÍTICA 14) promueve cooperación internacional sin mención a bloques, alineándose con neutralidad. Sin embargo, no aborda explícitamente rechazo a bases militares o inmunidad diplomática, y falta énfasis en soberanía."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 60,
+    "justificación": "La POLÍTICA 1 (Educación, Estrategia 5) implementa sistema trilingüe (castellano + lengua originaria + inglés), recuperando lenguas nativas. Falta detalle sobre saberes ancestrales en medicina/cosmovisión o proyectos culturales específicos."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 20,
+    "justificación": "El plan fomenta inversión privada (POLÍTICA 3) y liberaliza exportaciones (POLÍTICA 1, Estrategia 15), pero mantiene rol estatal fuerte en redistribución (AGENDA 5050). No propone reducción drástica del estado, paraísos fiscales o alineamiento con bloques capitalistas."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justificación": "No se aborda política migratoria, recepción de migrantes o discursos excluyentes. Los sectores vulnerables (POLÍTICA 5) no incluyen migrantes."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 60,
+    "justificación": "La POLÍTICA 5 (Estrategia 3 y 4) prioriza igualdad y no discriminación para mujeres y LGBTI, alineándose con reducción de violencia. Falta especificar medidas para cargos de decisión, feminicidios o participación más allá de maternidad."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 40,
+    "justificación": "La inclusión de lenguas originarias (POLÍTICA 1, Estrategia 5) y protección a pueblos indígenas (POLÍTICA 5 y 11) reflejan diversidad, pero no menciona explícitamente 'plurinacionalidad', autonomía decisional o estructura estatal multiétnica."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 60,
+    "justificación": "La POLÍTICA 7 (Estrategia 5) implementa infraestructura tecnológica soberana y promueve innovación (Estrategia 4). Coincide con control soberano, pero omite detalles sobre software libre, estándares abiertos o tecnologías libres de patentes."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 80,
+    "justificación": "La POLÍTICA 2 detalla mejora de acceso, digitalización, inversión en infraestructura y capacitación de recursos humanos. Alinea con facilitación de medicamentos y atención a trabajadores, aunque faltan cifras específicas para fondos de emergencia."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 80,
+    "justificación": "La POLÍTICA 1 (Estrategia 1, 3 y 6) racionaliza el gasto público, congela contrataciones y reasigna recursos, alineándose con reducción de burocracia y personal no justificado. Falta cuantificación de ahorros o reestructuración ministerial."
+  },
+  {
+    "government_plan_name": "Partido Demócrata Cristiano",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 40,
+    "justificación": "El plan usa datos en el análisis (ej. reservas internacionales, déficit fiscal), pero las políticas no incluyen estimados cuantitativos para inversiones o reasignación de recursos. Propuestas generales sin respaldo numérico explícito."
+  }
+]

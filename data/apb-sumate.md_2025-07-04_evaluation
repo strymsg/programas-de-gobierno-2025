@@ -1,105 +1,133 @@
-{
-  "government_plan_name": "apb-sumate.md",
-  "evaluations": [
-    {
-      "statement_name": "Compromiso con energías renovables",
-      "alignment_score": 70,
-      "justification": "El plan propone diversificar la matriz energética con inversión en energías renovables (3.4. TRANSFORMACIÓN PRODUCTIVA: ENERGÍAS) y promueve tecnologías limpias en BONOS DE CARBONO, BOLIVIA VERDE Y COMPETITIVA. Sin embargo, no detalla incentivos específicos para empresas ni menciona tecnologías como hidrógeno o baterías."
-    },
-    {
-      "statement_name": "Cambio del modelo agro productivo",
-      "alignment_score": 90,
-      "justification": "Alineado con el PLAN NACIONAL DE DESARROLLO PRODUCTIVO DEL AGRO (3.4. TRANSFORMACIÓN PRODUCTIVA), que prioriza diversificación, cultivos orgánicos, plantas nativas, industrialización con valor agregado, proyectos de riego sostenible y tecnología agrícola. Falta mención explícita de impuestos a monocultivos."
-    },
-    {
-      "statement_name": "Regulación y diversificación del sector ganadero",
-      "alignment_score": 75,
-      "justificación": "El plan apoya la modernización ganadera y clústeres para camélidos en MACRO REGIÓN ALTIPLANO (3.4. TRANSFORMACIÓN PRODUCTIVA), con énfasis en abastecimiento nacional primero. No aborda explícitamente redes de distribución de insumos, control de exportaciones o mecanismos contra competencia desleal."
-    },
-    {
-      "statement_name": "Compromiso con la reducción de la deforestación",
-      "alignment_score": 85,
-      "justificación": "El plan incluye programas de reforestación, control de quemas y acceso a bonos de carbono en BONOS DE CARBONO, BOLIVIA VERDE Y COMPETITIVA (3.4. TRANSFORMACIÓN PRODUCTIVA). También propone endurecer penas en MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE, pero no especifica sistemas de alerta temprana o marcos legales de reforestación obligatoria."
-    },
-    {
-      "statement_name": "Lucha contra la minería ilegal",
-      "alignment_score": 60,
-      "justificación": "El plan menciona reformar el Código Minero y combatir el crimen transfronterizo con Bases de Seguridad Fronteriza (3.1. SEGURIDAD JURÍDICA). Sin embargo, no aborda auditorías a contratos mineros, patrullas específicas o regulación de oro/minerales raros."
-    },
-    {
-      "statement_name": "Protección al medio ambiente",
-      "alignment_score": 80,
-      "justificación": "Alineado con MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE (3.4. TRANSFORMACIÓN PRODUCTIVA), que promueve gestión ambiental con incentivos, penalización de daños y protección de biodiversidad. Falta mención explícita de tráfico de especies o investigación de ecosistemas."
-    },
-    {
-      "statement_name": "Economía circular y procesamiento de residuos",
-      "alignment_score": 65,
-      "justificación": "El plan propone industrializar residuos sólidos para energía y empleo verde en MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE (3.4. TRANSFORMACIÓN PRODUCTIVA). No detalla plantas de reciclaje, abonos orgánicos, sanciones o incentivos tributarios específicos."
-    },
-    {
-      "statement_name": "Industrialización de materias primas",
-      "alignment_score": 90,
-      "justificación": "Totalmente alineado con la visión de cadenas de valor agroindustriales y diversificación económica en 3.3. TRANSFORMACIÓN ECONÓMICA y 3.4. TRANSFORMACIÓN PRODUCTIVA, que priorizan agregar valor a materias primas mediante industrialización."
-    },
-    {
-      "statement_name": "Independencia de poderes",
-      "alignment_score": 95,
-      "justificación": "El plan enfatiza separación de poderes, autonomía judicial y meritocracia en 3.1. TRANSFORMACIÓN JURÍDICA. También promueve participación ciudadana para control público en 3.2. TRANSFORMACIÓN POLÍTICA, alineándose plenamente con la independencia institucional."
-    },
-    {
-      "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
-      "alignment_score": 50,
-      "justificación": "El plan rechaza injerencias y prioriza soberanía en seguridad fronteriza (3.1. SEGURIDAD JURÍDICA), pero no menciona agencias como la DEA. Su enfoque en combate al narcotráfico con fuerzas propias limita la alineación con colaboración extranjera."
-    },
-    {
-      "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
-      "alignment_score": 40,
-      "justificación": "El plan aboga por no alineamiento en DIPLOMACIA DEL DESARROLLO y rechaza bases militares extranjeras. Esto contradice acercamientos exclusivos al bloque occidental, aunque coincide en promover inversiones y libre comercio sin sesgos ideológicos."
-    },
-    {
-      "statement_name": "Política exterior con el Bloque Oriental",
-      "alignment_score": 40,
-      "justificación": "Similar al anterior: el principio de no alineamiento en DIPLOMACIA DEL DESARROLLO se opone a alianzas exclusivas con bloques orientales, aunque el plan busca relaciones comerciales globales sin mención específica de BRICS o cooperación militar."
-    },
-    {
-      "statement_name": "Política exterior neutral",
-      "alignment_score": 95,
-      "justificación": "Plenamente alineada con la DIPLOMACIA DEL DESARROLLO, que promueve cooperación sin alineamientos, priorizando soberanía y evitando injerencias, sin bases militares o inmunidades diplomáticas riesgosas."
-    },
-    {
-      "statement_name": "Recuperación de cultura ancestral y saberes locales",
-      "alignment_score": 70,
-      "justificación": "El plan incluye pedagogía intercultural y multilingüismo optativo en SISTEMA EDUCATIVO (3.5. TRANSFORMACIÓN SOCIAL), pero no profundiza en saberes ancestrales, medicina tradicional o proyectos específicos de revalorización cultural."
-    },
-    {
-      "statement_name": "Economía liberal o anarco capitalista",
-      "alignment_score": 80,
-      "justificación": "Alineado con PRINCIPIO Nº 1: ESTADO FACILITADOR (2. PRINCIPIOS RECTORES) que promueve mercado y reducción estatal, además de acuerdos de libre comercio e incentivos a inversiones. No aboga paraísos fiscales ni reducción extrema del Banco Central."
-    },
-    {
-      "statement_name": "Estado proteccionista contra los migrantes",
-      "alignment_score": 0,
-      "justificación": "El plan no aborda políticas migratorias. No hay menciones sobre recepción o exclusión de migrantes, lo que resulta en nula alineación con propuestas proteccionistas."
-    },
-    {
-      "statement_name": "Igualdad de género",
-      "alignment_score": 50,
-      "justificación": "El plan menciona oportunidades laborales para mujeres en 3.5. TRANSFORMACIÓN SOCIAL, pero no desarrolla medidas contra discriminación, feminicidios o inclusión LGBT. Ausencia de programas específicos limita la alineación."
-    },
-    {
-      "statement_name": "Desarrollo de ciencia y tecnología soberana",
-      "alignment_score": 85,
-      "justificación": "Alineado con PROYECTO CIUDADELA DE LA CIENCIA Y TECNOLOGÍA (3.5. TRANSFORMACIÓN SOCIAL) y uso de software libre en TELECOMUNICACIONES. Promueve investigación autónoma, aunque no enfatiza licencias permisivas o rechazo a patentes en agricultura/salud."
-    },
-    {
-      "statement_name": "Mejoramiento del sistema de salud",
-      "alignment_score": 95,
-      "justificación": "Totalmente alineado con EL NUEVO SISTEMA BOLIVIANO DE SALUD (3.5. TRANSFORMACIÓN SOCIAL), que detalla reestructuración, inversión en infraestructura, digitalización, acceso a medicamentos y fondos de emergencia, coincidiendo con todas las propuestas clave."
-    },
-    {
-      "statement_name": "Reducción del gasto estatal",
-      "alignment_score": 100,
-      "justificación": "Plenamente alineado con 3.3. TRANSFORMACIÓN ECONÓMICA, que cuantifica reducción de ministerios (de 17 a 14), recorte de gastos improductivos, optimización de empresas públicas y lucha contra la burocracia, justificando cada medida con datos presupuestarios."
-    }
-  ]
-}
+   {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 80,
+    "justification": "El plan promueve diversificación energética mediante hidroeléctricas y energía nuclear (sección 3.4), pero no detalla inversión específica en paneles solares, turbinas eólicas o hidrógeno. Sí menciona transición a energías limpias y reducción de dependencia de combustibles fósiles al eliminar subsidios (sección 3.3), alineándose parcialmente con los objetivos."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 100,
+    "justification": "Totalmente alineado con secciones 3.4 y macroregiones. Propone diversificación de cultivos, incentivos para orgánicos, priorización de plantas nativas, proyectos de riego sostenible, e industrialización con valor agregado mediante el PLAN NACIONAL DE DESARROLLO PRODUCTIVO DEL AGRO y clústeres regionales."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 90,
+    "justification": "El plan prioriza ganado camélido en la Macro Región Altiplano (sección Anexo), con apoyo técnico y fortalecimiento de cadenas lácteas. Garantiza seguridad alimentaria nacional antes de exportaciones, aunque no especifica controles de exportación ni mecanismos contra competencia desleal."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 85,
+    "justification": "Coincide con la sección 'Medioambiente y Desarrollo Sostenible', que propone reforestación, control de incendios con tecnología, y endurecimiento de penas. Incluye bonos de carbono para conservación, pero no menciona sistemas de alerta temprana para tráfico de madera."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 75,
+    "justificación": "Alineado en sección 3.4 (minería), con revisión del Código Minero y fortalecimiento de patrullas fronterizas. Propone presencia estatal en minas y combate a redes ilícitas, pero no detalla auditorías a la AJAM o fuerzas conjuntas con militares."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justification": "Respalda fortalecimiento institucional y penas severas en 'Medioambiente y Desarrollo Sostenible'. Incluye protección de biodiversidad y reducción de deforestación, aunque no aborda explícitamente tráfico de especies o revisión de leyes como derechos de la Madre Tierra."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 70,
+    "justification": "Menciona industrialización de residuos para energía y abonos en 'Medioambiente'. Promueve incentivos para emprendimientos verdes, pero sin detalles sobre plantas de reciclaje, tratamiento de basura o sanciones a infractores."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 95,
+    "justification": "Totalmente alineado. Critica el modelo extractivista (sección 3.4) y propone agregar valor a recursos mediante industrialización, APPs, y diversificación exportadora con el Instituto de Fomento al Desarrollo Nacional (IFDN)."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 100,
+    "justification": "Núcleo de la 'Transformación Jurídica' (sección 3.1). Promueve independencia judicial, meritocracia en selección de jueces, y fortalecimiento del Estado de Derecho. Incluye mecanismos ciudadanos para denuncia de injerencias."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 40,
+    "justification": "El plan enfatiza soberanía en seguridad fronteriza (sección 3.1) pero no menciona la DEA. Rechaza injerencias, aunque sin referencia específica a corrupción o favoritismo en narcotráfico."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 60,
+    "justification": "La 'Diplomacia del Desarrollo' busca relaciones globales sin alineamientos (sección 4), incluyendo acuerdos comerciales. No promueve bases militares o inmunidad diplomática, pero sí apertura a inversiones extranjeras sin distinción de bloques."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 60,
+    "justification": "Similar a política con Occidente: prioriza cooperación económica con todos los países (sección 4), incluyendo BRICS, pero rechaza bases militares e injerencias, evitando alineamiento explícito."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 100,
+    "justification": "Totalmente alineada con 'Diplomacia del Desarrollo'. Establece relaciones con vecinos y cualquier país sin comprometer soberanía, explícitamente rechazando bases militares e inmunidad diplomática descontrolada."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 90,
+    "justification": "En educación (sección 3.5), promueve integración de lenguas originarias (quechua, aymara) y saberes ancestrales en currículas. Incluye enfoque intercultural, aunque con menos énfasis en medicina o cosmovisión precolonial."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 85,
+    "justification": "Alineado con 'Transformación Económica' (sección 3.3): reduce impuestos (IVA, IGF), flexibiliza regulaciones, incentiva inversión privada y acuerdos de libre comercio. No menciona paraísos fiscales, pero sí alivios tributarios."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 20,
+    "justification": "No aborda políticas migratorias. El plan enfoca seguridad fronteriza contra crimen (sección 3.1), pero sin mención a migrantes indocumentados o discursos excluyentes."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 50,
+    "justification": "Menciona brevemente mejorar aporte de mujeres rurales (sección 3.4) y salud con enfoque de género, pero sin planes concretos contra feminicidios, participación en cargos decisorios o protección LGBT."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 80,
+    "justification": "Reconoce autonomías indígenas en 'Gestión Territorial' (sección 3.7) y educación intercultural. Promueve diversidad lingüística, aunque con menos énfasis en autodeterminación política de comunidades."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 95,
+    "justification": "Totalmente alineado. La 'Ciudadela de Ciencia y Tecnología' (sección 3.5) fomenta investigación soberana con software libre. Prioriza tecnologías no patentadas en agricultura y medicina, evitando dependencias externas."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 100,
+    "justification": "Coincide con 'Transformación Social' (sección 3.5): reestructura ministerio, digitaliza expedientes, garantiza medicamentos, e invierte en infraestructura. Incluye fondos de emergencia y atención a trabajadores sanitarios."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 100,
+    "justification": "Núcleo de 'Transformación Económica' (sección 3.3). Reduce ministerios de 17 a 14, elimina gastos superfluos (ej. rentas vitalicias), y optimiza empresas públicas, con cifras específicas (ej. ahorro de Bs 225 millones)."
+  },
+  {
+    "government_plan_name": "APB Súmate",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 90,
+    "justification": "Usa datos cuantitativos (ej. PGE 2025, riesgo país) en introducción y sección 3.3. Proporciona estimados de ahorros e inversiones, aunque no todas las propuestas incluyen fuentes explícitas."
+  }
+]

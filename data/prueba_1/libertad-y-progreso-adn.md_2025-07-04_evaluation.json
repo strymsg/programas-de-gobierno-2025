@@ -1,0 +1,122 @@
+[
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 20,
+    "justification": "El plan rechaza la planificación estatal de la economía y subsidios (Idea-Fuerza 2). Los incentivos gubernamentales y objetivos específicos para energías renovables contradicen el principio de libre mercado como asignador de recursos."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 15,
+    "justification": "Los impuestos selectivos, incentivos dirigidos y priorización estatal violan la Idea-Fuerza 1 (libertad económica) y Idea-Fuerza 2 (no intervención), que promueven decisiones basadas en el mercado sin planificación."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 10,
+    "justification": "El control de exportaciones y regulación sectorial contradicen directamente la Idea-Fuerza 1 (eliminar trabas a exportaciones) y la filosofía de libre mercado del plan."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 25,
+    "justification": "Aunque el plan incluye seguridad como función estatal (Idea-Fuerza 4), el endurecimiento normativo y expansión burocrática propuesta contradice la reducción del estado y desregulación (Idea-Fuerza 2)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 70,
+    "justification": "Se alinea con la función estatal de seguridad (Idea-Fuerza 4) y fortalecimiento de fuerzas armadas. Sin embargo, nueva regulación minera podría contradecir la desregulación económica general."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 20,
+    "justification": "La creación de normativas e instituciones ambientales expande el estado, contradiciendo la Idea-Fuerza 2 (reducción estatal) y 4 (funciones estatales limitadas)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 30,
+    "justification": "Los incentivos tributarios sectoriales y controles empresariales contradicen la Idea-Fuerza 1 (reducción de impuestos general) y 2 (no intervención), aunque la reducción de impuestos podría alinearse parcialmente."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 10,
+    "justification": "Los incentivos estatales para industrialización violan la Idea-Fuerza 2 (rechazo a planificación económica) y 10 (economía basada en mercado libre sin dirección estatal)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 90,
+    "justification": "Se alinea plenamente con la Idea-Fuerza 3 (reforma constitucional para separación de poderes) e Idea-Fuerza 5 (reforma judicial independiente basada en méritos)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 60,
+    "justification": "Coincide con la precaución ante injerencia extranjera en Idea-Fuerza 4, aunque el plan no especifica política antidroga. La crítica a corrupción alinea con Idea-Fuerza 9."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 85,
+    "justification": "Se alinea con Idea-Fuerza 4 (asociación con países para acuerdos económicos beneficiosos) y la visión pro-capitalista del plan. Libre comercio e inversión extranjera son pilares de Idea-Fuerza 1 y 10."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 15,
+    "justification": "Contradice Idea-Fuerza 4 (disociación de regímenes autoritarios/socialistas). El plan critica explícitamente el socialismo en su introducción e Idea-Fuerza 7."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 65,
+    "justification": "Se alinea parcialmente con Idea-Fuerza 4 (relaciones por beneficio económico sin comprometer soberanía), pero la exclusión de cooperación militar/inmunidad podría limitar acuerdos económicos."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 5,
+    "justification": "Contradice directamente Idea-Fuerza 7 (énfasis en civilización occidental y ciencia, eliminación de narrativas indígenas) e Idea-Fuerza 5 (eliminación de justicia indígena)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 100,
+    "justification": "Alineación perfecta con Idea-Fuerza 1 (liberalización económica), Idea-Fuerza 2 (reducción estatal), Idea-Fuerza 10 (libre mercado) e Idea-Fuerza 4 (alianzas con países capitalistas)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 40,
+    "justification": "Aunque la seguridad es función estatal (Idea-Fuerza 4), el proteccionismo migratorio podría contradecir la libertad económica. El plan no aborda migración explícitamente."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 0,
+    "justification": "Contradice explícitamente Idea-Fuerza 7 (eliminación de políticas de género, enfoque en meritocracia sin parámetros colectivos, prohibición de cambios de sexo en niños)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 25,
+    "justification": "El rechazo a tecnologías privativas contradice la libertad económica (Idea-Fuerza 1). Aunque promueve ciencia (Idea-Fuerza 7), la soberanía tecnológica limita mercados abiertos."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 20,
+    "justification": "Inversión estatal y subsidios contradicen Idea-Fuerza 6 (reducir administración estatal, fomentar demanda privada) e Idea-Fuerza 2 (reducción de gasto público)."
+  },
+  {
+    "government_plan_name": "Libertad y Progreso ADN",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 100,
+    "justification": "Alineación total con Idea-Fuerza 2 (reducción de ministerios, empresas públicas y personal) e Idea-Fuerza 10 (reducir gasto público como prioridad urgente)."
+  }
+]

@@ -2,121 +2,133 @@
   {
     "government_plan_name": "MORENA",
     "statement_name": "Compromiso con energías renovables",
-    "alignment_score": 90,
-    "justification": "El Plan MORENA propone una 'Transición Energética Justa y Soberana' (EJE 8) que incluye inversión en energías renovables como solar, eólica y biomasa, incentivos para conversión a energías limpias, y creación de un Fondo Nacional de Transición Energética. Además, en el EJE 3 se menciona reducir la subvención a combustibles fósiles y promover energías alternativas."
+    "alignment_score": 80,
+    "justification": "El Eje 8 (Cambio Climático y Derechos de la Madre Tierra) propone una Transición Energética Justa y Soberana que incluye inversión en energías renovables (solar, eólica, geotérmica, biomasa), incentivos para conversión a energías limpias y desarrollo de capacidades locales. Coincide con el enfoque de cambio de matriz energética y reducción de dependencia de combustibles fósiles, aunque no menciona específicamente hidrógeno o baterías."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Cambio del modelo agro productivo",
-    "alignment_score": 85,
-    "justification": "El Plan apoya la diversificación y agricultura sostenible mediante el 'Fondo Plurinacional de Crédito para la Producción de Alimentos' (EJE 3), que financia proyectos agroecológicos, sistemas de riego tecnificado y prioriza la soberanía alimentaria. También promueve la reducción de monocultivos en el EJE 8."
+    "alignment_score": 80,
+    "justification": "El Eje 3 (Economía Productiva) crea el Fondo Plurinacional de Crédito para la Producción de Alimentos, financiando agricultura sostenible, diversificación y sistemas de riego. El Eje 8 prioriza reducción de monocultivos y deforestación. Alineado en incentivos orgánicos y diversificación, aunque no especifica impuestos a monocultivos."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Regulación y diversificación del sector ganadero",
-    "alignment_score": 60,
-    "justification": "Aunque el Plan menciona protección animal (EJE 8) y apoyo a pequeños productores (EJE 3), no aborda específicamente la ganadería camélida, redes de distribución de insumos o regulación de exportaciones cárnicas. La alineación es parcial."
+    "alignment_score": 40,
+    "justification": "El plan menciona fortalecimiento de producción alimentaria en el Eje 3, pero sin enfoque específico en ganadería o camélidos. La priorización de abastecimiento nacional ante exportaciones se alinea parcialmente con soberanía alimentaria, pero faltan detalles sobre redes de distribución o regulación empresarial."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Compromiso con la reducción de la deforestación",
-    "alignment_score": 95,
-    "justification": "El EJE 8 establece una 'Nueva Ley de Derechos de la Madre Tierra' que incluye control de incendios, reforestación obligatoria y fortalecimiento de gestión comunitaria de ecosistemas. También propone sistemas de alerta temprana y sanciones, coincidiendo plenamente con la declaración."
+    "alignment_score": 100,
+    "justificación": "El Eje 8 establece una Nueva Ley de Derechos de la Madre Tierra que incluye control de incendios, endurecimiento de penas y sistemas de alerta temprana. Propone reforestación obligatoria y gestión indígena de ecosistemas, alineándose completamente con mecanismos de control y transparencia en licencias forestales."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Lucha contra la minería ilegal",
-    "alignment_score": 80,
-    "justification": "El Plan crea la 'Empresa Nacional del Oro' (EJE 3) para regular la explotación aurífera y combatir el contrabando. Además, el EJE 11 plantea reestructurar fuerzas de seguridad, aunque no especifica patrullas mineras conjuntas."
+    "alignment_score": 60,
+    "justificación": "El Eje 3 crea la Empresa Nacional del Oro para regular explotación aurífera y combatir contrabando. El Eje 11 fortalece patrullas de control con Fuerzas Armadas. Alineado en regulación y presencia estatal, pero no profundiza en auditorías específicas o minerales raros."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Protección al medio ambiente",
     "alignment_score": 100,
-    "justification": "El EJE 8 está dedicado íntegramente a la protección ambiental: fortalece instituciones, endurece penas por daños ecológicos, combate tráfico de especies, y revisa leyes en favor de los derechos de la Madre Tierra. Incluye reducción de deforestación y monocultivos."
+    "justificación": "El Eje 8 es dedicado íntegramente a derechos de la Madre Tierra, con leyes para sanción de infractores, control de tráfico de especies, protección animal y evaluación de ecosistemas. Incluye reducción de deforestación y monocultivos, coincidiendo plenamente con el enfoque de protección institucional."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Economía circular y procesamiento de residuos",
-    "alignment_score": 40,
-    "justification": "El Plan no aborda explícitamente economía circular o plantas de reciclaje. Solo menciona gestión sostenible de recursos (EJE 8) y protección ambiental, pero sin detalles sobre tratamiento de residuos o incentivos para emprendimientos verdes."
+    "alignment_score": 20,
+    "justificación": "No se menciona economía circular o tratamiento avanzado de residuos. El Eje 8 aborda protección ambiental general pero sin referencia a reciclaje, abonos orgánicos o incentivos tributarios para emprendimientos verdes. Solo alineamiento tangencial con sostenibilidad."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Industrialización de materias primas",
     "alignment_score": 100,
-    "justification": "El EJE 3 prioriza la industrialización con valor agregado: plantas fundidoras para minerales, creación de la Empresa Nacional del Oro, y alianzas para procesar litio y tierras raras. Critica explícitamente el modelo extractivista sin transformación."
+    "justificación": "Eje 3 enfatiza industrialización de litio, minerales y oro con valor agregado, criticando el modelo extractivista. Propone plantas fundidoras, refinerías y articulación con cooperativas, alineándose completamente con la transformación productiva y soberana."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Independencia de poderes",
-    "alignment_score": 95,
-    "justificación": "El EJE 1 promueve instituciones éticas y controles ciudadanos; el EJE 2 reforma el sistema judicial para garantizar independencia y mérito en la selección de magistrados. Incluye mecanismos de rendición de cuentas y transparencia para evitar injerencias entre poderes."
+    "alignment_score": 100,
+    "justificación": "Eje 1 y Eje 2 promueven independencia judicial mediante reformas al TCP, carrera meritocrática y control ciudadano. Incluyen mecanismos de rendición de cuentas y ética pública, coincidiendo con evitar intervencionismo y garantizar autonomía constitucional."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
-    "alignment_score": 85,
-    "justification": "El EJE 9 enfatiza una política exterior soberana y descolonizadora, rechazando injerencias. Aunque no menciona específicamente la DEA, aboga por relaciones basadas en reciprocidad y no intervención, alineándose con la crítica al intervencionismo."
+    "alignment_score": 0,
+    "justificación": "No se aborda colaboración con agencias extranjeras como la DEA. El Eje 11 redefine roles de seguridad con enfoque soberano, pero sin mención a narcotráfico o riesgos de corrupción en cooperación internacional. Completamente ignorado."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
-    "alignment_score": 70,
-    "justification": "El Plan (EJE 9) promueve relaciones con todos los países sin exclusiones ideológicas, pero rechaza alineamientos con bloques. Aunque no condena explícitamente al bloque occidental, prioriza soberanía sobre acuerdos militares o concesiones que comprometan autonomía."
+    "alignment_score": 20,
+    "justificación": "El Eje 9 rechaza alineamientos con bloques, promoviendo relaciones basadas en soberanía y no injerencia. Aunque no menciona explícitamente acuerdos militares o concesiones, su postura neutral contradice la apertura a bloques occidentales capitalistas."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Política exterior con el Bloque Oriental",
-    "alignment_score": 70,
-    "justification": "Similar a la anterior: el EJE 9 busca diplomacia equilibrada sin alineamientos. Aunque menciona cooperación Sur-Sur, no favorece explícitamente al bloque oriental. La neutralidad declarada limita la alineación con cualquier alianza ideológica."
+    "alignment_score": 20,
+    "justificación": "Similar al anterior: el Eje 9 enfatiza diplomacia descolonizadora sin alineamientos, incluyendo con BRICS u Oriente. Promueve cooperación sin bases militares o inmunidad diplomática, desalineándose de acuerdos estratégicos con el bloque socialista."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Política exterior neutral",
     "alignment_score": 100,
-    "justification": "El EJE 9 define una política exterior 'soberana e integradora' basada en reciprocidad y no intervención. Rechaza explícitamente bases militares extranjeras y promueve relaciones con todos los países sin distinción de bloques, coincidiendo plenamente con la neutralidad."
+    "justificación": "Eje 9 establece una política exterior soberana sin exclusiones ideológicas, basada en respeto mutuo y no injerencia. Propone ampliar relaciones diplomáticas globalmente evitando riesgos a soberanía, alineándose plenamente con neutralidad y cooperación equilibrada."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Recuperación de cultura ancestral y saberes locales",
-    "alignment_score": 90,
-    "justification": "El EJE 5 incluye educación intercultural gratuita que articula saberes ancestrales y ciencia moderna. El EJE 12 promueve revalorización de identidad plurinacional, lenguas originarias y conocimiento ancestral en salud y cosmovisión, priorizando pueblos indígenas."
+    "alignment_score": 100,
+    "justificación": "Eje 5 y Eje 12 priorizan educación intercultural, integración de lenguas originarias (quechua, aymara) y revalorización de saberes ancestrales en salud y cosmovisión. Coincide con programas de recuperación cultural y diversidad en currículas educativas."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Economía liberal o anarco capitalista",
-    "alignment_score": 20,
-    "justification": "El Plan rechaza explícitamente el modelo neoliberal (Contexto Actual). El EJE 3 prioriza empresas estatales estratégicas y alianzas público-comunitarias, sin mencionar reducción de impuestos, paraísos fiscales o liberalización. Promueve regulación estatal, no libre mercado."
+    "alignment_score": 0,
+    "justificación": "El plan rechaza explícitamente modelos liberales: Eje 3 mantiene control estatal en industrias estratégicas, promueve alianzas público-comunitarias y evita paraísos fiscales. No hay mención a flexibilización regulatoria o reducción del Banco Central, desalineándose completamente."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Estado proteccionista contra los migrantes",
-    "alignment_score": 10,
-    "justification": "El Plan no aborda políticas migratorias. El EJE 5 enfatiza inclusión social y derechos universales, contradiciendo discursos excluyentes. No hay menciones a restricciones migratorias, alineándose más con protección de derechos que con proteccionismo antiinmigrante."
+    "alignment_score": 0,
+    "justificación": "No se aborda políticas migratorias o protección contra migrantes. El Eje 5 enfatiza inclusión social pero sin referencia a ciudadanos extranjeros indocumentados. Completamente ignorado en el programa."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Igualdad de género",
     "alignment_score": 100,
-    "justification": "El EJE 6 está dedicado íntegramente a políticas de género: crea un Sistema de Igualdad, combate violencia contra mujeres, promueve participación política paritaria y autonomía económica. Incluye medidas específicas contra feminicidios y discriminación."
+    "justificación": "Eje 6 dedica íntegramente a política de género: creación de Sistema Plurinacional de Igualdad, lucha contra violencia, participación política paritaria y autonomía económica de mujeres. Alineado con reducción de feminicidios y promoción de liderazgo femenino."
+  },
+  {
+    "government_plan_name": "MORENA",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 100,
+    "justificación": "Fundamental en todo el plan: Eje 1, 5 y 12 reconocen estado plurinacional, promueven autonomía indígena, educación intercultural y gestión comunitaria de recursos. Incluye defensa de lenguas originarias y saberes ancestrales, alineándose con representación diversa."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Desarrollo de ciencia y tecnología soberana",
-    "alignment_score": 75,
-    "justification": "El Plan fomenta investigación en litio y energías (EJE 3/EJE 8) y formación técnica (EJE 5), pero no menciona explícitamente software libre o rechazo a patentes. La creación de centros de investigación (EJE 3) apunta a soberanía tecnológica, aunque con menos detalle que la declaración."
+    "alignment_score": 60,
+    "justificación": "Eje 3 menciona transferencia tecnológica en industrialización (litio, minerales) y Eje 5 crea centros de investigación. Sin embargo, no aborda software libre, patentes permisivas o estándares abiertos específicamente. Alineado en soberanía pero falta detalle tecnológico."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Mejoramiento del sistema de salud",
-    "alignment_score": 95,
-    "justification": "El EJE 5 propone universalizar acceso a salud gratuita e intercultural, fortaleciendo infraestructura, equipamiento y personal. Incluye medicina ancestral, prevención de enfermedades y formación profesional, alineándose con la mejora integral del sistema."
+    "alignment_score": 80,
+    "justificación": "Eje 5 propone universalizar salud gratuita, fortalecer infraestructura, equipamiento y medicamentos, con enfoque intercultural. Coincide en atención a trabajadores e inversión, aunque no detalla importación de medicamentos o fondos de emergencia cuantificados."
   },
   {
     "government_plan_name": "MORENA",
     "statement_name": "Reducción del gasto estatal",
     "alignment_score": 100,
-    "justification": "El EJE 1 detalla una 'Reducción responsable del tamaño del aparato estatal': auditorías para eliminar duplicidades, fusión de entidades, política de austeridad con recortes salariales a altos cargos, y digitalización para simplificar trámites. Coincide plenamente en objetivos y mecanismos."
+    "justificación": "Eje 1 detalla reducción responsable del aparato estatal: auditorías para eliminar duplicidades, recorte de salarios altos (30%), política de austeridad y simplificación administrativa. Incluye reasignación de recursos a áreas sociales, alineándose con metas cuantificables."
+  },
+  {
+    "government_plan_name": "MORENA",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 60,
+    "justificación": "El plan incluye estimaciones cuantificables (ej: reducción salarial del 30%, digitalización de 100 trámites en 2 años) en Eje 1 y 3, pero no en todas las propuestas. Menciona reasignación de recursos sin siempre especificar montos exactos o fuentes de datos."
   }
 ]

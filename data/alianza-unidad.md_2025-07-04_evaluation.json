@@ -1,0 +1,134 @@
+[
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 80,
+    "justification": "El plan aborda la transición energética en la sección 8 (Recursos naturales), proponiendo migrar al 45% de energía renovable para 2030, impulsar parques solares/eólicos, y promover electromovilidad. Coincide con inversión en renovables y reducción de dependencia de combustibles fósiles, pero omite detalles sobre hidrógeno/baterías e incentivos empresariales específicos."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 60,
+    "justification": "La sección 7 (Agricultura y Pecuaria) promueve diversificación, cultivos alternativos y tecnología agrícola sostenible, alineándose con reducción de monocultivos y valor agregado. Sin embargo, no menciona impuestos al monocultivo, incentivos para orgánicos ni priorización de plantas nativas, limitando la coherencia."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 60,
+    "justification": "El plan fomenta ganado camélido y acceso a mercados de carne en la sección 7, coincidiendo con inversión en insumos y acuerdos exportadores. No aborda aseguramiento de abastecimiento nacional antes de exportar, controles de exportación o penalización de competencia desleal."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 100,
+    "justificación": "Totalmente alineado con la sección 9 (Sostenibilidad Ambiental), que establece 'Deforestación Cero 2030', prohibición de chaqueos, penas de 30 años, reforestación de 10M árboles/año, y creación de fiscalía forestal. Incluye sistemas de alerta temprana y auditoría de concesiones."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 60,
+    "justification": "La sección 8 (Minería) propone auditorías a AJAM/SENARECOM y actualización normativa, coincidiendo con revisión de contratos. Omite fortalecimiento de patrullas, presencia estatal en minas o fuerzas conjuntas con FFAA para control directo."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justification": "Alineado con sección 9: endurece penas a 30 años para delitos ambientales, crea observatorio de monitoreo, combate tráfico de especies y protege biodiversidad. No menciona explícitamente reducción de monocultivos ni revisión de ley de Madre Tierra."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 40,
+    "justification": "Mencionado superficialmente en el Fondo Soberano Ambiental (sección 9) para economía circular, pero sin detalles sobre plantas de reciclaje, abonos orgánicos, sanciones a infractores o incentivos tributarios verdes. Falta profundidad en propuestas."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 60,
+    "justification": "Coincide con la crítica al extractivismo (Prólogo) y promoción de valor agregado en litio/agroindustria (secciones 3 y 7). Omite planes cuantificables de incentivos o estrategia clara para convertir a Bolivia en potencia industrial."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 100,
+    "justification": "Totalmente alineado con la sección 10 (Reforma de la Justicia): elimina elecciones judiciales, establece carrera meritocrática, suprime Tribunal Constitucional, y promueve controles ciudadanos mediante gobierno abierto y plataformas digitales."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 20,
+    "justification": "El plan restablece relaciones con EE.UU. (sección 10) pero no menciona colaboración con DEA, riesgos de injerencia o corrupción en narcotráfico. Solo aborda lucha antidroga con FELCN, sin referirse a actores externos."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Pólitica exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 60,
+    "justification": "Alineado en restablecer relaciones con EE.UU. y priorizar democracias (sección 10), pero sin detalles sobre acuerdos militares, inmunidad diplomática o concesiones a empresas occidentales. Rechaza alineamientos ideológicos explícitos."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 20,
+    "justification": "El plan rechaza explícitamente alianzas con regímenes autoritarios como Venezuela/Cuba (sección 10), sin promover acuerdos con BRICS. Prioriza relaciones con democracias, desalineándose de cooperación militar/comercial con el bloque oriental."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 100,
+    "justification": "Totalmente alineado con sección 10: prioriza soberanía, evita bases militares/inmunidad diplomática, trabaja con todos los bloques bajo principios democráticos, y rechaza subordinación a potencias o alianzas ideológicas."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 60,
+    "justification": "Alineado en educación intercultural y medicina tradicional (sección 6), pero sin incluir lenguas originarias en currículas, campañas educativas en idiomas nativos o proyectos de cosmovisión precolonial. Enfoque superficial en saberes ancestrales."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 60,
+    "justification": "Coincide en apertura a inversión y reducción de burocracia (sección 3-Solución 4), pero mantiene bonos sociales y empresas estatales estratégicas. No propone paraísos fiscales, reducción radical del Estado ni alineación con figuras como Milei."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justification": "No mencionado en el plan. La sección 10 aborda protección de bolivianos en el exterior, pero no políticas migratorias hacia Bolivia, discursos excluyentes o trato a migrantes indocumentados."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Igualdad de genero",
+    "alignment_score": 80,
+    "justification": "Alineado con la 'Agenda de las mujeres' (sección 6): promueve participación política femenina, lucha contra violencia de género y acceso a derechos. Omite menciones explícitas a comunidad LGBT y medidas beyond permisos de maternidad."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 40,
+    "justification": "Menciona diversidad cultural en educación/salud (sección 6) pero no desarrolla autonomía decisional para comunidades, recuperación de saberes ancestrales o garantías políticas plurinacionales. Enfoque limitado respecto al concepto constitucional."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 40,
+    "justification": "Promueve innovación tecnológica (sección 11) pero sin énfasis en soberanía: no menciona software libre, tecnologías libres de patentes en medicina/agricultura, o rechazo a dependencias externas. Omite licencias permisivas y estándares abiertos."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 80,
+    "justification": "Alineado con 'Acciones en Salud' (sección 6): digitalización, acceso a medicamentos, infraestructura moderna, y fondos para enfermedades catastróficas. Falta especificar cifras de inversión y detalles sobre redistribución de ítems para trabajadores."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 80,
+    "justification": "Totalmente alineado con Solución 3 y sección 10: reduce 20% de gasto corriente, cierra entidades ineficientes, audita empresas públicas y optimiza inversión. Justificado por crisis fiscal, aunque faltan estimaciones detalladas para todas las medidas."
+  },
+  {
+    "government_plan_name": "Alianza Unidad",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 60,
+    "justification": "Incluye metas cuantificables (45% energías renovables, 10M árboles/año) pero no fuentes de datos, montos de inversión detallados o estimaciones para la mayoría de propuestas. Limitada verificabilidad en reestructuraciones o asignación de recursos."
+  }
+]

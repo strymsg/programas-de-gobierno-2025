@@ -1,0 +1,133 @@
+   {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 100,
+    "justification": "El plan gubernamental detalla inversiones específicas en energías renovables como solar, eólica y baterías de litio (Sección 'Recuperación y Diversificación Energética', presupuesto de USD 1.8 mil millones 2025-2030). Propone creación de incentivos fiscales para empresas que usen tecnologías limpias (Eje 10) y establece objetivos claros para reducir dependencia de combustibles fósiles, alineándose completamente con la declaración."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 80,
+    "justification": "El plan promueve diversificación agrícola mediante biotecnología y valor agregado (Eje 9), con incentivos para producción sostenible. Aunque menciona cultivos nativos y reducción de monocultivos, faltan detalles sobre impuestos específicos a monocultivos o priorización explícita de plantas nativas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 40,
+    "justificación": "El plan aborda el sector agropecuario en general (Eje 9) pero no menciona específicamente ganado camélido, redes de distribución de insumos veterinarios, ni controles de exportación. La alineación es débil por falta de enfoque en diversificación ganadera y medidas regulatorias concretas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 20,
+    "justificación": "El plan menciona protección ambiental y bonos de carbono (Eje 6.3) pero carece de propuestas específicas contra deforestación: no aborda sistemas de alerta temprana, endurecimiento de penas, transparencia en licencias forestales, o marcos legales de reforestación obligatoria."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 60,
+    "justificación": "El plan propone fortalecer instituciones contra tráfico ilícito (Ley 913 modificada, Eje 6.2) y auditorías en minería (Eje 1.6), pero no detalla planes para control de oro, minerales raros, ni creación de fuerzas conjuntas con apoyo militar específico para minería ilegal."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 70,
+    "justificación": "El plan incluye fortalecimiento institucional ambiental (Eje 1.1) y proyectos de bonos de carbono (Eje 6.3), pero no profundiza en penalización de infractores, lucha contra tráfico de especies, o revisión de leyes de derechos de la Madre Tierra, dejando aspectos clave sin desarrollar."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 30,
+    "justificación": "El plan no aborda economía circular, reciclaje, tratamiento de residuos, ni incentivos para emprendimientos verdes. Solo menciona monetización de bienes incautados (Eje 6.2), sin relación con gestión sostenible de desechos, lo que evidencia baja alineación."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 100,
+    "justificación": "El plan enfatiza industrialización con valor agregado (Eje 5, Eje 9) y promueve parques industriales para PYMES (Eje 5.1). Critica explícitamente el modelo extractivista y propone incentivos para transformación de materias primas, alineándose plenamente con la declaración."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 90,
+    "justificación": "El plan propone reformas constitucionales para independencia judicial y límites a reelecciones (Eje 30), junto a mecanismos de control ciudadano (Eje 1.4). Aunque no detalla medidas contra injerencia entre poderes, establece bases sólidas para separación efectiva."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 0,
+    "justificación": "El plan no menciona colaboración con DEA, narcotráfico, ni riesgos de intervencionismo. Su enfoque en seguridad (Ministerio de Gobierno) carece de referencias a políticas antidroga o relaciones con agencias extranjeras, mostrando omisión total de este tema."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 80,
+    "justificación": "El plan promueve atracción de inversiones extranjeras (Eje 13) y acuerdos comerciales (Eje 8), alineándose con apertura a bloques occidentales. Sin embargo, no especifica relaciones militares o concesiones a empresas específicas, dejando detalles geopolíticos implícitos."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 40,
+    "justificación": "El plan menciona cooperación global (Eje 8) pero no prioriza alianzas con China, Rusia o BRICS. Solo se enfoca en inversiones sin distinción de bloques, omitiendo referencias a cooperación militar o acuerdos estratégicos con el bloque oriental."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 70,
+    "justificación": "El plan enfatiza diplomacia productiva para atraer inversiones sin alineación ideológica (Eje 8), rechazando riesgos a soberanía. Aunque no menciona explícitamente neutralidad, su enfoque en beneficios económicos y cooperación técnica respalda este principio."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 60,
+    "justificación": "El plan incluye educación en lenguas originarias y respeto a diversidad cultural (Eje 28), pero no desarrolla programas específicos de recuperación de saberes ancestrales en medicina o cosmovisión. La mención es general, sin presupuestos o acciones concretas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 100,
+    "justificación": "El plan propone reducción de impuestos (Eje 3), flexibilización regulatoria (Eje 7), y promoción de inversión privada (Eje 12), alineándose con principios liberales. Incluye acuerdos de libre comercio y crítica al estatismo, reflejando una visión económica liberal."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justificación": "El plan no aborda políticas migratorias, recepción de migrantes, ni discursos excluyentes. Su enfoque en empleo local (Misión) no menciona restricciones a migrantes, mostrando omisión completa de este tema."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Igualdad de genero",
+    "alignment_score": 100,
+    "justificación": "El plan prioriza equidad de género (Eje 28), con medidas contra discriminación y promoción de participación femenina en cargos decisorios. Incluye compromisos explícitos en su Visión, alineándose plenamente con la declaración."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 100,
+    "justificación": "El plan reconoce la plurinacionalidad y autonomía indígena (Eje 30), promoviendo diversidad cultural y lingüística (Eje 28). Su Visión enfatiza respeto a derechos humanos sin discriminación, alineándose integralmente con la declaración."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 50,
+    "justificación": "El plan fomenta tecnología en educación y gobierno digital (Eje 1.2, Eje 25), pero no menciona software libre, patentes permisivas, o soberanía tecnológica. Su enfoque es instrumental, sin estrategias claras para reducir dependencias externas."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 100,
+    "justificación": "El plan dedica un pilar completo a salud (III), con reformas estructurales, inversión en infraestructura (Eje 19), y fondos de emergencia (Eje 23). Incluye capacitación médica y acceso universal, alineándose exhaustivamente con la declaración."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 100,
+    "justificación": "El plan detalla austeridad fiscal (Eje 16), reducción de ministerios (Eje 1.3), y optimización de procesos (Eje 1.6), con cifras concretas (ej. ahorro por fusión ministerial). Incluye estimaciones cuantitativas, cumpliendo plenamente con la declaración."
+  },
+  {
+    "government_plan_name": "alianza-la-fuerza-del-pueblo.md",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 100,
+    "justificación": "El plan proporciona datos cuantitativos en múltiples secciones (ej. presupuestos en 'Planificación y Estrategias', distribución de impuestos en Eje 3.9), con cifras específicas (USD 1.8 mil millones para energías). Fundamenta propuestas con estimaciones verificables, alineándose perfectamente."
+  }
+]
