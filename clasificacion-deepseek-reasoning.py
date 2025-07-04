@@ -1,5 +1,6 @@
 # Programa para clasificar planes de gobierno de acuerdo a una lista de afirmaciones
 # usando el llms deepseek-reasoner y usando su API
+# LICENCIA: GPLv3. (C) Rodrigo Garcia 2025
 
 import json
 from openai import OpenAI
