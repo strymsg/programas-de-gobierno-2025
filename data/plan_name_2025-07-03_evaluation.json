@@ -1,0 +1,122 @@
+[
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 40,
+    "justification": "El plan menciona la necesidad de eficiencia y tecnologías sostenibles en la sección IX (Respeto de los derechos de la Madre Tierra), como 'Mejoramiento del conocimiento y las tecnologías para la eficiencia en el uso de los componentes de la madre tierra'. Sin embargo, no aborda explícitamente inversión en energías renovables específicas como paneles solares o hidrógeno, y su enfoque en industrialización (II.c) prioriza sectores estratégicos tradicionales sobre una transición energética integral."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 70,
+    "justification": "El plan alinea con la diversificación agrícola y soberanía alimentaria en la sección II (Agroindustria), enfatizando 'Fortalecer la base productiva soberana' y control de excedentes. Además, la sección IX promueve 'patrones de producción compatibles con la Madre Tierra' y rechaza monocultivos dañinos. Sin embargo, no detalla impuestos a monocultivos o incentivos orgánicos explícitos."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 50,
+    "justification": "El plan aborda el control de exportaciones y abastecimiento nacional en la sección II (Agroindustria), pero no menciona específicamente ganado camélido o redes de insumos. La sección VI (Derechos del pueblo) prioriza seguridad alimentaria, alineando parcialmente con regulaciones de abastecimiento, pero sin enfoque en diversificación ganadera."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 85,
+    "justification": "El plan se alinea fuertemente en la sección IX, donde propone 'Sustituir leyes que permiten deforestación masiva', 'Restauración y Reforestación' y 'Fortalecimiento de Instituciones y Fiscalización'. También menciona empleos en manejo sostenible, coincidiendo con planes de alerta temprana y reforestación obligatoria."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 75,
+    "justificación": "En la sección II (Minería), el plan enfatiza 'recuperar el papel rector del Estado' y 'respeto a comunidades y ecosistemas'. La sección IX añade 'Control y supervisión de industrias extractivas' y lucha contra la corrupción (VIII), alineando con auditorías y presencia estatal, aunque no detalla fuerzas conjuntas militares."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 90,
+    "justification": "El plan tiene alta alineación en la sección IX completa, con acciones como 'Implementar planes de Justicia Ambiental', 'Control de industrias extractivas', 'Fortalecimiento institucional' y 'Protección de biodiversidad'. También incluye endurecimiento de penas y combate al tráfico de especies, reflejando un enfoque integral."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 25,
+    "justification": "El plan no aborda explícitamente economía circular o plantas de reciclaje. La sección IX menciona 'Promover patrones de producción sostenibles' vagamente, pero no propone incentivos tributarios, tratamiento de residuos o sanciones específicas, dejando esta área con mínima cobertura."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 95,
+    "justification": "Totalmente alineado con la sección II, donde el plan prioriza 'industrialización con sustitución de importaciones', 'complejos productivos' y operación de 170 plantas industriales. Enfatiza romper la dependencia de exportar materias primas sin valor agregado, coincidiendo con el enfoque estratégico en litio y otras industrias."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 80,
+    "justification": "La sección VIII (Transformación de la justicia) promueve 'Independencia Judicial', 'transparencia patrimonial' y 'sistemas de evaluación meritocrática'. Incluye reformas para evitar injerencias entre poderes y participación ciudadana, aunque no detalla mecanismos de control ciudadano tan explícitos."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 85,
+    "justification": "El plan rechaza el intervencionismo en la sección III (Política exterior), defendiendo 'no intervención y autodeterminación'. Critica el neocolonialismo y alinea con posturas antiimperialistas, aunque no menciona la DEA específicamente, su oposición a injerenzas extranjeras es clara."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 10,
+    "justification": "El plan desalinea fuertemente; la sección III promueve multipolaridad antiimperialista, integración con BRICS/ALBA y rechazo al bloque occidental capitalista. Busca 'soberanía' y evita alineamientos con potencias como EE.UU., priorizando relaciones con países no alineados o del Sur Global."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 90,
+    "justification": "Totalmente alineado con la sección III, donde el plan prioriza 'Fortalecer presencia en BRICS', integración con ALBA-TCP (incluyendo Venezuela/Cuba) y acuerdos con países como Rusia/China. Promueve activamente un mundo multipolar con enfoque oriental y antioccidental."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 60,
+    "justification": "El plan apoya la soberanía y no intervención (sección III), coincidiendo con evitar bases militares o injerencias. Sin embargo, su postura pro-BRICS/antioccidental muestra un sesgo hacia el bloque oriental, reduciendo la neutralidad plena aunque mantiene principios de autodeterminación."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 95,
+    "justification": "Alineado con la sección X (Cultura) y V (Educación), donde el plan impulsa 'Sabiduría Ancestral Viva', centros de medicina tradicional y educación en lenguas originarias. Enfatiza 'descolonización', protección de saberes indígenas y revitalización cultural, integrando quechua, aymara y otras lenguas."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 5,
+    "justification": "El plan desalinea completamente; en la sección II, defiende el 'Modelo Económico Social Comunitario', opuesto al neoliberalismo. Promueve control estatal, redistribución y economía solidaria, rechazando acuerdos de libre comercio, paraísos fiscales o reducción del Estado, típicos de políticas liberales."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 20,
+    "justification": "El plan no aborda políticas migratorias restrictivas. La sección III menciona 'Los bolivianos en el exterior: la migración es un derecho humano', enfocándose en derechos, no exclusión. Su postura general de inclusión social (VI) desalinea con discursos excluyentes hacia migrantes."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 75,
+    "justification": "Alineado con la sección X y VI; el plan incluye el 'Servicio Plurinacional de la Mujer', programas para acceso a empleo/tierra y reducción de inequidad de género. Sin embargo, no profundiza en crímenes contra LGBTQ+ o feminicidios, limitando la cobertura integral."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 80,
+    "justification": "La sección V (Desarrollo incentivo a la investigación) promueve 'innovación tecnológica soberana', formación especializada y reducción de dependencias externas. Incluye creación de institutos estratégicos y uso de estándares abiertos, alineando con tecnología libre y control nacional."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 90,
+    "justification": "Totalmente alineado con la sección IV (Revolución en salud), que detalla un 'SUS fuerte', historia clínica digital, fondos solidarios para enfermedades costosas y atención 24 horas. Incluye inversión en infraestructura, prevención y apoyo a trabajadores de salud, cubriendo mejoras integrales."
+  },
+  {
+    "government_plan_name": "MAS-IPSP",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 15,
+    "justification": "El plan desalinea; enfatiza inversión pública, expansión de servicios (VI) y fortalecimiento estatal, no reducción. Propone aumentar empresas públicas (II) y derechos sociales, sin mención a recortes de ministerios o personal. La lucha contra la burocracia (VIII) no implica reducción presupuestaria."
+  }
+]

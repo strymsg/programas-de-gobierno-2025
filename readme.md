@@ -1,3 +1,22 @@
+# Clasificación de planes de gobierno
+
+Con el uso de *LLM* se han evaluado los planes de gobierno para ver que tan alineado esta con una lista de [afirmaciones](afirmaciones1_rg.md). 
+
+Los resultados de la evaluación están dentro la carpeta `data/` ejecutando el archivo `clasificacion-deepseek-reasoning.py` que usa el modelo [deepseek-reasoning](https://api-docs.deepseek.com/guides/reasoning_model) mediante API.
+
+## Ejecutar
+
+Si quieres ejecutarlo y obtener tus propios resultados debes:
+
+1. Clonar este proyecto
+2. Ubicar una terminal en la carpeta del proyecto
+3. Crear un entorno virtual con `pipenv shell`
+4. Instalar dependencias `pipenv install`
+5. Definir la variable de entorno `OPENAPI_API_KEY` con el token API que cuentes para deepseek
+6. Ejecutar con `python clasificacion-deepseek-reasoning.py` (puede tardar varios minutos)
+7. Revisar la carpeta `data/` donde se guardan los resultados en texto plano y json.
+
+# Planes de gobierno
 ## [Morena](programas/morena.md)
 
 - Eva Copa
@@ -37,3 +56,7 @@
 ## [Alianza La Fuerza del Pueblo](programas/alianza-la-fuerza-del-pueblo.md)
 
 - Jhonny Fernández
+
+----
+
+# Ejecutando clasificación con modelos LLM

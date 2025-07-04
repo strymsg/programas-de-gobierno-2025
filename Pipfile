@@ -7,6 +7,11 @@ name = "pypi"
 ollama = "*"
 langchain = "*"
 langchain-text-splitters = "*"
+genai = "*"
+google = "*"
+google-api-python-client = "*"
+google-generativeai = "*"
+openai = "*"
 
 [dev-packages]
 

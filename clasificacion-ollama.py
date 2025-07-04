@@ -42,7 +42,7 @@ if __name__ == "__main__":
     # Configuration
     DOCS_DIR = "programas/"  # Directory with markdown files
     #MODEL = "deepseek-r1:14b-qwen-distill-q8_0"  # Ollama model name
-    MODEL = "deepseek-r1:1.5b"  # Ollama model name
+    MODEL = "deepseek-r1:latest"  # Ollama model name
 
     # Statements
     statements_document = get_markdown_file(".", "afirmaciones1_rg.md", clean=False)
@@ -64,7 +64,6 @@ if __name__ == "__main__":
             print(respuesta)
             # TODO: Guardar como csv o json
             print('---------------------------')
-    
     # Load context
     #context = load_markdown_files(DOCS_DIR)
     
