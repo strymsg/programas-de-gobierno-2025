@@ -1,0 +1,134 @@
+[
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 80,
+    "justification": "El plan menciona la promoción de energías renovables en la Política 10 (E.2), específicamente en las Estrategias 4 (desarrollo de energías renovables), 7 (reestructuración de empresas energéticas) y 13 (fomento de autogeneración de energías limpias). También se alinea con la Estrategia 12 de la Política 1 (Fondo para Descarbonización). Sin embargo, falta detalle cuantitativo en inversiones específicas para paneles solares, turbinas o hidrógeno."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 30,
+    "justification": "No se menciona explícitamente en el plan. Aunque la Política 6 (E.2) aborda reducción de deforestación vinculada a monocultivos, no hay estrategias para diversificación agrícola, cultivos orgánicos o impuestos a monocultivos. Solo existe una referencia tangencial en el análisis de deforestación (B.1.4)."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 0,
+    "justification": "El plan no aborda el sector ganadero, camelidos, redes de distribución de insumos, control de exportaciones o acuerdos comerciales de carne. No hay menciones en dimensiones sectoriales ni estructurales."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 80,
+    "justificación": "Totalmente alineado con la Política 6 (E.2): Estrategias 1-7 cubren prevención de incendios, erradicación de minería ilegal, fortalecimiento normativo y educación ambiental. Se menciona explícitamente la abrogación de 'leyes incendiarias' (Estrategia 7) y control de deforestación en análisis (B.1.4). Faltan detalles sobre sistemas de alerta temprana o reforestación obligatoria."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 70,
+    "justificación": "Alineado con la Estrategia 4 de la Política 6 (E.2) que prioriza erradicación de minería ilegal. La Política 11 (E.2) también aborda formalización minera y protección ambiental (Estrategias 2,4,5). Sin embargo, no se especifican patrullas, auditorías a la AJAM o fuerzas conjuntas con ejército."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justificación": "Fuertemente alineado con la Política 6 completa (E.2), que incluye endurecimiento de penas (Estrategia 4), fortalecimiento institucional (Estrategia 5) y protección de ecosistemas. El análisis (B.1.4) detalla crisis ambientales. No menciona tráfico de especies ni revisión de leyes específicas."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 0,
+    "justificación": "No existe mención a economía circular, plantas de reciclaje, tratamiento de residuos o incentivos tributarios verdes en el plan. Las dimensiones ambientales se centran en deforestación y recursos hídricos."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 30,
+    "justificación": "Solo mencionado brevemente en el análisis (B.1.1) como necesidad de superar el extractivismo. No hay políticas concretas para industrialización, valor agregado o incentivos en dimensiones sectoriales."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 70,
+    "justificación": "Directamente alineado con la Política 3 (E.1): Estrategias 1-4 buscan institucionalizar y modernizar el sistema judicial, evitando politización. El análisis (B.1.3) critica la injerencia política actual. Faltan mecanismos de control ciudadano explícitos."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 0,
+    "justificación": "No se menciona cooperación internacional, DEA o riesgos de intervencionismo en narcotráfico. El plan solo describe estadísticas de decomisos (B.1.5) sin abordar alianzas externas."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 0,
+    "justificación": "El plan no detalla relaciones exteriores con bloques específicos. Las únicas referencias a cooperación internacional son en reforma judicial (E.1 Política 3, Estrategia 2), sin enfoque en países occidentales."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 0,
+    "justificación": "Ausencia total de mención a relaciones con China, Rusia, BRICS o bloques orientales. No se aborda política exterior en dimensiones del plan."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 0,
+    "justificación": "El plan no incluye política exterior. No menciona cooperación con vecinos, bases militares, inmunidad diplomática o riesgos de injerencia."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 70,
+    "justificación": "Alineado con la Estrategia 5 de la Política 1 (E.2) que impulsa un sistema trilingüe (castellano/lengua originaria/inglés). El objetivo 5 (D.2) protege a pueblos indígenas. Faltan detalles sobre saberes médicos o filosóficos ancestrales."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 60,
+    "justificación": "Parcialmente alineado con la Política 1 (E.1): Estrategias 10 (formalización simplificada), 11 (reducción de burocracia) y 15 (liberalización de exportaciones). Sin embargo, no promueve paraísos fiscales, reducción estatal drástica o alineamiento con bloques capitalistas."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justificación": "No se aborda política migratoria, recepción de migrantes o discursos excluyentes en ningún apartado del plan."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 80,
+    "justificación": "Alineado con el Objetivo 5 (D.2) y Política 5 (E.2) que priorizan igualdad para mujeres y población LGBTI (Estrategias 3,6). El análisis (B.1.4) cita datos de violencia de género. Faltan medidas específicas contra femicidios."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 60,
+    "justificación": "Mencionado implícitamente en instituciones como 'Tribunal Constitucional Plurinacional'. La Estrategia 5 de Política 1 (E.2) incluye lenguas originarias en educación. No desarrolla autonomía o representación política diversa."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 80,
+    "justificación": "Directamente alineado con la Política 7 (E.2): Estrategias 1-7 promueven I+D+i, infraestructura tecnológica soberana (Estrategia 5) y fortalecimiento universitario. El análisis (B.1.7) critica baja inversión actual. Faltan referencias a software libre o patentes."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 80,
+    "justificación": "Totalmente cubierto por el Objetivo 2 (D.2) y Política 2 (E.2), con 9 estrategias que incluyen inversión en infraestructura, digitalización y atención a grupos vulnerables. El análisis (B.1.4) detalla crisis médica. Falta especificar importación de medicamentos."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 80,
+    "justificación": "Núcleo de la Política 1 (E.1): Estrategias 1 (racionalización del gasto), 3 (reasignación de recursos), 6 (congelamiento de contrataciones) y 11 (reducción de burocracia). El análisis (B.1.1) critica déficit fiscal. Faltan estimaciones cuantitativas."
+  },
+  {
+    "government_plan_name": "partido-democrata-cristiano.md",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 40,
+    "justificación": "El plan incluye datos en análisis (B.1) sobre economía, salud y educación, pero las políticas (E.1, E.2) carecen de cifras concretas para inversiones o metas. Solo menciona estadísticas generales sin fuentes detalladas."
+  }
+]

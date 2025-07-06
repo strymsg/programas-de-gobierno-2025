@@ -1,0 +1,133 @@
+   {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 80,
+    "justification": "El plan menciona explícitamente la transición energética hacia fuentes renovables en la sección 'Energía' (punto 1), con objetivos cuantificables (45% de electricidad renovable para 2030). Se detallan inversiones en parques solares, eólicos e hidroeléctricos, y promoción de electromovilidad. Sin embargo, faltan datos específicos sobre inversión en hidrógeno o baterías, y los incentivos empresariales no están desarrollados."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 70,
+    "justification": "En 'Agricultura y Pecuaria' se propone diversificación de cultivos, agricultura de precisión y apoyo a productos ecológicos. El plan menciona cultivos alternativos como banano y quinua, pero no aborda impuestos a monocultivos ni profundiza en tecnologías agrícolas sostenibles. La sección carece de metas cuantitativas claras."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 60,
+    "justification": "El plan promueve la ganadería camélida en 'Agricultura y Pecuaria' (punto 9) y menciona acceso a mercados internacionales. Sin embargo, no especifica mecanismos de control de exportaciones, redes de distribución de insumos, ni medidas contra competencia desleal. Solo hay menciones breves sin desarrollo de propuestas concretas."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 80,
+    "justification": "En 'Sostenibilidad Ambiental' se establece 'Deforestación Cero 2030' (punto 1) con reforestación de 10 millones de árboles/año, endurecimiento de penas (30 años por incendios) y creación de fiscalía forestal. Se mencionan sistemas de alerta temprana, aunque sin detalles operativos. Es uno de los temas mejor respaldados con acciones cuantificables."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 70,
+    "justificación": "La sección 'Minería' propone auditorías a AJAM/SENARECOM (punto 8), regulación de oro y minerales raros, y formalización cooperativa. Se menciona fortalecer controles pero sin detalles sobre patrullas o fuerzas conjuntas. La alineación es clara pero falta especificidad en mecanismos de implementación."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justification": "El plan aborda integralmente la protección ambiental en 'Sostenibilidad Ambiental': endurecimiento de penas (punto 3), combate al tráfico de especies (punto 9), y sistemas de monitoreo (punto 6). Incluye revisión normativa pero no profundiza en evaluación de ecosistemas. Múltiples menciones con descripciones sólidas."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 40,
+    "justification": "Solo existe una mención breve en 'Sostenibilidad Ambiental' (punto 5) sobre promoción de economía circular, sin detalles sobre plantas de reciclaje, tratamiento de residuos o incentivos tributarios. No se abordan sanciones a infractores ni fabricación de abonos orgánicos. Alineación superficial."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 60,
+    "justification": "El plan enfatiza agregar valor a materias primas en 'Solución 1' (litio) y 'Agricultura y Pecuaria' (industrialización de productos). Sin embargo, carece de planes específicos o incentivos cuantificables para transformar el modelo extractivista. Menciones genéricas sin estrategia detallada."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 80,
+    "justification": "La 'Reforma de la Justicia' propone eliminación del Tribunal Constitucional Plurinacional y carrera judicial meritocrática (puntos 1-3). Se establecen mecanismos contra injerencias ejecutivas, aunque los controles ciudadanos no están desarrollados. Descripciones sólidas en sección dedicada."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 20,
+    "justification": "El plan no menciona a la DEA. En 'Seguridad Ciudadana' (punto 3) se habla de cooperación internacional antidroga sin especificar organismos. No hay referencia a riesgos de intervencionismo o corrupción en colaboraciones. Alineación casi nula con la preocupación planteada."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 70,
+    "justification": "En 'Política Exterior' se prioriza restablecer relaciones con EE.UU. (punto 12) y apertura a inversiones. No se mencionan acuerdos militares o bases, pero sí cooperación económica. Bien alineado en esencia, aunque faltan detalles sobre mecanismos concretos con el bloque occidental."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 0,
+    "justification": "El plan explícitamente rechaza alineación con regímenes autoritarios (punto 13 de Política Exterior), incluyendo Venezuela y Cuba. No hay propuestas de acercamiento al BRICS o bloques orientales. Totalmente desalineado con la premisa del enunciado."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 60,
+    "justification": "La sección 'Política Exterior' promueve relaciones con todos los países sin alineamientos ideológicos (punto 1), evitando explícitamente bases militares o inmunidades diplomáticas riesgosas. Coincide en filosofía, pero faltan detalles operativos sobre cómo mantener neutralidad en acuerdos concretos."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 70,
+    "justification": "En 'Programa de Educación' (punto 20) se promueve educación intercultural e inclusión de lenguas originarias. Se mencionan saberes ancestrales, aunque sin programas específicos para medicina o cosmovisión. Bien alineado en enfoque, pero con desarrollo limitado en aplicación práctica."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 40,
+    "justification": "El plan fomenta inversión privada ('Solución 4') y reducción estatal ('Solución 3'), pero rechaza privatizaciones y mantiene empresas públicas estratégicas. No propone paraísos fiscales ni reducción drástica de impuestos. Alineación superficial con algunos elementos, pero no con modelo liberal extremo."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 20,
+    "justification": "No se aborda políticas migratorias. La sección 'Política Exterior' (punto 10) protege bolivianos en el exterior, pero no menciona migrantes entrantes. Ninguna referencia a discursos excluyentes o restricciones. Alineación casi inexistente."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Igualdad de genero",
+    "alignment_score": 100,
+    "justification": "La 'Agenda de las mujeres' detalla 9 puntos con medidas concretas: autonomía económica (punto 1), lucha contra violencia (punto 3), paridad política (punto 6). Incluye sistemas de cuidado y derechos reproductivos. Es la sección más desarrollada, con múltiples propuestas respaldadas."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 60,
+    "justification": "Se menciona plurinacionalidad en 'Reforma de la Justicia' (punto 4) para integración jurídica, y en educación intercultural. Sin embargo, no se profundiza en autonomías decisionales o revalorización filosófica profunda. Alineado conceptualmente pero con desarrollo limitado."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 40,
+    "justification": "En 'Tecnologías TICs' (punto 7) se promueve innovación, pero sin énfasis en soberanía tecnológica. No se menciona software libre, patentes permisivas o estándares abiertos en medicina/agricultura. Solo hay menciones genéricas a investigación sin enfoque anticolonial."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 100,
+    "justification": "'Acciones en Salud' detalla 11 puntos con medidas concretas: historia clínica digital (punto 5), medicamentos accesibles (punto 2), redes integradas (punto 10), y fondos para enfermedades catastróficas (punto 8). Incluye inversión en infraestructura y profesionalización. Sección exhaustiva con datos cualitativos."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 80,
+    "justification": "'Solución 3' propone recortar 20% del gasto corriente, cerrar entidades ineficientes y digitalizar el estado. 'Primeros 100 días' (punto 2) detalla racionalización fiscal. Aunque faltan cifras exactas por entidad, las directrices son claras y cuantificables en términos porcentuales."
+  },
+  {
+    "government_plan_name": "alianza-unidad.md",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 50,
+    "justification": "El plan incluye datos aislados (ej. 10M árboles/año, 45% energía renovable), pero no sistemáticamente. Se citan montos en 'Solución 1' (préstamos de $3.500M) pero sin fuentes verificables. Pretende respaldo cuantitativo pero con cobertura irregular y ausencia de metodologías."
+  }
+]

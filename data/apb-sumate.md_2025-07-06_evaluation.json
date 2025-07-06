@@ -1,0 +1,134 @@
+[
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 40,
+    "justification": "El plan menciona diversificar la matriz energética e impulsar energías renovables en la sección '3.4. TRANSFORMACIÓN PRODUCTIVA', pero no especifica inversión en paneles solares, turbinas eólicas o plantas de hidrógeno. Solo aborda hidroeléctricas y energía nuclear sin detalles sobre incentivos para empresas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 70,
+    "justification": "En '3.4. TRANSFORMACIÓN PRODUCTIVA', el plan propone diversificación de cultivos, agricultura orgánica y tecnificación. Menciona programas de titulación rural y sistemas de riego, pero omite impuestos a monocultivos y priorización de plantas nativas. Dos menciones con descripciones moderadas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 60,
+    "justification": "El plan aborda ganadería camélida y cadenas de valor en 'Macro Región Altiplano' bajo '3.4. TRANSFORMACIÓN PRODUCTIVA', pero sin detalles sobre redes de distribución de insumos o control de exportaciones. Una mención con descripción breve y sin datos concretos."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 80,
+    "justificación": "En 'MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE', el plan propone reforestación, combate de incendios y bonos de carbono. Menciona endurecimiento de penas y sistemas de alerta, aunque faltan detalles sobre transparencia en licitaciones forestales. Tres menciones con descripciones sólidas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 60,
+    "justificación": "En 'MINERÍA TRADICIONAL' ('3.4. TRANSFORMACIÓN PRODUCTIVA'), el plan sugiere reformar el código minero y combatir actividades ilícitas, pero no especifica patrullas, presencia estatal en minas o auditorías a la AJAM. Una mención con descripción limitada."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 70,
+    "justificación": "El plan detalla protección ambiental en 'MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE', incluyendo lucha contra tráfico de especies y conservación. Propone endurecer penas pero omite revisión específica de leyes como 'derechos de la madre tierra'. Dos menciones con descripciones moderadas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 50,
+    "justificación": "En 'MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE', se menciona industrializar residuos para energía, pero sin detalles sobre plantas de reciclaje, abonos orgánicos o incentivos tributarios. Una mención breve sin datos de implementación."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 100,
+    "justificación": "El plan enfatiza agregar valor industrial en múltiples secciones ('3.4. TRANSFORMACIÓN PRODUCTIVA'), con ejemplos en minería, agroindustria y litio. Propone cadenas de valor y APPs para manufactura, respaldado por datos de exportaciones. Más de tres menciones con descripciones detalladas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 100,
+    "justificación": "En '3.1. TRANSFORMACIÓN JURÍDICA', el plan detalla reformas para independencia judicial, meritocracia y protección de derechos. Incluye fortalecimiento presupuestario del Órgano Judicial y mecanismos contra injerencias ejecutivas. Múltiples menciones con datos y descripciones exhaustivas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 20,
+    "justificación": "El plan no menciona la DEA. En '3.6. TRANSFORMACIÓN MORAL', aborda narcotráfico con enfoque en soberanía, pero sin referencia a colaboración internacional o riesgos de corrupción. Ninguna mención directa, solo relación tangencial."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 20,
+    "justificación": "En 'DIPLOMACIA DEL DESARROLLO', el plan promueve relaciones globales sin alineación a bloques. No menciona acuerdos militares o libre comercio con Occidente. Ninguna mención específica, solo principio general de neutralidad."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 20,
+    "justificación": "Similar a política con Occidente: el plan aboga por relaciones universales en 'DIPLOMACIA DEL DESARROLLO', sin preferencia por BRICS o aliados orientales. Ninguna mención a bases militares o acuerdos preferenciales."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 100,
+    "justificación": "En 'DIPLOMACIA DEL DESARROLLO', el plan establece explícitamente neutralidad, cooperación sin bloques y protección de soberanía. Rechaza injerencias y bases militares, alineándose plenamente con la declaración. Múltiples descripciones respaldadas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 30,
+    "justificación": "El plan menciona cultura en turismo ('DIPLOMACIA DEL DESARROLLO') pero no integra saberes ancestrales en educación o salud. Ausencia de referencia a lenguas nativas o programas de recuperación. Una mención tangencial sin descripción."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 80,
+    "justificación": "En 'PRINCIPIOS RECTORES' y '3.3. TRANSFORMACIÓN ECONÓMICA', el plan promueve libre mercado, reducción estatal y atracción de inversión privada. Incluye alivios tributarios y APPs, aunque sin mención a paraísos fiscales. Descripciones claras pero faltan algunos detalles."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 0,
+    "justificación": "El plan no aborda políticas migratorias. Ninguna mención a restricciones para migrantes o discursos excluyentes. Sin relación con contenidos existentes."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 0,
+    "justificación": "No se menciona igualdad de género, participación femenina en cargos o protección a comunidades LGBT. Ausencia total en el documento."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 30,
+    "justificación": "El plan menciona autonomías territoriales en '3.7. TRANSFORMACIÓN DE LA GESTIÓN TERRITORIAL', pero no aborda plurinacionalidad étnica o derechos culturales indígenas. Una referencia breve sin desarrollo sustancial."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 80,
+    "justificación": "En 'CIUDADELA DE LA CIENCIA Y TECNOLOGÍA' y 'TELECOMUNICACIONES', el plan fomenta tecnología soberana, software libre e IA. Promueve investigación local, aunque sin detalles específicos sobre patentes o agricultura. Descripciones claras con múltiples menciones."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 100,
+    "justificación": "En '3.5. TRANSFORMACIÓN SOCIAL', el plan detalla reformas sanitarias: digitalización, acceso a medicamentos, infraestructura y fondos de emergencia. Incluye datos presupuestarios y estructura de viceministerios. Múltiples menciones con descripciones exhaustivas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 100,
+    "justificación": "En '3.3. TRANSFORMACIÓN ECONÓMICA', el plan cuantifica reducción de ministerios (de 17 a 14), ahorros (Bs 225 millones) y optimización de empresas públicas. Incluye datos del PGE y acciones contra la burocracia. Respaldado con cifras concretas."
+  },
+  {
+    "government_plan_name": "apb-sumate.md",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 100,
+    "justificación": "El plan utiliza datos constantemente: riesgo país (JP Morgan), calificación crediticia (Moodys), superficie agrícola (FAO), y cifras presupuestarias específicas. Fuentes citadas en 'INTRODUCCIÓN' y secciones económicas. Respaldado integralmente con estadísticas."
+  }
+]

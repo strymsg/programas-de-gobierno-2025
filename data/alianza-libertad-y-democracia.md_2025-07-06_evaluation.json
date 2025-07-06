@@ -1,0 +1,134 @@
+[
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 70,
+    "justification": "El plan menciona explícitamente incentivar inversión en energías renovables (eólica, solar, geotérmica) para modificar la matriz energética hacia 50% renovables (II.2.1). También propone fabricación de biocombustibles. Sin embargo, carece de datos cuantitativos o mecanismos específicos de incentivos para empresas."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 60,
+    "justification": "El plan aborda desarrollo agropecuario sostenible y reforestación industrial (II.2.2), pero solo menciona brevemente biotecnología y no detalla reducción de monocultivos, incentivos orgánicos o diversificación. Ausencia de propuestas sobre impuestos a monocultivos."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 30,
+    "justification": "No hay menciones específicas sobre ganado camélido, redes de insumos o regulación de exportaciones cárnicas. Solo existe referencia tangencial a seguridad jurídica en propiedad de tierras (II.2.2), sin descripción de políticas ganaderas."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 80,
+    "justificación": "El plan detalla acciones contra deforestación: revisión de marco legal, consolidación de áreas protegidas, plan de restauración ecológica en Chiquitania, e incentivos a reforestación industrial (VI.6.9). Faltan datos sobre inversión en sistemas de alerta temprana."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 70,
+    "justification": "Se propone eliminar minería ilegal y fortalecer controles estatales (II.2.4), pero sin planes específicos para auditorías, patrullas mineras o regulación de oro/minerales raros. Menciona seguridad jurídica pero no acciones concretas contra explotación descontrolada."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justification": "El plan incluye protección de áreas naturales, combate a incendios, reforestación y regulación de uso de suelo (VI.6.9). También aborda gestión de residuos (4Rs). Sin embargo, no profundiza en tráfico de especies o revisión de leyes ambientales específicas."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 60,
+    "justification": "Se promueven las 4Rs (reducción, reutilización, reciclaje) y reciclaje inclusivo (VI.6.9), pero sin detalles sobre plantas de tratamiento, sanciones a infractores o incentivos tributarios para emprendimientos verdes. No menciona fabricación de abonos orgánicos."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 70,
+    "justification": "El plan enfatiza agregar valor a productos (ej: baterías de litio en II.2.3) e industrialización agrícola (II.2.2). Propone incentivos generales para inversión, pero carece de planes detallados o montos estimados para transformar el modelo extractivista."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 100,
+    "justification": "El plan dedica la sección V.5.3 a reformas judiciales: rediseño del sistema de elección de magistrados, fortalecimiento de carrera judicial y fiscal, y auditorías para garantizar independencia. Incluye mecanismos de control ciudadano y transparencia digital."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 40,
+    "justification": "Menciona combate al narcotráfico con cooperación internacional sin pérdida de soberanía (V.5.4), pero no aborda críticas específicas a la DEA. Propone 'cero coca ilegal', sin discutir corrupción o favoritismo en redes antidrogas."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 80,
+    "justification": "El plan prioriza relaciones con democracias occidentales, apertura comercial y atracción de inversiones (VII). Critica al socialismo del siglo XXI y busca acuerdos con UE/EE.UU., aunque sin detalles sobre bases militares o inmunidad diplomática."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 0,
+    "justification": "El plan rechaza explícitamente alinearse con regímenes autoritarios como Venezuela, Cuba o Rusia (VII), enfocándose en distanciamiento. No hay propuestas de cooperación militar o económica con el bloque oriental socialista."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 70,
+    "justification": "Propone relaciones con todos los países basadas en soberanía y no intervención (VII), pero con énfasis en alineación con democracias occidentales. Rechaza injerencia descontrolada, aunque no especifica restricciones a bases militares o inmunidad diplomática."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 40,
+    "justification": "Solo menciona brevemente la participación indígena en leyes de deslinde jurisdiccional (V.5.3). No incluye educación en lenguas originarias, saberes ancestrales o programas culturales específicos en currículas educativas."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 70,
+    "justification": "Promueve libre comercio, reducción de regulaciones y atracción de inversión privada (II.2.5, II.2.8), pero mantiene rol estatal en sectores estratégicos. No propone paraísos fiscales ni reducción extrema del Estado, alineándose con liberalismo moderado."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 20,
+    "justification": "No aborda políticas migratorias. Solo menciona protección de bolivianos en el exterior (VII), sin referirse a migrantes extranjeros. La sección de seguridad (V.5.4) enfoca crimen, no migración."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 100,
+    "justification": "Dedica la sección VI.6.4 a autonomía económica femenina, combate a violencia de género y programas de liderazgo. Incluye sumatoria de penas para feminicidas y creación de defensoría de la mujer, con enfoque cuantificable."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 40,
+    "justification": "Menciona participación indígena en deslinde jurisdiccional (V.5.3), pero no desarrolla el concepto de estado plurinacional. Ausente en pilares como democracia o autonomías. Prioriza unidad nacional sobre diversidad étnica."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 60,
+    "justification": "El pilar 'Bolivia Digital' (IV) promueve tecnología blockchain y criptomonedas, pero sin énfasis en software libre o patentes permisivas. Menciona desarrollo tecnológico en litio (II.2.3), sin detalles sobre soberanía en investigación médica/agrícola."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 100,
+    "justification": "La sección VI.6.2 detalla digitalización, descentralización y humanización de salud. Incluye propuestas específicas como historia clínica electrónica, reducción de burocracia y programas de salud materno-infantil, con enfoque cuantificable."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 100,
+    "justification": "Propone reducir ministerios a 12, eliminar entidades redundantes y recortar gasto innecesario con metas claras (déficit fiscal del 3% del PIB) en I.1.3. Incluye estimaciones cuantitativas y mecanismos contra la corrupción."
+  },
+  {
+    "government_plan_name": "Alianza Libertad y Democracia",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 80,
+    "justification": "En I.1.8, prioriza transparencia y datos abiertos, fortaleciendo el INE para certificar información. Usa datos históricos en análisis económico (I.1.1-I.1.4), aunque no siempre proporciona estimativos futuros cuantificados para todas las propuestas."
+  }
+]

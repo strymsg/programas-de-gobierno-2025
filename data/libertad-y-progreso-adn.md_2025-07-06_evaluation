@@ -1,0 +1,115 @@
+{
+  "government_plan_name": "Libertad y Progreso ADN",
+  "statements": [
+    {
+      "statement_name": "Compromiso con energías renovables",
+      "alignment_score": 40,
+      "justification": "El plan menciona la eliminación de subsidios a hidrocarburos (Idea-Fuerza 2) y promueve la inversión privada sin regulaciones, pero no aborda específicamente energías renovables ni incentivos para ellas. Solo hay una referencia indirecta al liberar precios energéticos."
+    },
+    {
+      "statement_name": "Cambio del modelo agro productivo",
+      "alignment_score": 30,
+      "justification": "El plan enfatiza la propiedad privada y libre mercado (Idea-Fuerza 1), pero no menciona diversificación de cultivos, orgánicos o impuestos a monocultivos. La referencia más cercana es 'resolver temas de límites territoriales' (Idea-Fuerza 4), sin detalles."
+    },
+    {
+      "statement_name": "Regulación y diversificación del sector ganadero",
+      "alignment_score": 20,
+      "justificación": "No hay menciones a ganado camélido, redes de distribución o controles de exportación. El plan rechaza regulaciones (Idea-Fuerza 1) y prioriza la libertad comercial absoluta, contradiciendo propuestas de control."
+    },
+    {
+      "statement_name": "Compromiso con la reducción de la deforestación",
+      "alignment_score": 10,
+      "justificación": "El plan no aborda deforestación, reforestación ni control forestal. Su enfoque en desregular la propiedad privada (Idea-Fuerza 1) podría aumentar riesgos ambientales sin mecanismos de protección."
+    },
+    {
+      "statement_name": "Lucha contra la minería ilegal",
+      "alignment_score": 50,
+      "justificación": "Coincide parcialmente con la seguridad como función estatal (Idea-Fuerza 4) y reforma judicial (Idea-Fuerza 5), pero no menciona minería específicamente. El plan propone fortalecer FF.AA. para 'defensa nacional', no para control minero."
+    },
+    {
+      "statement_name": "Protección al medio ambiente",
+      "alignment_score": 20,
+      "justificación": "El plan omite protección ambiental. Prioriza reducir el estado (Idea-Fuerza 2) y eliminar regulaciones, contradiciendo sanciones a infractores o planes de conservación. Solo menciona 'seguridad frente a amenazas naturales' vagamente (Criterios de decisión)."
+    },
+    {
+      "statement_name": "Economía circular y procesamiento de residuos",
+      "alignment_score": 30,
+      "justificación": "No aborda reciclaje o economía circular. La única referencia es eliminar empresas públicas deficitarias (Idea-Fuerza 2), sin propuestas para residuos o incentivos verdes."
+    },
+    {
+      "statement_name": "Industrialización de materias primas",
+      "alignment_score": 60,
+      "justificación": "Alineado con el rescate de la propiedad privada y formalización económica (Idea-Fuerza 1). El plan critica el extractivismo y promueve inversión privada para agregar valor, aunque sin planes específicos de industrialización."
+    },
+    {
+      "statement_name": "Independencia de poderes",
+      "alignment_score": 90,
+      "justificación": "Totalmente alineado con la reforma judicial (Idea-Fuerza 5) y separación de poderes. El plan detalla: reforma constitucional para independencia judicial, carrera basada en méritos y protección contra intervencionismo (Idea-Fuerza 3 y 5)."
+    },
+    {
+      "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+      "alignment_score": 70,
+      "justificación": "Coincide con la política exterior que rechaza regímenes autoritarios (Idea-Fuerza 4). El plan enfatiza soberanía y evitar injerencias, aunque no menciona específicamente la DEA o narcotráfico."
+    },
+    {
+      "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+      "alignment_score": 80,
+      "justificación": "Alineado con establecer relaciones con países no autoritarios (Idea-Fuerza 4). El plan promueve acuerdos económicos con naciones capitalistas y rechaza alianzas con regímenes socialistas, aunque sin detalles concretos."
+    },
+    {
+      "statement_name": "Política exterior con el Bloque Oriental",
+      "alignment_score": 20,
+      "justificación": "Contradice el plan, que rechaza explícitamente regímenes socialistas y autoritarios (Idea-Fuerza 4). Propone disociarse de países como Venezuela o Cuba, alineándose con Occidente."
+    },
+    {
+      "statement_name": "Política exterior neutral",
+      "alignment_score": 50,
+      "justificación": "Parcialmente alineado. El plan aboga por relaciones con países que 'beneficien al país' (Idea-Fuerza 4), evitando injerencias, pero prioriza alianzas capitalistas sobre neutralidad estricta."
+    },
+    {
+      "statement_name": "Recuperación de cultura ancestral y saberes locales",
+      "alignment_score": 10,
+      "justificación": "Contradice directamente el plan, que elimina justicia indígena (Idea-Fuerza 5) y promueve 'valores occidentales' (Idea-Fuerza 7). Rechaza enfoques basados en identidad cultural o diversidad lingüística."
+    },
+    {
+      "statement_name": "Economía liberal o anarco capitalista",
+      "alignment_score": 100,
+      "justificación": "Totalmente alineado. El plan promueve libre mercado, reducción estatal, desregulación, inversión privada y acuerdos comerciales (Idea-Fuerza 1, 2 y 10). Cita explícitamente eliminar controles de precios y subsidios, además de reformas laborales."
+    },
+    {
+      "statement_name": "Estado proteccionista contra los migrantes",
+      "alignment_score": 30,
+      "justificación": "No mencionado en el plan. Su enfoque en seguridad (Criterios de decisión) podría interpretarse como control fronterizo, pero no aborda políticas migratorias excluyentes."
+    },
+    {
+      "statement_name": "Igualdad de género",
+      "alignment_score": 0,
+      "justificación": "Contradice directamente el plan, que elimina 'ideología de género' y políticas de equidad (Idea-Fuerza 7). Prioriza meritocracia sin distinciones y prohíbe cambios de sexo, rechazando enfoques LGBT."
+    },
+    {
+      "statement_name": "Plurinacionalidad del estado",
+      "alignment_score": 10,
+      "justificación": "Contradice el plan, que elimina autonomías indígenas (Idea-Fuerza 5) y promueve un estado unitario con valores occidentales (Idea-Fuerza 7). Rechaza reconocimiento de diversidad étnica o saberes ancestrales."
+    },
+    {
+      "statement_name": "Desarrollo de ciencia y tecnología soberana",
+      "alignment_score": 40,
+      "justificación": "El plan menciona 'renovación tecnológica' en salud/educación (Idea-Fuerza 6), pero sin detalles. Prioriza ciencia occidental (Idea-Fuerza 7), no aborda soberanía tecnológica o software libre."
+    },
+    {
+      "statement_name": "Mejoramiento del sistema de salud",
+      "alignment_score": 50,
+      "justificación": "Alineado parcialmente. El plan propone reducir corrupción en salud y fomentar servicios privados (Idea-Fuerza 6), pero sin planes concretos de inversión o reestructuración. Menciona distribución 'eficiente' de fondos."
+    },
+    {
+      "statement_name": "Reducción del gasto estatal",
+      "alignment_score": 100,
+      "justificación": "Totalmente alineado. El plan detalla reducción de ministerios, cierre de empresas públicas y recorte de planilla (Idea-Fuerza 2 y 4). Incluye medidas cuantificables como 'reducir tamaño del Estado' y eliminar subsidios."
+    },
+    {
+      "statement_name": "Presentación de datos que respalden el programa",
+      "alignment_score": 60,
+      "justificación": "El plan justifica medidas con diagnósticos económicos (Introducción) y propone reformas basadas en 'parar la inflación', pero carece de cifras específicas o estimados detallados para inversiones."
+    }
+  ]
+}

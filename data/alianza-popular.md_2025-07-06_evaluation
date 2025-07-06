@@ -1,0 +1,133 @@
+   {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Compromiso con energías renovables",
+    "alignment_score": 80,
+    "justification": "La sección 8 del plan (Transición Energética y Sostenibilidad Ambiental) propone un Plan Nacional de Transición Energética 2025-2050 con inversión en energías renovables como solar, eólica, geotérmica y biocombustibles. Incluye industrialización del litio para baterías e incentivos para empresas que adopten energías limpias, alineándose con el cambio de matriz energética. Falta detalle cuantitativo específico en inversiones."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Cambio del modelo agro productivo",
+    "alignment_score": 70,
+    "justification": "En la sección 4 (Desarrollo Económico, Productivo y de ID) se menciona tecnificación agrícola, monitoreo de producción y diversificación de cultivos, con énfasis en seguridad alimentaria. El plan aborda reducción de monocultivos y promueve cultivos orgánicos, pero no especifica impuestos a monocultivos ni detalles sobre industrialización de productos."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Regulación y diversificación del sector ganadero",
+    "alignment_score": 20,
+    "justification": "No hay menciones específicas al sector ganadero, camélidos o redes de distribución de insumos en el plan. Secciones como desarrollo económico (4) abordan producción en general, pero sin enfoque en ganadería o mecanismos de control de exportaciones."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Compromiso con la reducción de la deforestación",
+    "alignment_score": 80,
+    "justification": "La sección 8 propone protección de ecosistemas (Amazonía, Chiquitania), creación del SINMAC para monitoreo ambiental, y reforma legal con prohibición de minería en áreas protegidas. Incluye reforestación y combate de incendios, aunque faltan datos específicos sobre endurecimiento de penas."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Lucha contra la minería ilegal",
+    "alignment_score": 80,
+    "justificación": "En la sección 3 (Industrias Estratégicas - Minería) se detallan auditorías a contratos mineros, control estatal de explotación de oro, patrullas de fiscalización y participación de fuerzas armadas. Propone reestructuración de COMIBOL y combate a la minería ilegal, pero sin cifras concretas de implementación."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Protección al medio ambiente",
+    "alignment_score": 80,
+    "justification": "La sección 8 establece protección de ecosistemas, lucha contra tráfico de especies y creación de una Agencia Nacional de Vigilancia Ambiental. Incluye reforma legal y sanciones a infractores, aunque no profundiza en planes específicos de evaluación de ecosistemas."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Economía circular y procesamiento de residuos",
+    "alignment_score": 80,
+    "justification": "En la sección 8 se propone un Marco Legal de Economía Circular, parques tecnológicos para residuos, e incentivos fiscales para emprendimientos verdes. Aborda tratamiento de desechos y fabricación de abonos, pero sin detalles sobre plantas de reciclaje específicas."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Industrialización de materias primas",
+    "alignment_score": 90,
+    "justification": "Principio 6 y sección 3 enfatizan la industrialización con valor agregado (litio, minería). Se plantean plantas estatales de transformación de minerales y diversificación productiva para reducir el modelo extractivista, con menciones consistentes en visión y economía."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Independencia de poderes",
+    "alignment_score": 90,
+    "justification": "La sección 7 propone reforma judicial con creación del Consejo Nacional de Justicia autónomo, elección meritocrática de magistrados y mecanismos contra interferencia política. Incluye control ciudadano y rendición de cuentas, alineándose plenamente con la independencia de poderes."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "DEA e intervencionismo extranjero en lucha contra las drogas",
+    "alignment_score": 20,
+    "justification": "No hay menciones a la DEA, narcotráfico o cooperación internacional antidroga en el plan. La sección 10 aborda seguridad fronteriza genérica, pero sin referencia a intervencionismo o corrupción en este ámbito."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Política exterior con Estados Unidos y el bloque occidental",
+    "alignment_score": 40,
+    "justification": "La sección 9 promueve soberanía y rechazo a bases militares extranjeras, alineándose con la neutralidad. Sin embargo, no menciona relaciones con EEUU o bloques occidentales, y su enfoque multipolar contradice alineamientos específicos."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Política exterior con el Bloque Oriental",
+    "alignment_score": 40,
+    "justification": "La sección 9 menciona cooperación con BRICS y países del Sur Global, pero insiste en no alineamiento. Propone acuerdos sin subordinación, lo que contradice una adhesión explícita al bloque oriental, aunque hay referencia a alianzas estratégicas."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Política exterior neutral",
+    "alignment_score": 100,
+    "justification": "La sección 9 define una política exterior soberana y multipolar, con cooperación sin injerencia, rechazo a bases militares e integración regional. Se alinea completamente con neutralidad y protección de soberanía, respaldada por principios y acciones detalladas."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Recuperación de cultura ancestral y saberes locales",
+    "alignment_score": 90,
+    "justification": "Principio 2 y sección 6 promueven educación intercultural, saberes ancestrales y lenguas originarias (quechua, aymara). Incluyen formación docente en cosmovisiones indígenas y sistemas de salud complementarios, con múltiples referencias a diversidad cultural."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Economía liberal o anarco capitalista",
+    "alignment_score": 0,
+    "justification": "El plan rechaza explícitamente el neoliberalismo (visión) y promueve un estado planificador (principio 5). No hay menciones a libre mercado, flexibilización regulatoria o paraísos fiscales, contradiciendo completamente este modelo económico."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Estado proteccionista contra los migrantes",
+    "alignment_score": 20,
+    "justification": "No se aborda política migratoria en el plan. La sección 9 menciona protección a bolivianos en el exterior, pero no políticas de rechazo a migrantes. El principio 8 aboga por inclusión, lo que contradice un enfoque excluyente."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Igualdad de género",
+    "alignment_score": 60,
+    "justification": "Principio 8 garantiza derechos de mujeres y diversidades, con énfasis en inclusión. La sección 5 (salud) menciona perspectiva de género, pero faltan programas específicos contra feminicidios o participación en cargos decisorios, limitando detalles."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Plurinacionalidad del estado",
+    "alignment_score": 100,
+    "justification": "Principio 2 y visión del plan definen al Estado como plurinacional, con reconocimiento de pueblos indígenas, autonomías y lenguas originarias. Sección 7 integra justicia intercultural, respaldado por múltiples descripciones y enfoque transversal."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Desarrollo de ciencia y tecnología soberana",
+    "alignment_score": 70,
+    "justification": "Sección 3 y 4 promueven economía del conocimiento, investigación en biotecnología y soberanía tecnológica. Se menciona formación en TICs, pero faltan detalles sobre software libre o licencias permisivas, aunque se alinea con independencia científica."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Mejoramiento del sistema de salud",
+    "alignment_score": 80,
+    "justification": "Sección 5 detalla universalización del SUS, fortalecimiento de atención primaria y producción nacional de medicamentos. Incluye digitalización y formación de personal, aunque sin cifras específicas de inversión en infraestructura o fondos de emergencia."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Reducción del gasto estatal",
+    "alignment_score": 80,
+    "justification": "Sección 3 (Economía) propone política de austeridad con reducción de ministerios, congelamiento de ítems y reorientación de inversión pública. Incluye fusión de entidades y control del gasto corriente, aunque faltan estimaciones cuantitativas detalladas."
+  },
+  {
+    "government_plan_name": "Alianza Popular",
+    "statement_name": "Presentación de datos que respalden el programa",
+    "alignment_score": 60,
+    "justification": "El plan incluye datos en diagnósticos (ej: déficit fiscal del 12% en sección 3), pero no proporciona cifras sistemáticas para propuestas. Usa estadísticas generales en economía y salud, pero sin montos específicos de inversión o recursos en la mayoría de medidas."
+  }
+]

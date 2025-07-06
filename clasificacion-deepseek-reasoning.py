@@ -38,7 +38,16 @@ def evaluate_alignment(government_plan: str, plan_name: str, statements) -> str:
     \n\nProvied JSON output with:
     - government_plan_name
     - statement_name: (extract from level 2 header)
-    - alignment_score: (100=fully aligned and supported with data, 80=Clearly aligned but lack of some details, 60=Aligned but lack of many details or data, 40=Pretends to be but poorly aligned due to the breverty of mentions, 20=Not aligned but maybe mentioned, 0=Not even mentioned, completely ignored statement)
+    - alignment_score: Take the following approaches to score:
+      -100: Fully aligned and supported with data, more than three mentions and related descriptions.
+      -80: Clearly aligned but may lack of some details, for instance it mentions and describes the statement but lacks some data to support every proposition.
+      -70: Well aligned but lack of details and contains two to three mentions with short descriptions and lack of some data.
+      -60: Aligned but lack of many details or data, the plan mentions and describes the statement one or two times, but with little data.
+      -50:Pretends to be aligned but is mentioned only once with data and description.
+      -40:Pretends to be but poorly aligned due to the breverty of description. Typically there is at most one mention to the statement but with short description and might have no data to support.
+      -30: Pretends to be poorly aligned. There is at most a mention to the statement but no description or data to support it.
+      -20: Almost not aligned. There is not a mention to the statement but other parts of the plan might be related.
+      -0: Not aligned at all. Not even a mention or relation to other statemtns.
     - justification: Cite Government's Plan sections that you used to give the score and what makes it deserve this score.
     - answers must be in spanish language
     """
