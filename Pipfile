@@ -12,6 +12,10 @@ google = "*"
 google-api-python-client = "*"
 google-generativeai = "*"
 openai = "*"
+deepseek = "*"
+chromadb = "*"
+langchain-community = "*"
+langchain-core = "*"
 
 [dev-packages]
 

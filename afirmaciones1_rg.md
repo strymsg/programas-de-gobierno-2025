@@ -64,7 +64,7 @@ Los planes que rechazan la apertura para acoger a migrantes de países extranjer
 
 ## Igualdad de género
 
-Programas de gobeirno que prioricen el papel de las mujeres en cargos de decisión, reducir la discriminación por género y crímenes contra sectores como LGBT que son minoría. Propuestas concretas para reducir los feminicidios y facilitar la participación de las mujeres con ventajas más allá de los permisos de materniadad.
+Programas de gobierno que prioricen el papel de las mujeres en cargos de decisión, reducir la discriminación por género y crímenes contra sectores como LGBT que son minoría. Propuestas concretas para reducir los feminicidios y facilitar la participación de las mujeres con ventajas más allá de los permisos de materniadad.
 
 ## Plurinacionalidad del estado
 

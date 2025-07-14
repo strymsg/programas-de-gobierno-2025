@@ -2,6 +2,7 @@
 # usando el llms deepseek-reasoner y usando su API
 # LICENCIA: GPLv3. (C) Rodrigo Garcia 2025
 
+
 import json
 from openai import OpenAI
 import os
@@ -15,8 +16,8 @@ client = OpenAI(
     base_url="https://api.deepseek.com")
 
 
-def evaluate_alignment(government_plan: str, plan_name: str, statements) -> str:
-    """Ask deppseek how well the given statement align with the given government plan
+def evaluate_alignment(government_plan: str, plan_name: str, statements):
+    """Ask deepseek how well the given statement align with the given government plan
     """
 
     system_prompt = f"""

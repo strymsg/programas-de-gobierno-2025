@@ -8,3 +8,5 @@ secrets.txt
 # python compiled and db files if exists
 *.pyc
 *.db
+
+gov_plan_db/
