@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la forestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "El plan aborda el fortalecimiento institucional y la especialización judicial en derechos humanos, lo que podría aplicarse indirectamente a la creación de mecanismos legales y de control para temas ambientales como la deforestación.",
+      "puntaje": 4,
+      "evidencia_clave": {
+        "sección": "7. JUSTICIA, INSTITUCIONALIDAD Y LUCHA CONTRA LA CORRUPCIÓN > 12. Profesionalización, meritocracia y especialización judicial > (0)",
+        "texto_citado": "Se propone reconfigurar la formación y selección de operadores judiciales bajo principios de excelencia, ética y compromiso con los derechos fundamentales. Las medidas incluyen: - Creación de una Escuela Nacional de la Magistratura autónoma, con planes de estudio exigentes y participación de universidades, centros de derechos humanos y sociedad civil. - Institución de una verdadera carrera judicial basada en concursos de méritos, evaluaciones periódicas, capacitación continua, incentivos al buen desempeño y un régimen disciplinario claro. - Fomento de la especialización judicial en áreas clave como justicia de género, justicia indigena y derechos humanos, mediante formación especifica y transformación de juzgados ordinarios en juzgados es",
+        "relevancia": "La especialización en derechos humanos puede incluir aspectos ambientales, apoyando indirectamente la necesidad de un marco legal y fortalecimiento institucional para reducir la deforestación, aunque no es explícito."
+      }
+    },
+    "peor_alineado": {
+      "plan": "libertad-y-progreso-adn.md",
+      "razón": "El plan se enfoca exclusivamente en enjuiciar delitos pasados sin proponer medidas proactivas de fortalecimiento institucional, transparencia o inversión en control ambiental, lo que contradice el enfoque preventivo y constructivo de la declaración.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "B. DIEZ IDEAS-FUERZA > Idea-Fuerza 9: Enjuiciar a los responsables de la crisis y la corrupción > (10)",
+        "texto_citado": "Iniciaremos los juicios que correspondan, contra los delitos cometidos por los funcionarios públicos o autoridades electas en gestiones pasadas sin distinción de partido político que hayan cometido delitos contra el Estado. Estos delitos incluyen: ejecución de políticas económicas perjudiciales, malgasto y uso indebido de fondos públicos, incumplimiento de normas para la aplicación de recursos, apropiación de bienes públicos, beneficio en razón del cargo, cohecho activo, cohecho pasivo, nepotismo, extorsión, ocultamiento y distorsión de información pública, alteración o manipulación de procesos electorales y de sus resultados, acoso sexual.",
+        "relevancia": "No aborda temas de deforestación, fortalecimiento de instituciones para control futuro, ni inversión en alertas tempranas, siendo reactivo y desalineado con los elementos proactivos y específicos de la declaración."
+      }
+    }
+  }
+}

@@ -2,9 +2,15 @@
 
 Con el uso de *LLM* se han evaluado los planes de gobierno para ver que tan alineados están con una lista de [afirmaciones](afirmaciones1_rg.md).
 
-Los resultados de la evaluación están dentro la carpeta [data](data/) ejecutando el archivo `clasificacion-deepseek-reasoning.py` que usa el modelo [deepseek-reasoning](https://api-docs.deepseek.com/guides/reasoning_model) mediante API.
+## Ejecución clasificación usando LLM (RAG + modelo de razonamiento)
 
-## Ejecutar
+El [notebook](notebooks/llms/programas-de-gobierno-2025/notebooks/Rag_chromaDb_reasoning_using_api.ipynb) produce varios [resultados](data/) como archivos en formato json.
+
+### Otros experimentos
+
+Los resultados de la evaluación están dentro la carpeta [data](data/prueba_2) ejecutando el archivo `clasificacion-deepseek-reasoning.py` que usa el modelo [deepseek-reasoning](https://api-docs.deepseek.com/guides/reasoning_model) mediante API.
+
+#### Ejecutar
 
 Si quieres ejecutarlo y obtener tus propios resultados debes:
 

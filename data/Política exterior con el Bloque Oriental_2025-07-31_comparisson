@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la forestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-libertad-y-democracia.md",
+      "razón": "Este plan incluye una mención explícita al respeto del medio ambiente, lo que podría alinearse indirectamente con iniciativas ambientales como la reducción de deforestación, aunque no aborda medidas específicas.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "VII INSERCIÓN INTERNACIONAL > (3)",
+        "texto_citado": "mostrándonos como un país respetuoso de la democracia, la libertad, las leyes, los derechos humanos y el medio ambiente.",
+        "relevancia": "La referencia al medio ambiente sugiere un compromiso genérico con la protección ambiental, lo que podría apoyar políticas contra la deforestación, aunque falta detalle sobre acciones concretas."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "El contenido de esta sección se centra exclusivamente en asuntos de política exterior, como movimientos internacionales y solidaridad geopolítica, sin ninguna mención a temas ambientales, deforestación o mecanismos de control, lo que muestra una total falta de alineación con la declaración.",
+      "puntaje": 0,
+      "evidencia_clave": {
+        "sección": "III BOLIVIA, ACTOR DINÁMICO EN UN MUNDO MULTIPOLAR > 2. LOS EJES PROGRAMÁTICOS, PROPUESTAS Y ACCIONES: > (1)",
+        "texto_citado": "Agua por la Vida - Impulsar la creación del Movimiento Internacional contra formas análogas al neocolonialismo, especialmente para el uso soberano de nuestros recursos naturales estratégicos. - Implementar iniciativas de solidaridad con la causa palestina en foros regionales e internacionales. - Defender el principio de no intervención y autodeterminación de los pueblos en todos los foros internacionales. - Integrar agendas de los bloques de integración existentes dentro de la CELAC, como por ej",
+        "relevancia": "El enfoque en relaciones internacionales y recursos naturales estratégicos no aborda aspectos clave de la declaración, como leyes contra deforestación, alertas tempranas o transparencia, evidenciando una desconexión completa."
+      }
+    }
+  }
+}

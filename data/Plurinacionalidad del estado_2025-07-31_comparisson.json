@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la forestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "morena.md",
+      "razón": "Aunque no aborda explícitamente la deforestación, su enfoque en educación intercultural y justicia social podría incluir componentes de sostenibilidad ambiental, como la promoción de valores que apoyen la conservación forestal.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "EJE 5 - JUSTICIA SOCIAL Y DIGNIDAD HUMANA > 1. Universalización del acceso a la salud y educación intercultural y gratuita",
+        "texto_citado": "Incluir educación en valores, democracia, justicia social, género y pluralismo cultural en el currículo nacional.",
+        "relevancia": "Esta sección promueve la educación en pluralismo cultural y justicia social, lo que podría extenderse a la conciencia ambiental y sostenibilidad, apoyando indirectamente iniciativas como la reducción de deforestación al fomentar valores de conservación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "El plan se centra en el emprendimiento y la superación de crisis económicas sin mencionar aspectos ambientales, lo que sugiere una priorización del desarrollo económico sobre la conservación forestal y podría contradecir los esfuerzos para reducir la deforestación al no integrar sostenibilidad.",
+      "puntaje": 1,
+      "evidencia_clave": {
+        "sección": "12. UNIDOS, encontraremos las soluciones",
+        "texto_citado": "la Alianza UNIDAD plantea una alternativa clara y contundente: un Proyecto Nacional centrado en el emprendimiento,",
+        "relevancia": "El énfasis en el emprendimiento sin referencia a la protección ambiental o sostenibilidad indica una posible falta de alineación con medidas como el control de deforestación, ya que podría promover actividades económicas que aumenten la presión sobre los bosques sin salvaguardas."
+      }
+    }
+  }
+}

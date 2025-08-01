@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la forestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Su enfoque en transparencia y verificación de gastos públicos se alinea parcialmente con los planes para mejorar la transparencia en licitaciones forestales mencionados en la afirmación, aunque no aborda directamente la deforestación.",
+      "puntaje": 5,
+      "evidencia_clave": {
+        "sección": "3. Soluciones para un nuevo país > SOLUCIÓN TRES. Cuidar el dinero de los bolivianos > (6)",
+        "texto_citado": "Y a partir de la nueva gestión, el Estado debe ser moderno y honesto. EL QUE META LA MANO A LA LATA, SE VA A LA CÁRCEL. Y para que cada gasto que realice sea verificable y deje constancia. Es imperioso construir un gobierno transparente, con la información abierta a los ciudadanos, que sea capaz de responder con datos a cada consulta de la población sobre ingresos y gastos, superaremos el tiempo del oscurantismo.",
+        "relevancia": "Este texto promueve un gobierno transparente con información accesible y verificación de gastos, lo que respalda indirectamente la mejora de transparencia en procesos de licitación de terrenos forestales y licencias para desmonte, un componente clave de la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "libertad-y-progreso-adn.md",
+      "razón": "Su énfasis en reducir drásticamente el gasto público sin mencionar inversiones específicas o fortalecimiento institucional contradice la necesidad de financiar sistemas de alerta temprana y personal de control para la deforestación, priorizando ajustes económicos urgentes sobre temas ambientales.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "(4)",
+        "texto_citado": "Si el MAS estuviera dejando un país en condiciones razonablemente buenas, podríamos asumir varias tareas simultáneamente. Como no es así y el deterioro de la economía no puede esperar, deberemos concentramos en un principio en lo urgente: parar la inflación. Para ello reduciremos inmediatamente el gasto público, lo que significa reducir el tamaño del Estado reduciendo su planilla, cerrando las empresas públicas deficitarias y eliminando el",
+        "relevancia": "La promoción de recortes inmediatos y generalizados en el gasto público podría limitar recursos para inversiones en mecanismos de control de deforestación, como sistemas de alerta temprana o incremento de personal, alineándose negativamente con la afirmación que requiere financiamiento específico."
+      }
+    }
+  }
+}

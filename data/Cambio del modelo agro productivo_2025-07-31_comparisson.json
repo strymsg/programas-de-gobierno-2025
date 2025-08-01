@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la deforestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan incluye propuestas de sistemas agroforestales que promueven explícitamente la reforestación y la estabilidad ecológica, alineándose con el marco legal para obligar la reforestación y la planificación del uso de suelo mencionados en la afirmación, aunque no aborda todos los aspectos como endurecimiento de penas o alertas tempranas.",
+      "puntaje": 7,
+      "evidencia_clave": {
+        "sección": "ANEXO MACROREGIONES > MACRO REGIÓN TRÓPICO > 1. Reconversión productiva sostenible (107)",
+        "texto_citado": "- Implementación de clústeres agroforestales y frutales tropicales con enfoque en plantas perennes de alto valor (cacao, copoazú, palmito, arazá, asaí, jengibre, cúrcuma, etc.). - Sistemas agroforestales mixtos que combinen productividad, reforestación y estabilidad ecológica. - Zonificación ecológica-económica aplicada, según los planes de uso de suelo.",
+        "relevancia": "Esta evidencia apoya la afirmación al enfocarse en la reforestación activa y la zonificación ecológica, que se relacionan directamente con la reducción de deforestación mediante prácticas sostenibles y la mejora en la transparencia de licencias, aunque no cubre elementos como control institucional o inversión en alertas."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan se limita a un diagnóstico crítico de la baja productividad y falta de planificación estratégica en el sector agropecuario, sin proponer acciones concretas relacionadas con la reducción de deforestación, reforestación, control o transparencia, lo que indica una contradicción con la necesidad de medidas afirmativas en la afirmación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "4. DESARROLLO ECONOMICO, PRODUCTIVO Y DE I+D > Diagnóstico > (1)",
+        "texto_citado": "n cuenta con una oferta variada y reconocida a nivel mundial. El establecimiento de industrias mediana y ligera de producción para una sustitución de importaciones en los últimos 4 años denotan poca planificación estratégica del desarrollo productivo y territorial, los complejos productivos industriales deben ser a escala de la producción y del mercado interno y externo asegurado, garantizar su sostenibilidad. La productividad económica es baja especialmente en el sector agropecuario donde los rendimientos productivos son los más bajos de la región en Soya, maíz, y papa como ejemplo, si bien existieron inversiones importantes en riego, semilla y créditos productivos",
+        "relevancia": "Esta evidencia contradice la afirmación al enfocarse únicamente en críticas y descripciones de problemas sin incluir propuestas para reducir deforestación, fortalecer controles o implementar reforestación, lo que demuestra una falta de alineación con los componentes clave de la declaración como leyes, transparencia o medidas de obligatoriedad."
+      }
+    }
+  }
+}

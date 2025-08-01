@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la forestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan propone un marco regulatorio claro y acciones concretas como mercados de carbono, certificaciones verdes y alianzas para reforestación, alineándose directamente con las propuestas de ley, planes de fortalecimiento institucional y el marco legal para reforestación mencionados en la declaración.",
+      "puntaje": 8,
+      "evidencia_clave": {
+        "sección": "4. EJES ESTRATÉGICOS > TURISMO SOSTENIBLE Y CONECTADO: MOTOR DE DESARROLLO ECONÓMICO Y CULTURAL > MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE",
+        "texto_citado": "Nuestra propuesta ambiental se basa en el principio de que el desarrollo económico y la protección del medioambiente no son excluyentes, sino complementarios. Promovemos una gestión ambiental moderna, basada en incentivos, innovación y responsabilidad individual, que permita a los ciudadanos, emprendedores y comunidades conservar los recursos naturales mientras generan bienestar. Propondremos un marco regulatorio claro y predecible (seguridad jurídica) que fomente la inversión en tecnologías limpias, la eficiencia energética y el uso responsable del agua, el suelo y los bosques. Impulsaremos mercados de carbono, certificaciones verdes y alianzas público-privadas para la reforestación, el reciclaje y la transición hacia energías renovables",
+        "relevancia": "El texto establece medidas específicas como un marco regulatorio para el uso responsable de bosques y la promoción de reforestación, lo que respalda directamente las propuestas de ley, planes institucionales y el marco legal para reducir la deforestación en la declaración."
+      }
+    },
+    "peor_alineado": {
+      "plan": "morena.md",
+      "razón": "Este plan solo describe la crisis ambiental, como deforestación masiva y ausencia de políticas, sin proponer acciones concretas para reducir la deforestación, lo que contradice la necesidad de medidas proactivas como leyes, controles o inversiones especificadas en la declaración.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "CONTEXTO ACTUAL",
+        "texto_citado": "vianas y bolivianos han perdido la confianza en sí mismos, en sus instituciones y en la posibilidad de vivir con dignidad. En el plano ambiental, enfrentamos una crisis silenciosa pero devastadora. La deforestación masiva, los incendios forestales recurrentes, la contaminación hídrica y la pérdida de biodiversidad amenazan no sólo a los ecosistemas, sino la vida misma. La ausencia de políticas de protección ambiental efectivas y el avance indiscriminado del extractivismo han vulnerado los derechos",
+        "relevancia": "El pasaje se enfoca en diagnosticar problemas como deforestación masiva y falta de políticas, pero no ofrece soluciones como endurecimiento de penas, inversión en alerta temprana o transparencia, lo que no apoya ni se alinea con las acciones proactivas requeridas en la declaración."
+      }
+    }
+  }
+}

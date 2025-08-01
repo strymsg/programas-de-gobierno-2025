@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la forestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "morena.md",
+      "razón": "El plan incluye acciones de institucionalización y fortalecimiento basadas en méritos, que podrían apoyar indirectamente el fortalecimiento institucional mencionado en la afirmación, aunque no se aborda directamente la deforestación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "EJE 9 - POLÍTICA INTERNACIONAL INTEGRADORA Y SOBERANA > 5. Carrera diplomática meritocrática y profesional > (69)",
+        "texto_citado": "Consolidar una carrera diplomática basada en mérito, formación continua, compromiso ético y profesionalismo, para representar con excelencia los intereses del país. **Acciones:** - Institucionalizar concursos públicos para el ingreso y ascenso en la carrera diplomática. - Crear un sistema de evaluación y formación permanente de diplomáticos. - Garantizar la estabilidad laboral y la no politización de cargos técnicos.",
+        "relevancia": "Las acciones de institucionalizar concursos y crear sistemas de evaluación podrían interpretarse como análogas a mecanismos de fortalecimiento institucional requeridos para control de deforestación, aunque el enfoque es exclusivamente en diplomacia y no en temas ambientales."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "El plan carece de acciones concretas relacionadas con deforestación o fortalecimiento institucional específico; su contenido se limita a diagnóstico sobre política exterior y migración, mostrando nula conexión con la afirmación.",
+      "puntaje": 0,
+      "evidencia_clave": {
+        "sección": "9. POLÍTICA EXTERIOR E INSERCIÓN EN EL MUNDO MULTIPOLAR > Diagnóstico > (2)",
+        "texto_citado": "no a la coyuntura política interna y se convierta en un instrumento de desarrollo productivo, defensa de recursos, integración regional e incidencia global. Además, la situación de los bolivianos en el exterior -particularmente en países como Argentina, España, Brasil, Chile y Estados Unidos- sigue marcada por la precariedad, la falta de protección consular real, la ausencia de políticas migratorias inclusivas y la invisibilidad en la toma de decisiones del Estado. La ciudadanía global boliviana existe, pero el Estado aún no la reconoce plenamente. Frente a todo esto, proponemos una política exterior que deje de ser una lista de visitas protocolares y se convierta en una estrategia geopolítica de inserción transformadora, anclada en la",
+        "relevancia": "El texto aborda exclusivamente política exterior y desafíos migratorios, sin mencionar deforestación, control ambiental, transparencia o cualquier elemento de la afirmación, evidenciando una completa falta de alineación temática."
+      }
+    }
+  }
+}

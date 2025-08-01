@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la deforestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan aborda elementos clave como transparencia en procesos públicos y controles contra actividades ilícitas, que se alinean indirectamente con la transparencia en licitaciones forestales y mecanismos de control mencionados en la afirmación, aunque no trata explícitamente la deforestación.",
+      "puntaje": 6,
+      "evidencia_clave": {
+        "sección": "10. Desarrollo institucional: Fortaleciendo las estructuras del Estado > Corrupción y despilfarro > (0)",
+        "texto_citado": "Recuperación de activos producto de la corrupción. Impulsaremos una ley específica para la recuperación de bienes obtenidos mediante actos de corrupción. El Estado adoptará medidas legales y técnicas para identificar, investigar y repatriar los recursos sustraídos durante los últimos veinte años de administración del MAS. Se revisarán con prioridad los procesos de contratación pública en entidades que concentraron altos niveles de inversión estatal, como YPFB, ENDE, la Administradora Boliviana de Carreteras (ABC) y el programa 'Bolivia Cambia, Evo Cumple', a fin de transparentar el uso de los recursos públicos. Gobierno abierto y digital. Construiremos un gobierno basado en la transparencia, la digitalización de la gestión pública y e",
+        "relevancia": "Esta sección enfatiza la transparencia en contratación pública y medidas legales para combatir irregularidades, lo que apoya los planes de mejora de transparencia en licitaciones de terrenos forestales y licencias para desmonte de la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-la-fuerza-del-pueblo.md",
+      "razón": "Este plan se centra exclusivamente en transparencia y gestión de proyectos piloto de energía, sin ninguna referencia a deforestación, control forestal, incendios o reforestación, mostrando mínima relevancia con los elementos de la afirmación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "PROPUESTAS, PLANES Y PROYECTOS > PLAN de Generación de un Proyecto de Soluciones Sostenibles para la dependencia Energética en Bolivia > VII. PLAN DE CONTINGENCIA PARA PROYECTOS PILOTO DE ENERGÍA (131)",
+        "texto_citado": "Transparencia con los Involucrados: Informar abiertamente a todas las partes interesadas sobre los problemas que surjan y las medidas correctivas que se están tomando. Revisión y Reprogramación: Si un proyecto piloto falla, realizar una revisión completa para entender las causas y reprogramar el plan de acción basándose en las lecciones aprendidas.",
+        "relevancia": "El contenido trata sobre transparencia y ajustes en proyectos energéticos, sin conexión con deforestación, instituciones de control, alertas tempranas, endurecimiento de penas o reforestación, por lo que contradice o no apoya la afirmación."
+      }
+    }
+  }
+}

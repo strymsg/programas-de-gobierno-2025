@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con la reducción de la deforestación\nPropuestas de ley para reducir la deforestación, planes de fortalecimiento de instituciones y mecanismos de control de deforestación. Inversión en sistemas de alerta temprana de incendios forestales y tráfico de madera. Endurecimiento de penas e incremento en personal de control. Planes para mejorar la transparencia en los procesos de licitación de terrenos forestales y licencias para desmonte. Marco legal para obligar la reforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "partido-democrata-cristiano.md",
+      "razón": "Aunque no aborda directamente la deforestación, la estrategia de simplificación de trámites mediante la Declaración Jurada podría interpretarse como un mecanismo para mejorar la transparencia en procesos administrativos, lo que se alinea débilmente con la parte de la afirmación sobre transparencia en licitaciones y licencias.",
+      "puntaje": 1,
+      "evidencia_clave": {
+        "sección": "E. POLÍTICAS Y ESTRATEGIAS > E.1. Políticas y estrategias para las dimensiones estructurales > POLÍTICA 1: IMPLEMENTACIÓN DE UN NUEVO MODELO ECONÓMICO BASADO EN LA REDISTRIBUCIÓN FISCAL 50/50",
+        "texto_citado": "ESTRATEGIA 11: Aplicación de la Declaración Jurada y el Compromiso Ciudadano como mecanismo alternativo a todo proceso administrativo y burocrático para la obtención de permisos, licencias, patentes, y otros que limiten la actividad económica",
+        "relevancia": "Esta estrategia promueve la reducción de burocracia en trámites, lo que podría extrapolarse a una mayor transparencia en licencias relacionadas con desmonte, alineándose parcialmente con el componente de la afirmación sobre mejorar transparencia en procesos."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-libertad-y-democracia.md",
+      "razón": "El plan se enfoca exclusivamente en digitalización de servicios de salud, sin ninguna mención a temas ambientales, forestales o mecanismos de control, mostrando nula conexión con la afirmación sobre reducción de deforestación.",
+      "puntaje": 0,
+      "evidencia_clave": {
+        "sección": "VI POLITICA SOCIAL > 6.2 Salud > Digitalización de la Salud",
+        "texto_citado": "se plantea el desarrollo de plataformas digitales integradas que faciliten la gestión de citas médicas, el seguimiento de tratamientos y la comunicación directa entre pacientes y profesionales de la salud",
+        "relevancia": "El contenido se centra únicamente en innovación tecnológica para salud, sin referencia a deforestación, instituciones ambientales, alertas tempranas, penas o reforestación, evidenciando completa irrelevancia con la afirmación."
+      }
+    }
+  }
+}
