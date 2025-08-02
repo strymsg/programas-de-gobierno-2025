@@ -1,0 +1,25 @@
+{
+  "afirmación": "Economía liberal o anarco capitalista\nUn plan económico liberal sugiere la flexibilización por parte del estado de las regulaciones para el sector empresarial privado. Se facilita e incentiva la inversión privada, reduciendo impuestos y requisitos para la proliferación de negocios y actividades económicas. Acuerdos de libre comercio son esperados, también reducción del estado y establecimiento de paraísos fiscales para facilitar la inversión extranjera. Es también esperado que el gobierno reduzca el poder del banco central y se alinea con el bloque capitalista, por ejemplo relaciones estrechas con la Argentina bajo el gobierno de Javier Milei, Israel, Estados Unidos, etc.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "nueva-generacion-patriotica.md",
+      "razón": "Este plan propone explícitamente reducir la intervención estatal, eliminar barreras a la inversión, simplificar sistemas laborales y fiscales, y facilitar la integración al comercio exterior, lo que se alinea directamente con la flexibilización de regulaciones, incentivo a la inversión privada, y acuerdos de libre comercio mencionados en la afirmación.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "Implementar un programa de estabilización y crecimiento económico en tres fases interconectadas > (31)",
+        "texto_citado": "La primera etapa busca estabilizar la economía mediante un control riguroso de la inflación, fortalecimiento de las reservas internacionales, reducción de la intervención estatal, reducción del gasto público y estabilización del tipo de cambio. La segunda fase de reformas se centra en abrir los mercados, eliminar barreras a la inversión y simplificar el sistema laboral y fiscal para permitir que las empresas crezcan y generen empleo sin las restricciones impuestas por el Estado. Finalmente, la tercera etapa se enfoca en reducir regulaciones, eliminar monopolios estatales y facilitar la integración de Bolivia al comercio exterior, generando un entorno que favorezca la inversión y el emprendimiento.",
+        "relevancia": "Esta sección apoya la afirmación al detallar acciones concretas para reducir la intervención estatal, simplificar requisitos fiscales y laborales, eliminar monopolios, y promover el comercio exterior, lo que facilita la inversión privada y alinea con principios liberales de mínima regulación y apertura económica."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan se enfoca en optimizar la inversión pública y fortalecer empresas estatales, sin mencionar reducción de regulaciones, impuestos o apoyo explícito al sector privado, lo que contradice la reducción del estado y la facilitación de negocios privados promovidos en la afirmación.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "Eficiencia de la Inversión Pública y el Gasto Público. > (2)",
+        "texto_citado": "iencia operativa, reduciendo costos y generando ingresos propios. Las empresas estatales dejarán de depender de subsidios permanentes del Tesoro General de la Nación y deberán cumplir estándares de gestión orientados a la rentabilidad económica y/o social, con gobernanza corporativa moderna y rendición de cuentas permanente. 5. Optimizaremos la inversión pública, priorizando proyectos con mayor rentabilidad social y económica. Bolivia presenta un bajo multiplicador fiscal comparado con otros países de la región, lo que nos obliga a reorientar los recursos hacia sectores estratégicos como educación, salud, infraestructura básica y servicios esenciales, donde el impacto social es más directo, equitativo y sostenible. 6. Dejaremos de financiar",
+        "relevancia": "Esta sección contradice o apoya deficientemente la afirmación al priorizar la eficiencia del sector público y empresas estatales, sin abordar la reducción de impuestos, flexibilización de regulaciones o incentivos al sector privado, lo que va en contra de la reducción del estado esperada en una economía liberal."
+      }
+    }
+  }
+}

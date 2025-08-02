@@ -4,7 +4,7 @@ Con el uso de *LLM* se han evaluado los planes de gobierno para ver que tan alin
 
 ## Ejecución clasificación usando LLM (RAG + modelo de razonamiento)
 
-El [notebook](notebooks/llms/programas-de-gobierno-2025/notebooks/Rag_chromaDb_reasoning_using_api.ipynb) produce varios [resultados](data/) como archivos en formato json.
+El [notebook](notebooks/llms/programas-de-gobierno-2025/notebooks/Rag_chromaDb_reasoning_using_api.ipynb) produce varios [resultados en notebooks/data](notebooks/data/) como archivos en formato json.
 
 ### Otros experimentos
 

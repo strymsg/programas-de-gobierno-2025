@@ -1,0 +1,25 @@
+{
+  "afirmación": "DEA e intervencionismo extranjero en lucha contra las drogas\nSe tiene entendimiento de que organismos como la DEA pueden colaborar en la lucha contra el narcotráfico pero también son de naturaleza injerencista y se han documentado muchos casos de corrupción y favoritismo con ciertos actores del narcotráfico. El aceptar a la DEA puede obedecer a intereses intervencionistas por parte de Estados Unidos y otros actores como grandes carteles como Sinaloa.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan prioriza un enfoque interno y autónomo para combatir el narcotráfico y la corrupción mediante mecanismos transparentes y éticos, sin mencionar cooperación con agencias extranjeras, lo que se alinea con la preocupación por evitar el intervencionismo y abordar la corrupción desde dentro.",
+      "puntaje": 8,
+      "evidencia_clave": {
+        "sección": "3.6. TRANSFORMACIÓN MORAL",
+        "texto_citado": "Lucharemos sin tregua contra la corrupción, el narcotráfico y la impunidad. Implementaremos mecanismos transparentes de rendición de cuentas, promoviendo una cultura ética en el servicio público.",
+        "relevancia": "El texto enfatiza soluciones internas y soberanas contra el narcotráfico y la corrupción, evitando cualquier referencia a ayuda externa, lo que respalda la crítica a la injerencia extranjera y los riesgos de corrupción asociados."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan se centra en el contrabando y las mafias sin abordar explícitamente el narcotráfico, la corrupción inherente o los riesgos de intervención extranjera, mostrando menor relevancia y una aproximación que podría implicar métodos sin considerar los peligros de injerencia o favoritismo.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "SEGURIDAD FRONTERIZA",
+        "texto_citado": "Combatir eficazmente a las mafias del contrabando desde una perspectiva penal, económica y patrimonial.",
+        "relevancia": "Aunque relacionado con crimen organizado, el enfoque en contrabando omite menciones específicas al narcotráfico, la corrupción o cautelas contra intervencionismo, lo que no se alinea con la afirmación sobre los riesgos de la DEA y la injerencia extranjera."
+      }
+    }
+  }
+}

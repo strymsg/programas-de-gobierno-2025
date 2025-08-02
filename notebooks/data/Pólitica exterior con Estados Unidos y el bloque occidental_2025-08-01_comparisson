@@ -1,0 +1,25 @@
+{
+  "afirmación": "Pólitica exterior con Estados Unidos y el bloque occidental\nEstrechar relaciones con Estados Unidos puede ser muestra de la intención de alinearse con el bloque occidental capitalista. Representantes de este bloque son claramente países como Israel, Inglaterra, Alemania, Francia, Argentina, o también, miembros representativos de la OTAN. Hechos concretos son permitir el establecimiento de cooperación militar o bases militares, acuerdos de libre comercio, inmunidad diplomática, acuerdos de cooperación de inteligencia o abrirse a concesiones e inversiones grandes a empresas de los países del bloque occidental capitalista.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "nueva-generacion-patriotica.md",
+      "razón": "El plan critica las políticas que desincentivan la inversión privada extranjera, lo que implica una postura favorable a atraer inversión internacional, incluyendo potencialmente de empresas del bloque occidental, alineándose con la apertura a inversiones grandes mencionada en la declaración.",
+      "puntaje": 7,
+      "evidencia_clave": {
+        "sección": "Problemas principales que enfrenta Bolivia > Crisis en la economía productiva y colapso de la inversión privada > (2)",
+        "texto_citado": "Las políticas actuales, con altos impuestos, sobre regulaciones y falta de seguridad jurídica, han desincentivado la inversión privada nacional y extranjera y han frenado la economía productiva. El entorno empresarial es hostil para los emprendedores, empujándolos a la informalidad o incluso al cierre, mientras el contrabando y la economía ilegal prosperan como alternativas de supervivencia.",
+        "relevancia": "Esta crítica sugiere un cambio hacia un ambiente más favorable para la inversión extranjera, lo que podría facilitar acuerdos de inversión con empresas del bloque occidental, apoyando indirectamente la idea de estrechar relaciones económicas con dicho bloque."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "El plan promueve activamente la economía comunitaria, cooperativa y solidaria, enfatizando soberanía alimentaria y empresas sociales, lo que contradice directamente la apertura a grandes inversiones de empresas capitalistas occidentales y alinearse con el bloque occidental, al priorizar modelos económicos alternativos.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "II DESARROLLO ECONÓMICO PARA LA DIVERSIFICACIÓN PRODUCTIVA > 2. LOS EJES PROGRAMÁTICOS, PROPUESTAS Y ACCIONES: > e) FORTALECIMIENTO DE LA ECONOMÍA COMUNITARIA Y OTRAS FORMAS Y/O ACTORES ECONÓMICOS (9)",
+        "texto_citado": "- Impulsar el crecimiento sostenido de la economía comunitaria, cooperativa, así como las empresas sociales y comunitarias, fomentando su desarrollo productivo, la generación de empleo y la inclusión social para el bienestar de la población. - Asegurando la soberanía alimentaria desde la economía comunitaria y cooperativa - Modificación de la Ley de Empresas Sociales, que incorpore mecanismos de apoyo económico, no sólo como salvataje de las empresas privadas en quiebra, sino como otra forma de propiedad de empresas y como una alternativa de economía solidaria y colectiva.",
+        "relevancia": "Este enfoque en modelos económicos solidarios y comunitarios rechaza explícitamente el capitalismo occidental, oponiéndose a la posibilidad de abrirse a inversiones grandes de empresas del bloque occidental, contradiciendo así la declaración."
+      }
+    }
+  }
+}

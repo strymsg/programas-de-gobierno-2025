@@ -1,0 +1,25 @@
+{
+  "afirmación": "Cambio del modelo agro productivo\nPropuestas de cambio del modelo agro productivo vigente, reducción de monocultivos, incentivos para los cultivos orgánicos, diversificación de cultivos. Impuestos al monocultivo. Producción de productos ecológicos de temporada, priorización de plantas nativas. Industrialización de productos, valor agregado. Proyectos de riego sostenible, tecnología agrícola.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan promueve activamente la diversificación de cultivos mediante sistemas agroforestales y clústeres con plantas nativas, incentiva la agricultura orgánica y sostenible, y fomenta el valor agregado a través de la agroindustria rural, alineándose con la mayoría de los elementos de la afirmación.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "ANEXO MACROREGIONES > MACRO REGIÓN TRÓPICO > 1. Reconversión productiva sostenible (107)",
+        "texto_citado": "- Implementación de clústeres agroforestales y frutales tropicales con enfoque en plantas perennes de alto valor (cacao, copoazú, palmito, arazá, asaí, jengibre, cúrcuma, etc.).\n- Sistemas agroforestales mixtos que combinen productividad, reforestación y estabilidad ecológica.\n- Zonificación ecológica-económica aplicada, según los planes de uso de suelo.",
+        "relevancia": "Esta evidencia apoya directamente la diversificación de cultivos, la priorización de plantas nativas y la producción sostenible, elementos clave de la afirmación, al enfocarse en sistemas mixtos que reducen la dependencia de monocultivos."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan se centra en un diagnóstico crítico sin proponer acciones concretas para cambiar el modelo agro productivo, como reducir monocultivos o incentivar cultivos orgánicos; además, menciona cultivos como soya y maíz sin abordar su reducción, mostrando escaso apoyo a la afirmación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "4. DESARROLLO ECONOMICO, PRODUCTIVO Y DE I+D > Diagnóstico > (1)",
+        "texto_citado": "El establecimiento de industrias mediana y ligera de producción para una sustitución de importaciones en los últimos 4 años denotan poca planificación estratégica del desarrollo productivo y territorial, los complejos productivos industriales deben ser a escala de la producción y del mercado interno y externo asegurado, garantizar su sostenibilidad. \nLa productividad económica es baja especialmente en el sector agropecuario donde los rendimientos productivos son los más bajos de la región en Soya, maíz, y papa como ejemplo, si bien existieron inversiones importantes en riego, semilla y créditos productivos",
+        "relevancia": "Esta evidencia contradice o no apoya la afirmación al limitarse a criticar problemas existentes (como bajos rendimientos en monocultivos como soya y maíz) sin proponer cambios específicos hacia diversificación, orgánicos o impuestos al monocultivo, y al enfocarse en sostenibilidad de forma vaga sin acciones concretas."
+      }
+    }
+  }
+}

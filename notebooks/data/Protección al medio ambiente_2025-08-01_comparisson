@@ -1,0 +1,25 @@
+{
+  "afirmación": "Protección al medio ambiente\nFortalecimiento de instituciones para control de actores que dañan o destruyen el medio ambiente. Endurecimiento de penas para infractores y explotación descontrolada de recursos naturales. Planes de lucha contra el tráfico ilegal de especies. Revisión de ley de protección del medio ambiente y derechos de la madre tierra. Planes de investigación y evaluación de ecosistemas. Reducción del monocultivo y deforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan propone medidas concretas como sanciones ejemplares para delitos ambientales, protección de ecosistemas y parques nacionales, y formalización de actividades con enfoque en cumplimiento ambiental, lo que alinea directamente con el endurecimiento de penas, fortalecimiento institucional para controlar daños, y aspectos de reducción de deforestación.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "9. Desarrollo Sostenible: Por un legado más justo para las generaciones futuras > Sostenibilidad Ambiental > (5)",
+        "texto_citado": "ad más limpia, transparente y responsable. Impulsaremos la certificación con tecnologías blockchain para garantizar trazabilidad en minerales (oro, litio), incrementaremos las regalías y exigiremos cumplimiento ambiental. Se formalizará progresivamente la minería cooperativa, dotándola de tecnologías limpias, acceso a crédito y capacitación, en línea con el Convenio de Minamata sobre el mercurio.\n10. Justicia ambiental y lucha contra el ecocidio. Impondremos sanciones ejemplares, incluyendo penas de hasta 30 años de cárcel, para quienes provoquen incendios intencionales, destruyan ecosistemas o cometan delitos ambientales. Respetaremos los parques nacionales y los territorios indígenas, fortaleciendo su protección como pilares fundamentales",
+        "relevancia": "Esta sección aborda explícitamente el endurecimiento de penas para infractores ambientales (hasta 30 años de cárcel), la protección de ecosistemas y territorios indígenas, y el fortalecimiento de controles mediante certificación y cumplimiento, coincidiendo con puntos clave de la afirmación como endurecimiento de sanciones, fortalecimiento institucional, y reducción de daños por deforestación o incendios."
+      }
+    },
+    "peor_alineado": {
+      "plan": "nueva-generacion-patriotica.md",
+      "razón": "Este plan solo menciona de manera genérica la importancia de prácticas sostenibles sin detallar acciones específicas como endurecimiento de penas, fortalecimiento de instituciones, planes contra tráfico ilegal o reducción de monocultivo, mostrando una alineación mínima con la afirmación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "Nuestra Visión de Desarrollo > Progreso y desarrollo sostenible > (30)",
+        "texto_citado": "La búsqueda de crecimiento económico debe ir acompañada de prácticas sostenibles que respeten el medio ambiente y aseguren un futuro próspero para las próximas generaciones.",
+        "relevancia": "El contenido es demasiado vago y no aborda ninguno de los elementos específicos de la afirmación, como penas, instituciones, planes de investigación o medidas contra la deforestación, por lo que no proporciona apoyo sustancial a la declaración."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "afirmación": "Economía circular y procesamiento de residuos\nInversión en reciclaje y economía circular, plantas de reciclaje y acopio de basura. Tratamiento de depósitos de basura, fabricación de abonos orgánicos a partir de residuos. Control de tratamiento desechos para las empresas, sanciones para infractores. Incentivos tributarios para emprendimientos verdes y tratamiento de residuos.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan muestra una fuerte alineación al proponer medidas concretas como un marco legal para economía circular con incentivos, creación de parques tecnológicos para residuos (incluyendo orgánicos), y un impuesto verde que actúa como sanción, cubriendo inversión en reciclaje, tratamiento de basura, control de desechos e incentivos tributarios.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "8. TRANSICIÓN ENERGÉTICA Y SOSTENIBILIDAD AMBIENTAL > 9. Economía circular y transformación del modelo productivo > (0)",
+        "texto_citado": "- Establecimiento de un Marco Legal de Economía Circular, con incentivos para el reciclaje, la reutilización, el ecodiseño y la producción limpia.\n- Creación de parques tecnológicos para residuos industriales, electrónicos y orgánicos, que permitan generar empleo, insumos secundarios y reducir la presión sobre los ecosistemas.\n- Se aplicará un impuesto verde progresivo a actividades altamente contaminantes que no adopten estándares de sostenibilidad, con reinversión directa en comunidades afectadas.  \nLa transición energética no será inmediata ni gratuita. Pero es ineludible. No hay soberanía sin energía. No hay futuro sin naturaleza. No hay justicia sin justicia ambiental. Bolivia puede y debe ser líder en el Sur Global de un modelo altern",
+        "relevancia": "Esta evidencia es relevante porque aborda directamente la inversión en economía circular, plantas de reciclaje (parques tecnológicos), tratamiento de residuos orgánicos, y medidas fiscales como incentivos e impuestos que se alinean con sanciones e incentivos tributarios de la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "Este plan presenta la peor alineación al no mencionar economía circular, reciclaje o tratamiento de residuos; se enfoca en temas macroeconómicos y políticos sin relación con la afirmación, como estabilidad económica y recursos naturales, sin abordar inversiones, plantas, abonos, control o incentivos específicos.",
+      "puntaje": 1,
+      "evidencia_clave": {
+        "sección": "DE BOLIVIA, POR BOLIVIA, PARA BOLIVIA. MARCO GENERAL DEL PROGRAMA > (3)",
+        "texto_citado": "tegral y equilibrado de todas las regiones;\n- Respeto e incremento de los derechos económicos y sociales del pueblo;\n- Repondrá la estabilidad económica que caracterizaron los años del proceso de cambio.  \nEs un programa que tiene una clara opción por las grandes mayorías del país, ello supone a su vez, culminar la construcción del Estado Plurinacional e impulsar transformaciones estructurales en la base material, que logre la reapropiación y la producción de mayores excedentes para beneficio del país.  \nEs un programa que precisa las características de un proyecto político y económico de carácter liberador que, sin repetir la condición de país exportador de materias primas, debe basar el desenvolvimiento de su economía en los recursos natu",
+        "relevancia": "Esta evidencia no es relevante porque carece de referencias a economía circular, reciclaje o tratamiento de residuos; en su lugar, discute aspectos generales de política económica y social que no apoyan ni contradicen directamente la afirmación, mostrando una mínima conexión."
+      }
+    }
+  }
+}

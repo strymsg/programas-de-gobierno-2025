@@ -1,0 +1,25 @@
+{
+  "afirmación": "Independencia de poderes\nSe prioriza la independencia de poderes ejecutivo, legislativo y judicial. Esto proponiendo medidas que eviten el intervencionismo entre órganos estatales, por ejemplo evitando actuación del poder ejecutivo y legislativo a la hora de emitir sentencias judiciales. También se deben mencionar políticas públicas para que la ciudadanía haga control efectivo del bien público y tenga los mecanismos para denunciar o reclamar derechos constitucionales con garantías en caso de injerencia entre poderes del estado.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan demuestra un fuerte apoyo a la independencia judicial mediante medidas concretas para prevenir interferencias externas y establecer mecanismos ciudadanos de denuncia, alineándose directamente con la afirmación al evitar intervencionismo y facilitar el control público.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "7. JUSTICIA, INSTITUCIONALIDAD Y LUCHA CONTRA LA CORRUPCIÓN > 1. Garantizar la independencia e imparcialidad del Poder Judicial > (2)",
+        "texto_citado": "bilidad institucional y mecanismos efectivos de resguardo frente a presiones o injerencias externas.\n- Creación de la Defensoría Judicial Ciudadana: Instituir un ente autónomo dedicado a recibir, investigar y canalizar denuncias de presiones políticas, amenazas o interferencias indebidas en procesos judiciales, con facultades para emitir recomendaciones vinculantes y activar acciones correctivas.",
+        "relevancia": "Esta sección propone un mecanismo específico (Defensoría Judicial Ciudadana) que permite a los ciudadanos denunciar interferencias en el poder judicial, alineándose con la parte de la afirmación sobre políticas públicas para control efectivo del bien público y garantías contra injerencias entre poderes."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "Este plan se limita a diagnosticar problemas como falta de transparencia y conflictos jurisdiccionales sin proponer medidas concretas para evitar intervencionismo entre poderes o mecanismos ciudadanos, lo que contradice la necesidad de acciones proactivas en la afirmación y muestra una alineación débil.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "VIII TRANSFORMACIÓN ESTRUCTURAL DE LA JUSTICIA > 1. DIAGNÓSTICO GENERAL: > (1)",
+        "texto_citado": "des judiciales han sido objeto de críticas por la falta de transparencia y la ausencia de criterios meritocráticos en los procesos de selección.  \nEn la Jurisdicción Indígena Originario Campesina actualmente se cuenta con la Ley de Deslinde Jurisdiccional, empero dicha normativa ha generado conflicto en el ámbito de la aplicación en determinadas materias.  \nLa actual normativa requiere de actualizaciones y/o modificaciones en el marco de la priorización de ejes de la reforma judicial, así como la adecuación de la normativa secundaria a la Constitución Política del Estado.  \nCon relación a la formación de profesionales en derecho se encuentra fragmentada, con una separación entre la educación universitaria y la capacitación especializada en",
+        "relevancia": "Esta sección solo identifica deficiencias sin ofrecer soluciones para prevenir intervencionismo o implementar políticas ciudadanas, lo que no aborda la afirmación sobre evitar actuaciones de otros poderes en sentencias judiciales o proporcionar mecanismos de denuncia, resultando en una contradicción por omisión."
+      }
+    }
+  }
+}
