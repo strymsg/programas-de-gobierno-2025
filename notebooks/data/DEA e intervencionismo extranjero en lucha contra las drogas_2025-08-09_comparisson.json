@@ -1,0 +1,25 @@
+{
+  "afirmación": "DEA e intervencionismo extranjero en lucha contra las drogas\nSe tiene entendimiento de que organismos como la DEA pueden colaborar en la lucha contra el narcotráfico pero también son de naturaleza injerencista y se han documentado muchos casos de corrupción y favoritismo con ciertos actores del narcotráfico. El aceptar a la DEA puede obedecer a intereses intervencionistas por parte de Estados Unidos y otros actores como grandes carteles como Sinaloa.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan enfatiza soluciones internas para combatir el narcotráfico y la corrupción sin mencionar cooperación internacional, alineándose con la preocupación por evitar intervencionismo extranjero y riesgos de corrupción asociados a actores externos.",
+      "puntaje": 8,
+      "evidencia_clave": {
+        "sección": "3. TRANSFORMACIONES ESTRUCTURALES ▸ 3.6. TRANSFORMACIÓN MORAL ▸ BOLIVIA PRODUCTIVA, ORDENADA, EN PAZ Y CON OPORTUNIDADES DE TRABAJO",
+        "texto_citado": "Lucharemos sin tregua contra la corrupción, el narcotráfico y la impunidad. Implementaremos mecanismos transparentes de rendición de cuentas, promoviendo una cultura ética en el servicio público. La expansión del narcotráfico y el aumento de delitos violentos, como homicidios, robos y secuestros, han evidenciado profundas deficiencias en nuestro sistema de seguridad interna. Sin un entorno seguro, no es posible alcanzar el bienestar, el progreso ni una vida digna. Es urgente recuperar la paz y la tranquilidad para que los bolivianos puedan vivir con esperanza y estabilidad. La seguridad es la principal exigencia de la población. Regiones secuestradas, comunidades enteras afectadas por la violencia, el narcotráfico y la criminalidad, demandan una acción inmediata que restaure el orden y combata la sensación de impunidad que permea la sociedad.",
+        "relevancia": "El enfoque en mecanismos internos y lucha contra la corrupción sugiere preferencia por abordar problemas sin depender de actores externos, alineándose directamente con la crítica al intervencionismo y los riesgos de corrupción mencionados en la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan promueve explícitamente la coordinación internacional en la lucha contra el narcotráfico sin abordar los riesgos de intervencionismo, corrupción o favoritismo, contradiciendo la advertencia de la afirmación sobre intereses externos y carteles.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "6. Desarrollo Humano: Buscar la igualdad social ▸ Seguridad Ciudadana",
+        "texto_citado": "Se mejorará la formación, distribución de personal, equipamiento, condiciones salariales y se creará una unidad especializada en inteligencia y tecnologías. La policía será liberada de tareas innecesarias, enfocándose en su labor pública esencial y con controles estrictos a la corrupción. 3. Estrategia integral antidroga. Diseñaremos una política antidroga que abarque toda la cadena, desde una frontal erradicación de cultivos excedentarios hasta la rehabilitación de consumidores. Se fortalecerá la FELCN, se creará un sistema de justicia antidroga, que combatirá el lavado de dinero y se reforzará la fiscalía y la judicatura especializada. La lucha contra el narcotráfico se librará con firmeza, institucionalidad y coordinación internacional.",
+        "relevancia": "La mención de 'coordinación internacional' apoya la colaboración con organismos como la DEA sin reconocer los aspectos negativos de intervencionismo o corrupción, lo que ignora la crítica central de la afirmación y muestra peor alineación al promover una aceptación acrítica."
+      }
+    }
+  }
+}

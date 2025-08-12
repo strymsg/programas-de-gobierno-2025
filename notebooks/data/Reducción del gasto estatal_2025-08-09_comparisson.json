@@ -1,0 +1,25 @@
+{
+  "afirmación": "Reducción del gasto estatal\nMedidas relacionadas a la reducción del gasto del aparato estatal, reducción de ministerios, re estructuración, reducción de personal no justificado, mejora de procesos y procedimientos, lucha contra la burocracia, acceso a la información y mecanismos de regulación para los trabajadores estatales. Estas propuestas deberían estar justificadas con estimaciones cuantitativas y describiendo problemáticas actuales que justifiquen la medida.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan aborda explícitamente medidas como reducción de gasto superfluo, fusión de ministerios, y reducción de salarios altos, junto con justificación cuantitativa del déficit fiscal y gasto corriente, describiendo problemáticas actuales en detalle.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "3. ECONOMÍA, POLÍTICA TRIBUTARIA E INDUSTRIAS ESTRATÉGICAS ▸ Economía ▸ 1. Política de austeridad para ajustar el déficit fiscal(0)",
+        "texto_citado": "En las últimas gestiones, Bolivia ha sostenido un elevado nivel de gasto público que ya no encuentra respaldo en ingresos genuinos. El déficit fiscal estructural ha superado el del PIB (2023), y el gasto corriente representa cerca del 15% del Producto Interno Bruto, lo que lo convierte en uno de los más altos de la región. Buena parte de este gasto se ha vuelto inflexible: salarios, subvenciones y funcionamiento del aparato estatal que no pueden reducirse de la noche a la mañana sin afectar derechos básicos. Sin embargo, es urgente asumir una política de austeridad que racionalice el gasto, sin deteriorar la calidad de vida del pueblo. La austeridad que proponemos no es neoliberal ni antisocial. Es una austeridad inteligente, planificada y dirigida a recortar privilegios, duplicidades, burocracia y despilfarro, no derechos.",
+        "relevancia": "Esta sección proporciona estimaciones cuantitativas (déficit > PIB, gasto corriente 15% del PIB) y describe problemáticas actuales como gasto inflexible, justificando medidas de reducción de gasto, lucha contra burocracia y duplicidades, alineándose con los requisitos de la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "libertad-y-progreso-adn.md",
+      "razón": "Este plan se centra en reforzar autonomías y gasto local, sin mencionar medidas directas de reducción del gasto estatal central, reducción de ministerios o burocracia, y carece de justificación cuantitativa o descripción de problemáticas relacionadas.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "B. DIEZ IDEAS-FUERZA ▸ Idea-Fuerza 8: Reforzar las autonomias(0)",
+        "texto_citado": "Las autonomias departamentales y municipales han sido severamente dañadas por el centralismo socialista. El daño ha incluido un recorte de sus competencias, obstrucciones a sus decisiones en la colocación de recursos, transferencias forzadas de obligaciones financieras para que coparticipen en inversiones del Poder Ejecutivo y retrasos en la transferencia de fondos que legítimamente les pertenecen. Ha incluido también el establecimiento de barreras al desarrollo de nuevas competencias, especialmente en relación con la gestión de los recursos naturales. Por esos motivos, nuestras medidas incluirán: - Introducir el principio de que los fondos recaudados por impuestos deben gastarse principalmente, en el distrito donde fueron recaudados, por lo que se aumentará la asignación tributaria al municipio donde se realiza la actividad económica.",
+        "relevancia": "La sección enfatiza la descentralización y gasto local, pero no aborda reducción del gasto estatal, ministerios, personal o burocracia central, ni ofrece estimaciones cuantitativas o problemáticas actuales que justifiquen dichas medidas, contradiciendo el enfoque central de la afirmación."
+      }
+    }
+  }
+}

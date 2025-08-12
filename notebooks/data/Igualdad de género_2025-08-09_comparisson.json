@@ -1,0 +1,25 @@
+{
+  "afirmación": "Igualdad de género\nProgramas de gobierno que prioricen el papel de las mujeres en cargos de decisión, reducir la discriminación por género y crímenes contra sectores como LGBT que son minoría. Propuestas concretas para reducir los feminicidios y facilitar la participación de las mujeres con ventajas más allá de los permisos de maternidad.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "morena.md",
+      "razón": "Este plan aborda de manera integral y concreta todos los aspectos de la afirmación, incluyendo propuestas específicas para la participación política de mujeres, reducción de violencia de género con enfoque en feminicidios, inclusión de diversidades como LGBT, y medidas que facilitan la participación femenina más allá de la maternidad, como formación política.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "EJE 6 - POLÍTICA DE GÉNERO ▸ 4. Participación política y liderazgo con paridad",
+        "texto_citado": "Garantizar la participación real, activa y decisoria de mujeres y diversidades en todos los niveles del poder público, partidos, sindicatos y organizaciones sociales.\n**Acciones:**\n- Profundizar la paridad y alternancia en candidaturas, órganos del Estado y espacios de decisión.\n- Crear escuelas de formación política feminista y de liderazgo de mujeres indígenas, campesinas, obreras y jóvenes.\n- Sancionar el acoso y la violencia política de género.",
+        "relevancia": "Esta sección prioriza explícitamente el papel de las mujeres en cargos de decisión mediante acciones como paridad y formación política, lo que facilita su participación con ventajas más allá de permisos de maternidad, y aborda la reducción de discriminación al incluir diversidades y sancionar violencia política de género."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan se limita a principios generales de inclusión y derechos sin proponer acciones concretas para aspectos clave de la afirmación, como la participación en cargos de decisión, reducción específica de feminicidios, o medidas para facilitar la participación femenina más allá de la maternidad, siendo demasiado vago y poco operativo.",
+      "puntaje": 4,
+      "evidencia_clave": {
+        "sección": "2. PRINCIPIOS ▸ 8. Inclusión, igualdad y derechos para todas las personas",
+        "texto_citado": "Nuestro proyecto reconoce que la democracia real implica igualdad de derechos, trato y oportunidades entre hombres y mujeres, entre generaciones, entre comunidades y entre ciudadanos del campo y la ciudad. Nos comprometemos a combatir toda forma de discriminación, violencia o exclusión, y a garantizar el pleno ejercicio de los derechos de las mujeres, de los jóvenes y niños, de las diversidades sexuales, de las personas con discapacidad y de todos los sectores históricamente marginados.\nCon dichos principios, nuestra propuesta se configura a través de las siguientes áreas:",
+        "relevancia": "Aunque menciona combatir discriminación y violencia en términos generales, incluyendo diversidades sexuales, no especifica propuestas concretas para priorizar mujeres en cargos de decisión, reducir feminicidios o facilitar participación con ventajas adicionales, mostrando una alineación débil por falta de detalle operativo."
+      }
+    }
+  }
+}

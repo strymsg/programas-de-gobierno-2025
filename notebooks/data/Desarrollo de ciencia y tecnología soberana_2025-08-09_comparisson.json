@@ -1,0 +1,25 @@
+{
+  "afirmación": "Desarrollo de ciencia y tecnología soberana\nDentro del marco del desarrollo tecnológico e investigación científica, los planes de gobierno deberían listar medidas y propuestas para desarrollar y adoptar tecnologías que le permitan al país tener control soberano, sin dependencias externas que amenacen su libre decisión ni impedimentos jurídicos. Por ejemplo en el caso de software el uso y adopción de software libre y estándares abiertos, por tanto rechazo de uso indiscriminado de tecnologías privativas y servicios. En medicina el desarrollo de tecnología médica e incentivo a la investigación. Uso de tecnologías libre de patentes o con licencias permisivas. En agricultura, uso de semillas y tecnología no patentada o permisiva que no restrinja el uso e investigación. De la misma forma con otras tecnologías en las diferentes áreas del conocimiento.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan demuestra un fuerte apoyo al desarrollo tecnológico soberano al promover la producción nacional de medicamentos genéricos y eliminar barreras para insumos esenciales, lo que reduce la dependencia de patentes extranjeras y fomenta tecnologías permisivas en medicina, alineándose con el enfoque de control soberano y evitación de dependencias externas.",
+      "puntaje": 8,
+      "evidencia_clave": {
+        "sección": "6. Desarrollo Humano: Buscar la igualdad social ▸ Acciones en Salud(0)",
+        "texto_citado": "2. Medicamentos al Alcance de Todos. Eliminaremos impuestos y barreras en la importación de medicamentos esenciales. Crearemos un Plan Nacional de Medicamentos Esenciales con producción nacional de medicamentos genéricos para reducir costos significativamente.",
+        "relevancia": "Esta medida apoya directamente el uso de tecnologías libres de patentes o con licencias permisivas en el área médica, al incentivar la producción local y reducir la dependencia de importaciones, lo que se alinea con el principio de soberanía tecnológica de la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan fomenta la liberalización comercial y reducción de aranceles para insumos estratégicos como medicamentos, lo que podría aumentar la dependencia de tecnologías y productos extranjeros sin enfatizar el desarrollo local o la evitación de patentes restrictivas, contradiciendo así el enfoque de control soberano y autosuficiencia tecnológica.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "3. TRANSFORMACIONES ESTRUCTURALES ▸ 3.3. TRANSFORMACIÓN ECONÓMICA ▸ SECTOR EXTERNO ▸ REDUCCIÓN DE ARANCELES",
+        "texto_citado": "Impulsaremos la liberalización del comercio mediante una reforma estructural de la política arancelaria, estableciendo alícuotas rebajadas permanentes para: ... - Insumos estratégicos para medicamentos, biocombustibles, maquinaria agrícola y fertilizantes.",
+        "relevancia": "Al priorizar la importación de insumos mediante aranceles reducidos, esta política podría perpetuar la dependencia externa y no aborda el desarrollo de tecnologías soberanas o libres de patentes, lo que va en contra de la afirmación que busca minimizar impedimentos jurídicos y amenazas a la libre decisión."
+      }
+    }
+  }
+}

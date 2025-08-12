@@ -1,0 +1,25 @@
+{
+  "afirmación": "Protección al medio ambiente\nFortalecimiento de instituciones para control de actores que dañan o destruyen el medio ambiente. Endurecimiento de penas para infractores y explotación descontrolada de recursos naturales. Planes de lucha contra el tráfico ilegal de especies. Revisión de ley de protección del medio ambiente y derechos de la madre tierra. Planes de investigación y evaluación de ecosistemas. Reducción del monocultivo y deforestación.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan se alinea mejor con la afirmación porque propone explícitamente fortalecer la protección contra delitos ambientales y la destrucción de ecosistemas, lo que incluye el control de actores dañinos y el respeto a áreas protegidas, directamente vinculado al fortalecimiento institucional y al endurecimiento implícito de medidas.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "9. Desarrollo Sostenible: Por un legado más justo para las generaciones futuras ▸ Sostenibilidad Ambiental(5)",
+        "texto_citado": "en incendios intencionales, destruyan ecosistemas o cometan delitos ambientales. Respetaremos los parques nacionales y los territorios indígenas, fortaleciendo su protección como pilares fundamentales de la soberanía ecológica del país.",
+        "relevancia": "Esta evidencia es relevante porque aborda directamente el control de incendios intencionales, delitos ambientales y la fortificación de la protección en parques y territorios indígenas, lo que se alinea con el fortalecimiento institucional para controlar actores dañinos y la reducción de daños a ecosistemas."
+      }
+    },
+    "peor_alineado": {
+      "plan": "morena.md",
+      "razón": "Este plan se alinea peor porque solo describe la crisis ambiental actual, como deforestación e incendios, sin proponer acciones concretas para fortalecer instituciones, endurecer penas, o implementar planes específicos contra daños ambientales, lo que resulta en un apoyo deficiente a los elementos clave de la afirmación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "CONTEXTO ACTUAL(2)",
+        "texto_citado": "En el plano ambiental, enfrentamos una crisis silenciosa pero devastadora. La deforestación masiva, los incendios forestales recurrentes, la contaminación hídrica y la pérdida de biodiversidad amenazan no sólo a los ecosistemas, sino la vida misma. La ausencia de políticas de protección ambiental efectivas y el avance indiscriminado del extractivismo han vulnerado los derechos de la Madre Tierra.",
+        "relevancia": "Esta evidencia es relevante porque solo diagnostica problemas sin ofrecer soluciones o propuestas para fortalecer instituciones, aumentar penalidades, o combatir actividades ilegales, contradiciendo la necesidad de acciones proactivas expresadas en la afirmación."
+      }
+    }
+  }
+}

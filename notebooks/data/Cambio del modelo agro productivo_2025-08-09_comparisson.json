@@ -1,0 +1,25 @@
+{
+  "afirmación": "Cambio del modelo agro productivo\nPropuestas de cambio del modelo agro productivo vigente, reducción de monocultivos, incentivos para los cultivos orgánicos, diversificación de cultivos. Impuestos al monocultivo. Producción de productos ecológicos de temporada, priorización de plantas nativas. Industrialización de productos, valor agregado. Proyectos de riego sostenible, tecnología agrícola.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan aborda explícitamente múltiples elementos de la afirmación, como diversificación de cultivos, incentivos para lo orgánico, priorización de plantas nativas, industrialización con valor agregado, y sostenibilidad, a través de propuestas concretas en agricultura sostenible y agroforestería.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "3. TRANSFORMACIONES ESTRUCTURALES ▸ 3.4. TRANSFORMACIÓN PRODUCTIVA ▸ Sector Agropecuario: Nuestra seguridad alimentaria(3)",
+        "texto_citado": "Promoveremos la unidad de producción familiar, desarrollando la agricultura sostenible a través de la agroforestería, cría de peces y huertos caseros o comunitarios, incentivando a su vez el consumo de productos locales o regionales a través de la manufactura y conservación de productos caseros, fomentando la agroindustria rural y la biocultura orgánica.",
+        "relevancia": "Este texto apoya directamente la diversificación de cultivos, incentivos para cultivos orgánicos (biocultura orgánica), producción ecológica, priorización de lo local, e industrialización con valor agregado (agroindustria rural), alineándose con el cambio de modelo hacia la sostenibilidad."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "Este plan es el menos alineado, ya que se enfoca únicamente en la transformación industrial sin mencionar elementos clave de la afirmación como reducción de monocultivos, incentivos orgánicos, diversificación, plantas nativas o riego sostenible, resultando en una cobertura superficial y desvinculada del cambio de modelo agropecuario.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "II DESARROLLO ECONÓMICO PARA LA DIVERSIFICACIÓN PRODUCTIVA ▸ 2. LOS EJES PROGRAMÁTICOS, PROPUESTAS Y ACCIONES: ▸ b) POTENCIAR LAS EMPRESAS PÚBLICAS PARA CONSOLIDAR LOS COMPLEJOS PRODUCTIVOS(1)",
+        "texto_citado": "asociación Estado - comunidad en la operación de las plantas industriales que transforman la producción primaria agropecuaria.",
+        "relevancia": "Esta sección solo aborda la industrialización sin referirse a la diversificación, sostenibilidad, reducción de monocultivos u otros aspectos ecológicos, lo que contradice el enfoque integral de la afirmación y muestra una alineación mínima."
+      }
+    }
+  }
+}

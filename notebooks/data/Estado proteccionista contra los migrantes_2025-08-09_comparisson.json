@@ -1,0 +1,25 @@
+{
+  "afirmación": "Estado proteccionista contra los migrantes\nLos planes que rechazan la apertura para acoger a migrantes de países extranjeros que buscan trabajo en Bolivia. Pueden exponer un discurso excluyente y castigador con los ciudadanos extranjeros indocumentados y de bajos recursos.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "nueva-generacion-patriotica.md",
+      "razón": "El plan se enfoca exclusivamente en problemas internos como la corrupción, sin mencionar políticas migratorias o apertura hacia migrantes extranjeros, lo que podría alinearse con un enfoque proteccionista al ignorar la acogida de inmigrantes y reflejar desinterés en asuntos de migración externa.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "Problemas principales que enfrenta Bolivia ▸ Corrupción estructural y captura del Estado",
+        "texto_citado": "Bolivia enfrenta una crisis de corrupción profundamente arraigada en el sistema de gobierno. Las instituciones públicas han sido capturadas y manipuladas por intereses políticos y personales, lo que limita su capacidad para actuar en beneficio de los ciudadanos. La corrupción afecta todos los niveles de gobierno, fomentando un ambiente de impunidad y abuso de poder.",
+        "relevancia": "La ausencia total de mención a migración extranjera y el énfasis en crisis internas podrían indicar una postura implícita de no apertura, alineándose con el rechazo a acoger migrantes descrito en la afirmación."
+      }
+    },
+    "peor_alineado": {
+      "plan": "morena.md",
+      "razón": "El plan promueve activamente la apertura internacional mediante acuerdos para facilitar el libre tránsito y movilidad de bolivianos, lo que contradice el discurso excluyente al fomentar cooperación y reciprocidad migratoria, sugiriendo una postura menos proteccionista y más integradora que no se alinea con el rechazo a la apertura.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "EJE 9 - POLÍTICA INTERNACIONAL INTEGRADORA Y SOBERANA ▸ 3. Ampliación de acuerdos de liberación recíproca de visas",
+        "texto_citado": "Facilitar el libre tránsito de bolivianas y bolivianos por el mundo, mediante acuerdos bilaterales que eliminen los requisitos de visado para fines turísticos, culturales y educativos.  \n**Acciones:**  \n- Negociar tratados de exención de visa con países de América Latina, Asia, África y Europa. \n- Establecer mecanismos de reciprocidad equilibrada en las condiciones migratorias. \n- Promover la movilidad internacional de jóvenes, estudiantes, artistas y emprendedores.",
+        "relevancia": "Esta sección enfatiza la eliminación de barreras migratorias y la promoción de movilidad, lo que implica una política de apertura que contrasta con el rechazo a la acogida de migrantes extranjeros y podría contradecir el discurso excluyente de la afirmación."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "afirmación": "Industrialización de materias primas\nPlanes de incentivos para la industrialización de materias primas, los gobiernos de Bolivia no se han ocupado seriamente de la industrialización y han mantenido la lógica extractivista de materias primas sin valor agregado. ¿Como se planifica convertir al país en una potencia industrial?",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan aborda directamente la industrialización de materias primas con propuestas concretas para añadir valor agregado, como la producción de baterías y tecnología a partir de recursos como el litio, superando la crítica extractivista y detallando estrategias para posicionar a Bolivia como potencia industrial.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "8. TRANSICIÓN ENERGÉTICA Y SOSTENIBILIDAD AMBIENTAL ▸ 2. Revolución del Litio y la energía estratégica",
+        "texto_citado": "- Se dará un salto cualitativo en la industrialización del litio con valor agregado. No venderemos carbonato: produciremos baterías, componentes y tecnología con sello boliviano.\n- Se desarrollarán parques industriales estratégicos en Potosí y Oruro, bajo control estatal y con participación público-comunitaria.\n- Se promoverá una Alianza Internacional del Litio del Sur Global, con Argentina, Chile y otros países del G77, para garantizar precios justos, soberanía tecnológica y un mercado regional integrado.",
+        "relevancia": "Esta evidencia es altamente relevante porque propone específicamente industrializar el litio con valor agregado, evitando la exportación de materias primas sin procesar, y establece planes para desarrollo industrial y soberanía tecnológica, alineándose con el llamado a convertir a Bolivia en una potencia industrial."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-la-fuerza-del-pueblo.md",
+      "razón": "Este plan no aborda la industrialización de materias primas ni ofrece incentivos directos; se centra en proyectos energéticos renovables y sinergias con otros sectores, sin mencionar estrategias para superar el extractivismo o añadir valor agregado, lo que refleja una alineación débil con la crítica y la pregunta del statement.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "PROPUESTAS, PLANES Y PROYECTOS ▸ PLAN de Generación de un Proyecto de Soluciones Sostenibles para la dependencia Energética en Bolivia ▸ X. AMPLIANDO LA VINCULACIÓN CON OTROS SECTORES PARA MAXIMIZAR BENEFICIOS",
+        "texto_citado": "La propuesta original presenta una sólida base para un proyecto de energías renovables comunitarias en Bolivia. Al explorar las sinergias con otros sectores estratégicos como el turismo, la agricultura y la industria, podemos potenciar los beneficios del proyecto y generar un impacto aún mayor.",
+        "relevancia": "Esta evidencia tiene baja relevancia porque se enfoca en energía renovable y beneficios intersectoriales, sin referirse a la industrialización de materias primas, planes de incentivos o superación del modelo extractivista, contradiciendo así la necesidad expuesta en el statement."
+      }
+    }
+  }
+}

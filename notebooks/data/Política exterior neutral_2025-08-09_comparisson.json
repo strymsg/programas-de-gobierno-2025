@@ -1,0 +1,25 @@
+{
+  "afirmación": "Política exterior neutral\nEste tipo de política exterior establece relaciones de cooperación con países vecinos y cualquier país independientemente de si su alineación política sea oriental u occidental. Sin embargo, los acuerdos de cooperación no incluyen poner en riesgo la soberanía ni adminten injerencia descontrolada. Por ejemplo los planes de gobierno no sugieren establecimiento de bases militares o otorgar inmunidad diplomática a países externos.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan promueve explícitamente una política exterior basada en el interés nacional y alejada de alineamientos ideológicos, lo que apoya la cooperación sin distinción política y evita injerencias, alineándose con la neutralidad.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "10. Desarrollo institucional: Fortaleciendo las estructuras del Estado ▸ Política Exterior para la Inserción Global(0)",
+        "texto_citado": "Propondremos una política exterior que reconcilie a Bolivia con el mundo y con los organismos internacionales, orientada por la defensa del interés nacional y alejada de alineamientos ideológicos o alianzas coyunturales que han perjudicado nuestra inserción global. Seremos firmes defensores del derecho internacional y dejaremos atrás los alineamientos ideológicos que aislaron al país, restándole oportunidades económicas y diplomáticas. Recuperaremos la capacidad de interlocución política y cooperación internacional con una agenda común basada en los valores universales de la democracia, la paz y los derechos humanos.",
+        "relevancia": "Este texto rechaza alineamientos ideológicos y enfatiza la cooperación universal basada en valores compartidos, sin favorecer bloques políticos, lo que encaja con la neutralidad y evita riesgos de injerencia."
+      }
+    },
+    "peor_alineado": {
+      "plan": "morena.md",
+      "razón": "Su enfoque en fortalecer el Sur Global y grupos específicos como el Grupo 77+China sugiere una alineación con intereses regionales, contradiciendo la imparcialidad requerida para cooperar con cualquier país sin distinción política.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "EJE 9 - POLÍTICA INTERNACIONAL INTEGRADORA Y SOBERANA ▸ 8. Reforma de la institucionalidad internacional en favor del Sur Global",
+        "texto_citado": "Impulsar la democratización del sistema multilateral, dando mayor voz y poder de decisión a los países del Sur Global. Acciones: Proponer reformas al sistema de Naciones Unidas, incluyendo el Consejo de Seguridad. Fortalecer el Grupo 77+China como plataforma de negociación y cooperación. Crear y apoyar bloques regionales del Sur que promuevan agendas comunes.",
+        "relevancia": "Este texto favorece activamente a países del Sur Global, lo que implica un sesgo contra otros bloques políticos, contradiciendo la neutralidad al no promover relaciones equitativas con todos los países independientemente de su orientación política."
+      }
+    }
+  }
+}

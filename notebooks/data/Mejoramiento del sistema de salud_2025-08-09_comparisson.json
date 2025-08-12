@@ -1,0 +1,25 @@
+{
+  "afirmación": "Mejoramiento del sistema de salud\nPropuestas de mejoramiento del sistema de salud, esto incluye un análisis del sistema actual y sus falencias. También planes de reestructuración y asignación de recursos con cifras aproximadas. Facilitamiento de importación de medicamientos y incentivo para la producción local. Atención al sector de trabajadores de salud, asignación de ítems y redistribución. Inversión en infraestructura médica y campañas de prevención de enfermedades. Por último, Creación o mejoramiento de fondos de emergencia médica y subsidios a la población.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-la-fuerza-del-pueblo.md",
+      "razón": "Este plan aborda múltiples aspectos de la declaración, como reestructuración del sistema, inversión en infraestructura, programas de prevención, atención al personal de salud y financiamiento sostenible, aunque no incluye cifras aproximadas ni detalles específicos sobre importación de medicamentos.",
+      "puntaje": 8,
+      "evidencia_clave": {
+        "sección": "Eje 18: Reforma en el sistema de salud",
+        "texto_citado": "Segmentación del sistema de salud... Busca integrar los tres subsistemas... Financiamiento sostenible... El sistema se financia a través del Tesoro General de la Nación, aportes patronales e impuestos... Formación y Capacitación del Personal de Salud... Programa Nacional de Capacitación Continua...",
+        "relevancia": "Esta sección alinea directamente con la reestructuración del sistema, asignación de recursos implícita en financiamiento, y atención al personal de salud mediante capacitación, cubriendo elementos clave de la declaración."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "Este plan se limita a un diagnóstico general de falencias sin proponer acciones concretas de mejoramiento, como reestructuración detallada, asignación de recursos con cifras, medidas para medicamentos, atención al personal, infraestructura específica, campañas de prevención, o fondos de emergencia.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "IV REVOLUCIÓN EN SALUD: ACCESO, DIGNIDAD Y FUTURO ▸ 1. DIAGNÓSTICO GENERAL(1)",
+        "texto_citado": "sis sanitarias puede ser insuficiente... La medicina tradicional... no se integra... deporte... limitado por falta de ente regulador, infraestructura adecuada y financiamiento sostenible... es imprescindible adoptar reformas estructurales...",
+        "relevancia": "Solo identifica problemas sin especificar planes de mejoramiento o acciones alineadas con la declaración, como reestructuración con cifras, inversión en infraestructura, o subsidios, mostrando mínima alineación."
+      }
+    }
+  }
+}
