@@ -1,0 +1,25 @@
+{
+  "afirmación": "Regulación y diversificación del sector ganadero\nInversión e incentivos para el ganado camélido, fortalecimiento de redes de distribución de insumos alimenticios y médicos para el sector ganadero. Aseguramiento del abastecimiento nacional antes que las exportaciones, control de exportaciones. Regulación al sector empresarial, propuestas de mecanismos para la penalización de la competencia desleal por parte de grandes actores privados y estatales. Acuerdos de exportación de carne y productos derivados.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "El plan enfatiza la sustitución de importaciones y la reducción de la dependencia de las exportaciones de materias primas, lo que se alinea con la prioridad del abastecimiento nacional antes que las exportaciones y el control de exportaciones, aunque no menciona específicamente el sector ganadero o camélido.",
+      "puntaje": 8,
+      "evidencia_clave": {
+        "sección": "II DESARROLLO ECONÓMICO PARA LA DIVERSIFICACIÓN PRODUCTIVA ▸ 1. ESTADO DE SITUACIÓN ▸ RECONDUCIR EL PROCESO PARA ACELERAR LA INDUSTRIALIZACIÓN",
+        "texto_citado": "reconducir el modelo a partir de reconocer su plena vigencia ante la alternativa neoliberal y hacerlo más efectivo en la búsqueda de la diversificación productiva a través de la industrialización con sustitución de importaciones, que en última instancia nos permita romper las condiciones de la dependencia, que se basa en la exportación de materias primas",
+        "relevancia": "Esta sección apoya el aseguramiento del abastecimiento nacional y el control de exportaciones al promover la producción interna y reducir el enfoque en las exportaciones de materias primas, coincidiendo con la declaración."
+      }
+    },
+    "peor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "El plan promueve activamente las exportaciones, incluyendo el sector de carnes, sin mencionar prioridad para el abastecimiento nacional, controles de exportaciones o regulación específica, lo que contradice directamente la declaración que enfatiza el aseguramiento interno y la regulación.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "3. TRANSFORMACIONES ESTRUCTURALES ▸ 3.3. TRANSFORMACIÓN ECONÓMICA ▸ SECTOR EXTERNO ▸ PROMOCIÓN DE EXPORTACIONES",
+        "texto_citado": "Con base al ahorro que provenga del saneamiento de cuentas estatales y de otras fuentes, se propone que en el sistema financiero nacional, tanto privado como público y sus excedentes, se canalicen hacia sectores exportadores, con énfasis en los no tradicionales mediante préstamos a bajas tasas de interés, para capital condicionados al incremento de la productividad. Los sectores priorizados serán soja, girasol, carnes, nueces, café, azúcar, madera y quinua",
+        "relevancia": "Esta sección contradice el aseguramiento del abastecimiento nacional antes que las exportaciones y el control de exportaciones al incentivar directamente las exportaciones, incluido el sector ganadero, sin condiciones de prioridad interna o regulación."
+      }
+    }
+  }
+}

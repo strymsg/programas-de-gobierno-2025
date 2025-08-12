@@ -1,0 +1,25 @@
+{
+  "afirmación": "Pólitica exterior con Estados Unidos y el bloque occidental\nEstrechar relaciones con Estados Unidos puede ser muestra de la intención de alinearse con el bloque occidental capitalista. Representantes de este bloque son claramente países como Israel, Inglaterra, Alemania, Francia, Argentina, o también, miembros representativos de la OTAN. Hechos concretos son permitir el establecimiento de cooperación militar o bases militares, acuerdos de libre comercio, inmunidad diplomática, acuerdos de cooperación de inteligencia o abrirse a concesiones e inversiones grandes a empresas de los países del bloque occidental capitalista.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "El plan promueve una política exterior basada en el interés nacional que busca reconciliar a Bolivia con el mundo y los organismos internacionales, alejándose de alineamientos ideológicos, pero esta apertura global podría facilitar relaciones más estrechas con el bloque occidental para mejorar la inserción económica y diplomática, alineándose parcialmente con acciones como acuerdos de libre comercio y cooperación internacional.",
+      "puntaje": 7,
+      "evidencia_clave": {
+        "sección": "10. Desarrollo institucional: Fortaleciendo las estructuras del Estado ▸ Política Exterior para la Inserción Global",
+        "texto_citado": "1. Propondremos una política exterior que reconcilie a Bolivia con el mundo y con los organismos internacionales, orientada por la defensa del interés nacional y alejada de alineamientos ideológicos o alianzas coyunturales que han perjudicado nuestra inserción global.\n2. Seremos firmes defensores del derecho internacional y dejaremos atrás los alineamientos ideológicos que aislaron al país, restándole oportunidades económicas y diplomáticas. Recuperaremos la capacidad de interlocución política y cooperación internacional con una agenda común basada en los valores universales de la democracia, la paz y los derechos humanos.\n3. En ese marco, la política exterior se orientará a contribuir a la superación de la crisis económica interna, a reforzar la gobernabilidad democrática, a promover la transformación productiva y a consolidar una revolución expor",
+        "relevancia": "Esta sección enfatiza la necesidad de cooperación internacional y el fin del aislamiento, lo que puede interpretarse como favorable al establecimiento de relaciones pragmáticas con diversos actores, incluido el bloque occidental, para impulsar oportunidades económicas como acuerdos de libre comercio e inversiones, aunque rechaza explícitamente alineamientos ideológicos que podrían limitar dicha apertura."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "El plan se centra en fortalecer modelos económicos alternativos como la economía comunitaria y social, presentándolos como opuestos a las empresas privadas capitalistas, lo que sugiere resistencia a la apertura hacia grandes inversiones y concesiones a empresas del bloque occidental, contradiciendo directamente los hechos concretos de la afirmación.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "II DESARROLLO ECONÓMICO PARA LA DIVERSIFICACIÓN PRODUCTIVA ▸ 2. LOS EJES PROGRAMÁTICOS, PROPUESTAS Y ACCIONES: ▸ e) FORTALECIMIENTO DE LA ECONOMÍA COMUNITARIA Y OTRAS FORMAS Y/O ACTORES ECONÓMICOS",
+        "texto_citado": "- Impulsar el crecimiento sostenido de la economía comunitaria, cooperativa, así como las empresas sociales y comunitarias, fomentando su desarrollo productivo, la generación de empleo y la inclusión social para el bienestar de la población.\n- Asegurando la soberanía alimentaria desde la economía comunitaria y cooperativa\n- Modificación de la Ley de Empresas Sociales, que incorpore mecanismos de apoyo económico, no sólo como salvataje de las empresas privadas en quiebra, sino como otra forma de propiedad de empresas y como una alternativa de economía solidaria y colectiva.",
+        "relevancia": "Al promover activamente la economía comunitaria y social como alternativa a las empresas privadas capitalistas, esta sección indica una preferencia por sistemas económicos que podrían limitar o evitar concesiones e inversiones grandes de empresas occidentales, contradiciendo la apertura económica descrita en la afirmación y reflejando un enfoque menos alineado con el bloque capitalista."
+      }
+    }
+  }
+}

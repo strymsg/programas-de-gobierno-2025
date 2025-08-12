@@ -1,0 +1,25 @@
+{
+  "afirmación": "Compromiso con energías renovables\nSe garantiza la inversión en energías renovables, paneles solares, turbinas heólicas, plantas de procesamiento de hidrógeno, baterías. Creación de incentivos para empresas que usen y/o implementen energías renovables. El objetivo es el cambio de la matriz energética, reducción de dependencia del petróleo, gasolina, gas natural, querosene, carbón. Investigación generación de electricidad a partir de fuentes renovables.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-la-fuerza-del-pueblo.md",
+      "razón": "Este plan demuestra un fuerte apoyo a la inversión en energías renovables, creación de incentivos fiscales explícitos, investigación en desarrollo tecnológico, y objetivos claros para cambiar la matriz energética y reducir la dependencia de combustibles fósiles, alineándose directamente con los componentes clave de la afirmación.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "PROPUESTAS, PLANES Y PROYECTOS ▸ PLAN de Generación de un Proyecto de Soluciones Sostenibles para la dependencia Energética en Bolivia ▸ XIV. POLÍTICAS PÚBLICAS Y MARCOS REGULATORIOS PARA EL DESARROLLO DE LAS ENERGÍAS RENOVABLES EN BOLIVIA ▸ 1. Marco Regulatorio Actual",
+        "texto_citado": "El marco regulatorio boliviano para las energías renovables ha evolucionado significativamente en los últimos años. Algunos de los principales instrumentos incluyen:  \n- a. Ley de la Madre Tierra: Esta ley establece el principio de vivir bien y promueve el uso sostenible de los recursos naturales, incluyendo las energías renovables.\n- b. Decretos Supremos: Se han emitido diversos decretos supremos que regulan aspectos específicos de la generación, transmisión y distribución de energía eléctrica a partir de fuentes renovables. Estos decretos establecen mecanismos de remuneración, incentivos fiscales y requisitos técnicos.\n- c. Plan Nacional de Desarrollo. El Plan Nacional de Desarrollo incorpora objetivos específicos para el desarrollo de las energías renovables y la eficiencia energética.\n- d. Plan Eléctrico Nacional: Este plan establece las metas",
+        "relevancia": "Esta sección menciona 'incentivos fiscales' que alinean directamente con la creación de incentivos para empresas en la afirmación, y establece objetivos para energías renovables, apoyando el cambio de matriz energética y reducción de dependencia fósil. Además, otras secciones del mismo plan refuerzan la inversión y cooperación en tecnologías como solar y eólica."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-libertad-y-democracia.md",
+      "razón": "Este plan, aunque propone aumentar la generación renovable al 50%, se centra en 'resucitar el gas' y depende de exportaciones de gas natural, contradiciendo el objetivo de reducir la dependencia de combustibles fósiles como el gas natural. No menciona incentivos específicos para empresas, ni investigación en tecnologías como hidrógeno o baterías, mostrando una alineación débil con la afirmación.",
+      "puntaje": 4,
+      "evidencia_clave": {
+        "sección": "II REACTIVAR LA PRODUCCION ▸ 2.1 Resucitar el Gas ▸ Medidas estructurales",
+        "texto_citado": "ica, solar y geotérmica). De esta manera ir modificando la matriz de generación eléctrica para llegar al menos a un 50% de generación de fuentes renovables.  \nCon las anteriores medidas, se resuelve el problema del Gas, se reduce el problema de las importaciones de combustibles y nos da una ventana de oportunidad para que lleguen las inversiones que descubran gas y poder regresar a los niveles de producción que se tuvieron en 2014 para incrementar las exportaciones de gas.",
+        "relevancia": "Esta sección enfatiza la dependencia del gas natural y las exportaciones de gas, lo que contradice directamente la reducción de dependencia de combustibles fósiles como el gas natural en la afirmación. Además, carece de detalles sobre incentivos para empresas o investigación específica."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "afirmación": "Economía circular y procesamiento de residuos\nInversión en reciclaje y economía circular, plantas de reciclaje y acopio de basura. Tratamiento de depósitos de basura, fabricación de abonos orgánicos a partir de resuduos. Control de tratamiento desechos para las empresas, sanciones para infractores. Incentivos tributarios para emprendimientos verdes y tratamiento de residuos.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "apb-sumate.md",
+      "razón": "Este plan presenta una alineación fuerte con la afirmación al proponer medidas explícitas para el reciclaje, la industrialización de residuos sólidos como fuente de energía, y un marco regulatorio que fomenta inversiones en tecnologías limpias, lo que incluye incentivos y alianzas público-privadas relevantes para el tratamiento de residuos.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "4. EJES ESTRATÉGICOS ▸ TURISMO SOSTENIBLE Y CONECTADO: MOTOR DE DESARROLLO ECONÓMICO Y CULTURAL ▸ MEDIOAMBIENTE Y DESARROLLO SOSTENIBLE",
+        "texto_citado": "Impulsaremos mercados de carbono, certificaciones verdes y alianzas público-privadas para la reforestación, el reciclaje y la transición hacia energías renovables. Promoveremos también la industrialización de los residuos sólidos como fuente alternativa de energía, genera",
+        "relevancia": "Este texto aborda directamente la inversión en reciclaje y tratamiento de residuos (industrialización como fuente de energía), junto con incentivos a través de certificaciones y alianzas, alineándose con aspectos clave como plantas de reciclaje, fomento de emprendimientos verdes y manejo sostenible de desechos."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan muestra baja alineación al enfocarse en desarrollo emprendedor y sectores como agroindustria sin mencionar economía circular, reciclaje, tratamiento de residuos o incentivos específicos para desechos, limitando su relevancia para la afirmación.",
+      "puntaje": 3,
+      "evidencia_clave": {
+        "sección": "7. Desarrollo Productivo: Revolución del emprendimiento. ▸ Desarrollo de un ecosistema emprendedor.",
+        "texto_citado": "tartups escalables. Impulsaremos la creación y escalamiento de empresas tecnológicas en sectores estratégicos como agroindustria, energías limpias, educación, salud y turismo inteligente, promoviendo el desarrollo de productos con alto valor agregado.",
+        "relevancia": "Aunque menciona energías limpias, el texto no aborda reciclaje, tratamiento de residuos, sanciones o incentivos tributarios para economía circular, lo que resulta en mínima conexión con los elementos centrales de la afirmación como inversión en plantas de reciclaje o control de desechos."
+      }
+    }
+  }
+}

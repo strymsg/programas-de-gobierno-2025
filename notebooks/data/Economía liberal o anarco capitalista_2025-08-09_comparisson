@@ -1,0 +1,25 @@
+{
+  "afirmación": "Economía liberal o anarco capitalista\nUn plan económico liberal sugiere la flexibilización por parte del estado de las regulaciones para el sector empresarial privado. Se facilita e incentiva la inversión privada, reduciendo impuestos y requisitos para la profileracióin de negocios y actividades económicas. Acuerdos de libre comercio son esperados, también reducción del estado y establecimiento de paraísos fiscales para facilitar la inversión extranjera. Es también esperado que el gobierno reduzca el poder del banco central y se alinea con el bloque capitalista, por ejemplo relaciones estrechas con la Argentina bajo el gobierno de Javier Milei, Israel, Estados Unidos, etc.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "libertad-y-progreso-adn.md",
+      "razón": "Este plan promueve explícitamente la reducción de regulaciones, impuestos y tamaño del estado, además de enfatizar el mercado libre como asignador óptimo de recursos, alineándose directamente con los principios de flexibilización, inversión privada y libre comercio de la afirmación.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "(4)",
+        "texto_citado": "sí y el deterioro de la economía no puede esperar, deberemos concentramos en un principio en lo urgente: parar la inflación. Para ello reduciremos inmediatamente el gasto público, lo que significa reducir el tamaño del Estado reduciendo su planilla, cerrando las empresas públicas deficitarias y eliminando el subsidio a los hidrocarburos. Al mismo tiempo liberaremos completamente las exportaciones para apuntalar las reservas internacionales. Una vez realizadas estas tareas, podremos emprender la reforma de la Constitución, la restauración de las libertades y la reforma de la justicia para que todos los ciudadanos seamos iguales ante la ley, el establecimiento de la vigencia del estado derecho y la seguridad jurídica para fomentar la inversión, la reforma tributaria para reducir impuestos y hacerlos fácil de pagar, la reforma al comercio exterior eliminando aranceles, la reforma al mercado laboral para reducir regulaciones y hacer más fácil y barata la contratación formal, y sobre todo el rescate de la propiedad privada en la economía informal para que los comerciantes y gremiales se conviertan en capitalistas formales.",
+        "relevancia": "Esta sección propone medidas concretas como reducir impuestos, eliminar aranceles para libre comercio, y disminuir regulaciones laborales, facilitando la inversión privada y reduciendo la intervención estatal, lo que apoya directamente la afirmación de economía liberal."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan se centra en optimizar el rol del estado mediante inversión pública y gasto eficiente, sin proponer flexibilización regulatoria significativa, reducción de impuestos o promoción activa del sector privado, lo que contradice el enfoque liberal de minimizar la intervención estatal.",
+      "puntaje": 4,
+      "evidencia_clave": {
+        "sección": "10. Desarrollo institucional: Fortaleciendo las estructuras del Estado ▸ Eficiencia de la Inversión Pública y el Gasto Público.(2)",
+        "texto_citado": "a rentabilidad económica y/o social, con gobernanza corporativa moderna y rendición de cuentas permanente.\n5. Optimizaremos la inversión pública, priorizando proyectos con mayor rentabilidad social y económica. Bolivia presenta un bajo multiplicador fiscal comparado con otros países de la región, lo que nos obliga a reorientar los recursos hacia sectores estratégicos como educación, salud, infraestructura básica y servicios esenciales, donde el impacto social es más directo, equitativo y sostenible.\n6. Dejaremos de financiar empresas estatales inviables y proyectos fracasados que solo generan presión sobre las finanzas públicas. Esta reorientación liberará espacio fiscal para redistribuir la inversión pública hacia sectores de alto impacto. La infraestructura en transporte, comunicaciones, agua y saneamiento, así como la inversión social en educaci",
+        "relevancia": "El enfoque en priorizar la inversión pública y la rentabilidad social mantiene un rol fuerte del estado, sin mencionar reducción de impuestos, flexibilización regulatoria o incentivos para inversión privada, contradiciendo la afirmación que aboga por una economía liberal con menor intervención gubernamental."
+      }
+    }
+  }
+}

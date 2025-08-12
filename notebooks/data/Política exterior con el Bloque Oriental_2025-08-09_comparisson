@@ -1,0 +1,25 @@
+{
+  "afirmación": "Política exterior con el Bloque Oriental\nEstrehar relaciones con China, Rusia, Irán, Pakistán, Venezuela, Cuba puede ser muestra de la intención de alinearse con el bloque oriental socialista. Los países miembros del BRICS son países con intenciones similares. Hechos concretos son permitir el establecimiento de cooperación militar o bases militares, acuerdos de libre comercio, inmunidad diplomática, acuerdos de cooperación de inteligencia o abrirse a concesiones e inversiones grandes a empresas de los países del bloque oriental.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "morena.md",
+      "razón": "Este plan promueve explícitamente el fortalecimiento del Grupo 77+China, que incluye a China, un país central del bloque oriental, apoyando la cooperación y negociación con naciones del Sur Global, lo que alinea con la intención de estrechar relaciones con países socialistas como China y fomentar acuerdos mutuos.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "EJE 9 - POLÍTICA INTERNACIONAL INTEGRADORA Y SOBERANA ▸ 8. Reforma de la institucionalidad internacional en favor del Sur Global",
+        "texto_citado": "Impulsar la democratización del sistema multilateral, dando mayor voz y poder de decisión a los países del Sur Global.  \n**Acciones:**  \n- Proponer reformas al sistema de Naciones Unidas, incluyendo el Consejo de Seguridad.  \n- Fortalecer el Grupo 77+China como plataforma de negociación y cooperación.  \n- Crear y apoyar bloques regionales del Sur que promuevan agendas comunes.",
+        "relevancia": "La acción de fortalecer el Grupo 77+China demuestra un compromiso con la cooperación con China, país clave del bloque oriental, lo que respalda la afirmación de alinearse con este bloque mediante plataformas de negociación y acuerdos mutuos."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan enfatiza en dejar atrás los alineamientos ideológicos y promover una política exterior basada en valores universales como democracia y derechos humanos, lo que contradice directamente la afirmación de alinearse con el bloque oriental socialista, al rechazar explícitamente posturas ideológicas que podrían incluir relaciones preferenciales con países como Rusia o China.",
+      "puntaje": 1,
+      "evidencia_clave": {
+        "sección": "10. Desarrollo institucional: Fortaleciendo las estructuras del Estado ▸ Política Exterior para la Inserción Global(0)",
+        "texto_citado": "1. Propondremos una política exterior que reconcilie a Bolivia con el mundo y con los organismos internacionales, orientada por la defensa del interés nacional y alejada de alineamientos ideológicos o alianzas coyunturales que han perjudicado nuestra inserción global.  \n2. Seremos firmes defensores del derecho internacional y dejaremos atrás los alineamientos ideológicos que aislaron al país, restándole oportunidades económicas y diplomáticas. Recuperaremos la capacidad de interlocución política y cooperación internacional con una agenda común basada en los valores universales de la democracia, la paz y los derechos humanos.  \n3. En ese marco, la política exterior se orientará a contribuir a la superación de la crisis económica interna, a reforzar la gobernabilidad democrática, a promover la transformación productiva y a consolidar una revolución expor",
+        "relevancia": "El texto rechaza claramente los alineamientos ideológicos, argumentando que han perjudicado al país, lo que se opone a la afirmación de establecer relaciones preferenciales con el bloque oriental socialista, promoviendo en cambio una política neutral y basada en principios universales."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "afirmación": "Independencia de poderes\nSe prioriza la independencia de poderes ejecutivo, legislativo y judicial. Esto proponiendo medidas que eviten el intervencionismo entre órganos estatales, por ejemplo evitando actuación del poder ejecutivo y legislativo a la hora de emitir sentencias judiciales. También se deben mencionar políticas públicas para que la ciudadanía haga control efectivo del bien público y tenga los mecanismos para denunciar o reclamar derechos constitucionales con garantías en caso de injerencia entre poderes del estado.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "libertad-y-progreso-adn.md",
+      "razón": "Este plan aborda explícitamente la separación y cooperación de poderes como base para una justicia independiente, y propone reformas concretas como un nuevo procedimiento de nominación de magistrados basado en méritos, lo cual evita intervencionismo político y fomenta la imparcialidad. Además, al enfatizar un sistema transparente, facilita indirectamente el control ciudadano.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "B. DIEZ IDEAS-FUERZA ▸ Idea-Fuerza 5: Reformar la Justicia",
+        "texto_citado": "En la sociedad a la que aspiramos, la justicia debe garantizar el equilibrio de los órganos principales y fortalecer la confianza ciudadana. La separación, coordinación y cooperación de poderes tiene como presupuesto formal y material un sistema de justicia independiente, eficaz y transparente que garantice un acceso igualitario a sus servicios. Estas reformas son fundamentales para tener una justicia imparcial, equitativa y accesible, garantizando el cumplimiento de los derechos y el respeto a las leyes.  \n- Iniciar un proceso de Reforma Judicial para el país.\n- Eliminar la justicia indígena, originaria y campesina.\n- Simplificar las leyes y reducir la necesidad de reglamentos.\n- Establecer un procedimiento nuevo para la nominación de magistrados, que se implementará dentro de los límites de las instituciones de la justicia y se basará en méritos",
+        "relevancia": "La mención directa de 'separación, coordinación y cooperación de poderes' y la propuesta de un procedimiento meritocrático para nominar magistrados se alinean con evitar intervencionismo entre poderes, asegurando que el judicial opere sin injerencias del ejecutivo o legislativo."
+      }
+    },
+    "peor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "Este plan no aborda específicamente la independencia entre poderes ni medidas para evitar intervencionismo del ejecutivo o legislativo en sentencias judiciales; se enfoca en reformas internas como acceso a justicia y actualización normativa, pero sin mencionar mecanismos contra injerencia o políticas claras para control ciudadano en casos de conflicto entre poderes.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "VIII TRANSFORMACIÓN ESTRUCTURAL DE LA JUSTICIA ▸ 2. LOS EJES PROGRAMÁTICOS, PROPUESTAS Y ACCIONES. ▸ a) Justicia pronta y oportuna",
+        "texto_citado": "ación judicial y extrajudicial, arbitraje y mediación en todas las áreas.\n- Centros de arbitraje a conflictos empresariales bajo jurisdicción del sistema de justicia del Estado.\n- Crear una red de jueces de paz en zonas rurales y periurbanas para garantizar el acceso a la justicia en todo el territorio.\n- Desarrollo e implementación de la justicia de paz a través de capacitaciones y recursos.\n- Igualdad de Oportunidades:\n- Asegurar que, todos los ciudadanos, independientemente de su condición económica, social, género o generación tengan acceso a asistencia legal gratuita.\n- Fomentar la paridad de género y la inclusión de poblaciones vulnerables en el sistema judicial.\n- Materialización de principios constitucionales",
+        "relevancia": "Aunque promueve acceso a justicia y principios constitucionales, la ausencia de referencias a separación de poderes, prevención de intervencionismo o mecanismos específicos para denuncia ciudadana en casos de injerencia muestra una alineación débil con la afirmación principal."
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "afirmación": "Plurinacionalidad del estado\nReconocimiento del estado boliviano como plurinacional, multiétnico y diverso. Se valora la construcción de un estado que represente los diversos pueblos en Bolivia, valore la diversidad de lenguaje y culturas. Se promueven los saberes ancestrales con programas de recuperación e integración de culturas nativas, se les garantiza la autonomía de decisiones y respeto por las múltiples comunidades políticas.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "Este plan explícitamente reconoce y promueve el Estado Plurinacional, enfatizando su profundización en políticas, representación y educación, e incluye diversos grupos étnicos y culturales, alineándose directamente con el reconocimiento, valoración y promoción de la diversidad mencionada en la afirmación.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "PRINCIPIOS ▸ 2. Unidad en la diversidad: mantener un país plurinacional y plural",
+        "texto_citado": "Bolivia es muchas Bolivias. Y esa diversidad no es una amenaza: es una riqueza que debemos cultivar con responsabilidad. Somos un Estado Plurinacional, y debemos profundizar ese carácter no solo en el discurso, sino en las políticas, en la representación, en la administración pública y en la educación. Nuestro proyecto reafirma el reconocimiento de los pueblos indígenas originarios campesinos, pero también la inclusión de nuevas identidades urbanas, juveniles, afrobolivianas, mestizas, profesionales, y migrantes. La Bolivia que proponemos es una Bolivia donde todos caben, donde nadie sobra, y donde el Estado refleje de verdad la cara plural de su pueblo.",
+        "relevancia": "Este texto apoya la afirmación al reconocer explícitamente el Estado Plurinacional, valorar la diversidad como riqueza, promover su inclusión en políticas públicas y educación, y asegurar que el Estado refleje la pluralidad del pueblo, coincidiendo con los elementos clave de reconocimiento, representación y respeto."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan no aborda la plurinacionalidad, diversidad étnica o cultural; se centra en aspectos económicos, innovación y democracia sin mencionar pueblos indígenas, saberes ancestrales o autonomía, mostrando una falta de alineación con la afirmación que prioriza estos temas.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "12. UNIDOS, encontraremos las soluciones(0)",
+        "texto_citado": "Bolivia vive un momento crucial de su historia. A las puertas de su Bicentenario, enfrentamos desafíos que ponen a prueba nuestra capacidad colectiva de transformar el presente para construir un futuro digno, justo y próspero para todas y todos los bolivianos. Conscientes de esta responsabilidad histórica, desde la Alianza UNIDAD presentamos un programa de gobierno nacido de la reflexión plural, el compromiso democrático y la convicción de que la unidad es el camino para superar las dificultades que hoy atraviesa el país. En un contexto marcado por la crisis económica, la fragmentación social y la desconfianza institucional, la Alianza UNIDAD plantea una alternativa clara y contundente: un Proyecto Nacional centrado en el emprendimiento, la innovación, la justicia social y el fortalecimiento de la democracia. Nuestro programa no es una promesa re",
+        "relevancia": "Este texto no menciona elementos como plurinacionalidad, diversidad cultural, pueblos indígenas o saberes ancestrales; en cambio, se enfoca en economía y democracia general, contradiciendo la afirmación al omitir los aspectos clave de reconocimiento y promoción de la diversidad."
+      }
+    }
+  }
+}

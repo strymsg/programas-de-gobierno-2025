@@ -1,0 +1,25 @@
+{
+  "afirmación": "Lucha contra la minería ilegal\nRevisión del marco normativo relacionado al sector minero, plan de auditorías en la AJAM y los contratos mineros. Fortalecimiento de patrullas de control minero, presencia del estado en minas. Planes efectivos para la regulación de la explotación de oro y redes de explotación de minerales raros. Creación de fuerza conjunta y apoyo de las fuerzas armadas.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "alianza-unidad.md",
+      "razón": "Este plan aborda explícitamente medidas de control contra economías ilegales, incluyendo militarización, seguimiento del oro ilegal, y revisión de concesiones mineras, lo que se alinea directamente con la creación de fuerzas conjuntas, regulación de oro y presencia estatal en la declaración.",
+      "puntaje": 10,
+      "evidencia_clave": {
+        "sección": "10. Desarrollo institucional: Fortaleciendo las estructuras del Estado ▸ La necesidad de formalización(2)",
+        "texto_citado": "Control al contrabando y a economías ilegales. Endureceremos el control a las actividades económicas ilegales mediante la militarización de fronteras clave, control bancario de operaciones sospechosas, y un sistema de seguimiento del comercio ilegal de oro y coca. Se propondrá un esquema gradual en el que la oferta estatal para el oro vaya aumentando, de modo que el Estado compre y regule una buena parte de la producción, como herramienta para desarticular redes de contrabando e informalidad ilícita. 6. Reforma de las concesiones y control a cooperativas ilegales. Revisaremos las concesiones mineras ot",
+        "relevancia": "Esta evidencia menciona endurecimiento de controles con militarización, seguimiento de oro ilegal, y revisión de concesiones, lo que apoya directamente los elementos de la declaración como patrullas, apoyo militar, regulación de oro y revisión normativa."
+      }
+    },
+    "peor_alineado": {
+      "plan": "alianza-popular.md",
+      "razón": "El plan se enfoca en industrialización de minerales críticos y desarrollo soberano, sin abordar minería ilegal, medidas de control o presencia estatal, lo que contradice la necesidad de auditorías, patrullas y fuerzas conjuntas en la declaración.",
+      "puntaje": 2,
+      "evidencia_clave": {
+        "sección": "3. ECONOMÍA, POLÍTICA TRIBUTARIA E INDUSTRIAS ESTRATÉGICAS ▸ Industrias estratégicas ▸ Minería y metalurgia(1)",
+        "texto_citado": "minería privada mantiene márgenes de ganancia desproporcionados en relación con su aporte al país. El mundo transita hacia una nueva era tecnológica basada en minerales críticos como el litio, el cobre, el estaño y las tierras raras, recursos que Bolivia posee en abundancia. No obstante, aún no existe una estrategia nacional consolidada para industrializarlos, protegerlos de la depredación y convertirlos en motores de un desarrollo soberano.",
+        "relevancia": "Esta evidencia omite temas de ilegalidad, controles o fuerzas de seguridad, centrándose en aspectos económicos e industrialización, lo que no apoya y contradice los componentes clave de la declaración como lucha contra minería ilegal y presencia estatal."
+      }
+    }
+  }
+}

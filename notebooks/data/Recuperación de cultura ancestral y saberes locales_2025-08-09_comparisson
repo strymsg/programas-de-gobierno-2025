@@ -1,0 +1,25 @@
+{
+  "afirmación": "Recuperación de cultura ancestral y saberes locales\nLa educación orientada a los saberes ancestrales andinos, amazónicos indican que el programa de gobierno intenta recuperar la cultura local. Enfocarse en los pueblos indígenas y diversidad cultural. Esto incluye incluir lenguas originarias como el quechua, aymara, guaraní, mojeño, etc. en las currículas educativas. Campañas de educación en el sector rural en lengua nativa, proyectos culturaes para revalorizar la diversidad del lenguaje y saberes en medicina, cosmovisión y filosofía antes de la colonización europea.",
+  "comparaciones": {
+    "mejor_alineado": {
+      "plan": "mas-ipsp.md",
+      "razón": "Este plan aborda de manera directa y explícita la recuperación de saberes ancestrales y la protección de expresiones culturales indígenas, con acciones específicas para promover conocimientos precoloniales y descolonización, alineándose con el enfoque en medicina, cosmovisión y filosofía ancestral mencionados en la declaración.",
+      "puntaje": 9,
+      "evidencia_clave": {
+        "sección": "X CULTURA ▸ 2. LOS EJES PROGRAMÁTICOS, PROPUESTAS Y ACCIONES. ▸ d) Descolonización y Despatriarcalización(0)",
+        "texto_citado": "- Consolidar mecanismos de registro y protección de la propiedad intelectual colectiva y comunitaria de bienes culturales de las naciones y pueblos indígena originario campesino y afro boliviano y de comunidades interculturales.\n- Promover la recuperación de saberes y conocimientos ancestrales en el conocimiento y aporte cultural bajo los principios del vivir bien.\n- Generar mecanismos de reconocimiento y validación de las expresiones culturales de las NPIOC sin discriminación.\n- Becas de estudio para formación de servidores/as públicos en descolonización y despatriarcalización.\n- Reconocimiento público de personas naturales y/o jurídicas estatales o privadas que se hayan destacado por su labor en contra de la discriminación racial o toda forma de discriminación.\n- Generación de acciones de respeto a las diversidades sexuales de Bolivia.\n- Escuelas",
+        "relevancia": "Las acciones como 'Promover la recuperación de saberes y conocimientos ancestrales' y 'Generar mecanismos de reconocimiento y validación de las expresiones culturales' se enfocan directamente en revalorizar saberes precoloniales y diversidad cultural, coincidiendo con los aspectos clave de la declaración sobre medicina, cosmovisión y filosofía ancestral, aunque no mencionan explícitamente lenguas originarias."
+      }
+    },
+    "peor_alineado": {
+      "plan": "morena.md",
+      "razón": "Aunque este plan incluye elementos de interculturalidad y conocimiento ancestral en gestión ambiental, su sección educativa es genérica y no especifica acciones concretas para recuperar saberes ancestrales, incluir lenguas originarias en currículas o proyectos culturales detallados, mostrando una alineación más débil con la declaración que enfatiza educación en lenguas nativas y revalorización precolonial.",
+      "puntaje": 6,
+      "evidencia_clave": {
+        "sección": "EJE 5 - JUSTICIA SOCIAL Y DIGNIDAD HUMANA ▸ 1. Universalización del acceso a la salud y educación intercultural y gratuita",
+        "texto_citado": "Garantizar que todos los bolivianos y bolivianas tengan acceso gratuito, equitativo y de calidad a servicios de salud y educación, con pertinencia cultural, territorial y de género.\n**Acciones:**\n- Fortalecer el Sistema Único de Salud con más infraestructura, personal, equipamiento y medicamentos.\n- Promover la medicina intercultural articulando saberes ancestrales y ciencia moderna.\n- Modernizar escuelas y colegios, priorizando zonas rurales y periurbanas.\n- Incluir educación en valores, democracia, justicia social, género y pluralismo cultural en el currículo nacional.",
+        "relevancia": "Aunque menciona 'pertinencia cultural' y 'pluralismo cultural', las acciones son vagas y no detallan la inclusión de lenguas originarias, campañas rurales en lengua nativa o proyectos específicos para saberes en medicina y cosmovisión precolonial, lo que contrasta con la especificidad requerida en la declaración."
+      }
+    }
+  }
+}
